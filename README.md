@@ -7,6 +7,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 ### 3d
 * [bevy_fly_camera](https://crates.io/crates/bevy_fly_camera): A flying camera plugin
 * [Bevy-WoW](https://github.com/Tezza48/Bevy-WoW): A WoW-style camera
+* [bevy_obj](https://github.com/AmionSky/bevy_obj): Wavefront .obj mesh asset loader plugin
 
 ### 2D
 
