@@ -4,7 +4,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 
 ## Plugins and Crates
 
-### 3d
+### 3D
 * [bevy_fly_camera](https://crates.io/crates/bevy_fly_camera): A flying camera plugin
 * [Bevy-WoW](https://github.com/Tezza48/Bevy-WoW): A WoW-style camera
 * [bevy_obj](https://github.com/AmionSky/bevy_obj): Wavefront .obj mesh asset loader plugin
@@ -16,6 +16,10 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 ### Backends
 
 * [prototype_bevy_sdl2](https://github.com/aclysma/prototype_bevy_sdl2): A prototype for SDL2 integration into Bevy 
+
+### Networking
+
+* [bevy_prototype_laminar_networking](https://github.com/ncallaway/bevy-prototype-laminar-networking): A prototype networking plugin using `laminar` as the transport.
 
 ## Games
 
