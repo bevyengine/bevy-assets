@@ -29,6 +29,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [bevy_pong](https://github.com/SuperiorJT/bevy_pong): It's Pong! Based on the "breakout" bevy example
 * [bevy-tetris](https://github.com/8bit-pudding/bevy-tetris): It's Tetris!
 * [i_sjon_kan_ingen_hora_dig_skrika](https://gitlab.com/TheZoq2/i_sjon_kan_ingen_hora_dig_skrika): Swedish rowing boat pirate simulator 2020
+* [labyrinth-game](https://github.com/insrcd/labrynth-game): A humble attempt at a roguelike / market-sim game
 
 ## App
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
