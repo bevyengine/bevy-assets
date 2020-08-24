@@ -20,7 +20,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 ### Networking
 
 * [bevy_prototype_laminar_networking](https://github.com/ncallaway/bevy-prototype-laminar-networking): A prototype networking plugin using `laminar` as the transport.
-* [bevy_prototype_simple_net](https://github.com/0x22fe/bevy_prototype_simple_net): A prototype networking plugin designed to be simple and easy to use.
+* [bevy_prototype_simple_net](https://github.com/0x22fe/bevy_prototype_simple_net): A working prototype networking plugin can create client/server systems over TCP or UDP.
 
 ## Games
 
