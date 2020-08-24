@@ -20,7 +20,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 ### Networking
 
 * [bevy_prototype_laminar_networking](https://github.com/ncallaway/bevy-prototype-laminar-networking): A prototype networking plugin using `laminar` as the transport.
-* [bevy_prototype_simple_net](https://github.com/0x22fe/bevy_prototype_simple_net): A working prototype networking plugin can create client/server systems over TCP or UDP.
+* [bevy_prototype_simple_net](https://github.com/0x22fe/bevy_prototype_simple_net): A working prototype networking plugin that can create client/server systems over TCP or UDP.
 
 ## Games
 
@@ -31,5 +31,5 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [i_sjon_kan_ingen_hora_dig_skrika](https://gitlab.com/TheZoq2/i_sjon_kan_ingen_hora_dig_skrika): Swedish rowing boat pirate simulator 2020
 * [labyrinth-game](https://github.com/insrcd/labrynth-game): A humble attempt at a roguelike / market-sim game
 
-## App
+## Apps
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
