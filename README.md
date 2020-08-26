@@ -31,6 +31,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [i_sjon_kan_ingen_hora_dig_skrika](https://gitlab.com/TheZoq2/i_sjon_kan_ingen_hora_dig_skrika): Swedish rowing boat pirate simulator 2020
 * [labyrinth-game](https://github.com/insrcd/labrynth-game): A humble attempt at a roguelike / market-sim game
 * [bevy_sokoban](https://github.com/ropewalker/bevy_sokoban): Simple implementation of Sokoban
+* [per_spatium](https://gitlab.com/BottledByte/per-spatium): Scroll-down space shooter game
 
 ## Apps
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
