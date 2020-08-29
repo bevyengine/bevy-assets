@@ -2,6 +2,10 @@
 
 An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy projects. If you would like to share what you're working on, submit a PR! Feel free to create new categories where it makes sense.
 
+## Learning
+
+* [Bevy Cheatsheet](https://github.com/jamadazi/bevy-cheatsheet): Concise programming reference for Bevy!
+
 ## Plugins and Crates
 
 ### 3D
