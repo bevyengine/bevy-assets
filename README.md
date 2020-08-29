@@ -5,6 +5,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 ## Learning
 
 * [Bevy Cheatsheet](https://github.com/jamadazi/bevy-cheatsheet): Concise programming reference for Bevy!
+* [Bevy Cookbook](https://github.com/jamadazi/bevy-cookbook): Concise recipes for common game dev tasks
 
 ## Plugins and Crates
 
