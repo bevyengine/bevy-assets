@@ -37,6 +37,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [labyrinth-game](https://github.com/insrcd/labrynth-game): A humble attempt at a roguelike / market-sim game
 * [bevy_sokoban](https://github.com/ropewalker/bevy_sokoban): Simple implementation of Sokoban
 * [per_spatium](https://gitlab.com/BottledByte/per-spatium): Scroll-down space shooter game
+* [bevy_rider](https://github.com/bonsairobo/bevy_rider): Line Rider, riding linearly, on segments of lines
 
 ## Apps
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
