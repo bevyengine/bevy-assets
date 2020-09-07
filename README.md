@@ -8,6 +8,8 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [Bevy Cookbook](https://github.com/jamadazi/bevy-cookbook): Concise recipes for common game dev tasks
 
 ## Plugins and Crates
+### Input
+* [bevy prototype input map](https://crates.io/crates/bevy_prototype_input_map): Input Map will convert user inputs from different input hardware into game specific actions, eg. keyboard "Space" or joystick "A" can be mapped to "Jump" Action.  This allows decoupling of the game code from device specific input api.
 
 ### 3D
 * [bevy_fly_camera](https://crates.io/crates/bevy_fly_camera): A flying camera plugin
