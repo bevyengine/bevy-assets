@@ -33,6 +33,9 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 ### Development tools
 * [bevy-contrib-inspector](https://github.com/jakobhellermann/bevy-contrib-inspector): Visually edit fields of your bevy resources in a browser or native view.
 
+### Helpers
+* [bevy_contrib_colors](https://crates.io/crates/bevy_contrib_colors): A simple color library.
+
 ## Games
 
 * [bevy_nbody](https://github.com/thallada/bevy-nbody): An N-body simulation in Rust
