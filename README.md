@@ -20,6 +20,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 ### 2D
 
 * [bevy_tiled](https://github.com/stararawn/bevy_tiled): A plugin for rendering Tiled maps
+* [bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon): Draw 2D shapes, like triangles, circles, and beziers.
 
 ### Backends
 
