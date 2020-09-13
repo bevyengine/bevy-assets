@@ -48,6 +48,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [bevy_sokoban](https://github.com/ropewalker/bevy_sokoban): Simple implementation of Sokoban
 * [per_spatium](https://gitlab.com/BottledByte/per-spatium): Scroll-down space shooter game
 * [bevy_rider](https://github.com/bonsairobo/bevy_rider): Line Rider, riding linearly, on segments of lines
+* [bevy_squares](https://github.com/TheNeikos/bevy_squares): A remake of the 'Threes' game, built with Bevy
 
 ## Apps
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
