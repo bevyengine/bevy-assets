@@ -49,6 +49,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [per_spatium](https://gitlab.com/BottledByte/per-spatium): Scroll-down space shooter game
 * [bevy_rider](https://github.com/bonsairobo/bevy_rider): Line Rider, riding linearly, on segments of lines
 * [bevy_squares](https://github.com/TheNeikos/bevy_squares): A remake of the 'Threes' game, built with Bevy
+* [Kataster](https://github.com/Bobox214/Kataster): A simple single-screen spaceshooter with rapier2d
 
 ## Apps
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
