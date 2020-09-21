@@ -26,6 +26,10 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 
 * [prototype_bevy_sdl2](https://github.com/aclysma/prototype_bevy_sdl2): A prototype for SDL2 integration into Bevy 
 
+### Physics
+
+* [bevy_rapier](https://github.com/dimforge/bevy_rapier): A plugin for Rapier, a 2D and 3D physics engine. Maintained by the Rapier developers.
+
 ### Networking
 
 * [bevy_prototype_laminar_networking](https://github.com/ncallaway/bevy-prototype-laminar-networking): A prototype networking plugin using `laminar` as the transport.
