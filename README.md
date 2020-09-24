@@ -22,6 +22,10 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [bevy_tiled](https://github.com/stararawn/bevy_tiled): A plugin for rendering Tiled maps
 * [bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon): Draw 2D shapes, like triangles, circles, and beziers.
 
+### UI
+
+* [bevy_ninepatch](https://crates.io/crates/bevy_ninepatch): Display 9-Patch UI elements, where you can specify how different parts of a PNG should grow
+
 ### Backends
 
 * [prototype_bevy_sdl2](https://github.com/aclysma/prototype_bevy_sdl2): A prototype for SDL2 integration into Bevy 
