@@ -22,6 +22,10 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [bevy_tiled](https://github.com/stararawn/bevy_tiled): A plugin for rendering Tiled maps
 * [bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon): Draw 2D shapes, like triangles, circles, and beziers.
 
+### Animation
+
+* [bevy_easings](https://crates.io/crates/bevy_easings): A plugin for easing a component value to another value, mainly used to animate transition between two transforms, but usable for other components.
+
 ### UI
 
 * [bevy_ninepatch](https://crates.io/crates/bevy_ninepatch): Display 9-Patch UI elements, where you can specify how different parts of a PNG should grow
@@ -58,6 +62,8 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [bevy_rider](https://github.com/bonsairobo/bevy_rider): Line Rider, riding linearly, on segments of lines
 * [bevy_squares](https://github.com/TheNeikos/bevy_squares): A remake of the 'Threes' game, built with Bevy
 * [Kataster](https://github.com/Bobox214/Kataster): A simple single-screen spaceshooter with rapier2d
+* [Keep Inside](https://github.com/davidB/ld47_keep_inside): A solo pong on a circle (made for Ludum Dare 47)
+* [Keep Moving and Nobody Burns](https://github.com/mockersf/kmanb): A bomberman against time (made for Ludum Dare 47)
 
 ## Apps
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
