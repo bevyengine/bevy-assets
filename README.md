@@ -21,6 +21,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 
 * [bevy_tiled](https://github.com/stararawn/bevy_tiled): A plugin for rendering Tiled maps
 * [bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon): Draw 2D shapes, like triangles, circles, and beziers.
+* [bevy_miniquad](https://github.com/smokku/bevy_miniquad): A plugin replacing winit windowing and render pipeline with [miniquad](https://github.com/not-fl3/miniquad) library.
 
 ### Animation
 
