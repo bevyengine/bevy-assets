@@ -6,6 +6,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 
 * [Bevy Cheatsheet](https://github.com/jamadazi/bevy-cheatsheet): Concise programming reference for Bevy!
 * [Bevy Cookbook](https://github.com/jamadazi/bevy-cookbook): Concise recipes for common game dev tasks
+* [Making a Snake Clone](https://mbuffett.com/posts/bevy-snake-tutorial/): Walkthrough on how to make a snake clone
 
 ## Plugins and Crates
 ### Input
