@@ -54,6 +54,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 
 ### Helpers
 * [bevy_contrib_colors](https://crates.io/crates/bevy_contrib_colors): A simple color library.
+* [bevy_prototype_inline_assets](https://crates.io/crates/bevy_prototype_inline_assets): A simple plugin for bundling assets into your binary.
 
 ## Games
 
