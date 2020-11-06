@@ -23,7 +23,6 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 
 * [bevy_tiled](https://github.com/stararawn/bevy_tiled): A plugin for rendering Tiled maps
 * [bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon): Draw 2D shapes, like triangles, circles, and beziers.
-* [bevy_miniquad](https://github.com/smokku/bevy_miniquad): A plugin replacing winit windowing and render pipeline with [miniquad](https://github.com/not-fl3/miniquad) library.
 * [bevy_tilemap](https://github.com/joshuajbouw/bevy_tilemap): A plugin with generic types for rendering multi-threaded chunk-based tile maps.
 
 ### Animation
@@ -37,6 +36,8 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 ### Backends
 
 * [prototype_bevy_sdl2](https://github.com/aclysma/prototype_bevy_sdl2): A prototype for SDL2 integration into Bevy 
+* [bevy_miniquad](https://github.com/smokku/bevy_miniquad): A plugin replacing winit windowing and render pipeline with [miniquad](https://github.com/not-fl3/miniquad) library.
+* [bevy_doryen](https://github.com/smokku/bevy_doryen): A plugin integrating Bevy ECS with [doryen-rs](https://github.com/jice-nospam/doryen-rs) Ascii roguelike library.
 
 ### Physics
 
