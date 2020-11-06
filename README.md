@@ -72,6 +72,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [Kataster](https://github.com/Bobox214/Kataster): A simple single-screen spaceshooter with rapier2d
 * [Keep Inside](https://github.com/davidB/ld47_keep_inside): A solo pong on a circle (made for Ludum Dare 47)
 * [Keep Moving and Nobody Burns](https://github.com/mockersf/kmanb): A bomberman against time (made for Ludum Dare 47)
+* [SiO2](https://github.com/dmitriy-shmilo/sio2): A simple powder toy clone
 
 ## Apps
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
