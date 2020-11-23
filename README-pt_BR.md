@@ -8,6 +8,7 @@ Uma lista [incrível](https://github.com/sindresorhus/awesome) de projetos inter
 * [Folha de dicas para Bevy Game Engine](https://github.com/jamadazi/bevy-cheatsheet): Referência de programação concisa para Bevy!
 * [Livro de receitas para Bevy Game Engine](https://github.com/jamadazi/bevy-cookbook): Receitas concisas para tarefas comuns de desenvolvimento de jogos.
 * [Fazendo um clone de Snake](https://mbuffett.com/posts/bevy-snake-tutorial/): Passo a passo sobre como fazer um clone de Snake
+* [Fazendo um clone de Xadrez em 3D](https://caballerocoll.com/blog/bevy-chess-tutorial): Passo a passo sobre como fazer um clone de Xadrez com peças 3D
 
 ## Plugins e Caixas
 ### Entrada
