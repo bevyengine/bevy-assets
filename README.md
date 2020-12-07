@@ -23,8 +23,8 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 ### 2D
 
 * [bevy_tiled](https://github.com/stararawn/bevy_tiled): A plugin for rendering Tiled maps
+* [bevy_tilemap](https://github.com/joshuajbouw/bevy_tilemap): Chunk rendered tilemap for Bevy game engine.
 * [bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon): Draw 2D shapes, like triangles, circles, and beziers.
-* [bevy_tilemap](https://github.com/joshuajbouw/bevy_tilemap): A plugin with generic types for rendering multi-threaded chunk-based tile maps.
 * [bevy_prototype_parallax](https://github.com/btrepp/bevy-prototype-parallax): A parallax scrolling background plugin.
 
 ### Animation
