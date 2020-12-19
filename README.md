@@ -10,6 +10,10 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [Making a Snake Clone](https://mbuffett.com/posts/bevy-snake-tutorial/): Walkthrough on how to make a snake clone
 * [Making Chess Clone in 3D](https://caballerocoll.com/blog/bevy-chess-tutorial): Walkthrough on how to make a Chess Clone with 3D pieces
 
+### Migration Guides
+
+* [0.3 to 0.4](https://sburris.xyz/posts/bevy-update-0-4/)
+
 ## Plugins and Crates
 ### Input
 * [Kurinji](https://crates.io/crates/kurinji): Input Map for bevy. Converts user input from different input hardware into game specific actions, eg. keyboard "Space" or joystick "A" can be mapped to "Jump" Action.  This allows decoupling of the game code from device specific input api.
