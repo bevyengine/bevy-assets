@@ -14,7 +14,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 
 * [0.3 to 0.4](https://sburris.xyz/posts/bevy-update-0-4/)
 
-### Languages
+### Languages (unofficial / unverified / potentially out of date)
 * [Bevy Chinese Website(Bevy中文网)](https://bevyengine-cn.github.io/): Translate official website and The Bevy Book in Chinese
 
 ## Plugins and Crates
