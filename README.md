@@ -14,6 +14,9 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 
 * [0.3 to 0.4](https://sburris.xyz/posts/bevy-update-0-4/)
 
+### Languages
+* [Bevy Chinese Website(Bevy中文网)](https://bevyengine-cn.github.io/): Translate official website and The Bevy Book in Chinese
+
 ## Plugins and Crates
 ### Input
 * [Kurinji](https://crates.io/crates/kurinji): Input Map for bevy. Converts user input from different input hardware into game specific actions, eg. keyboard "Space" or joystick "A" can be mapped to "Jump" Action.  This allows decoupling of the game code from device specific input api.
