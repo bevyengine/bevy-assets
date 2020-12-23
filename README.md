@@ -83,6 +83,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [Keep Moving and Nobody Burns](https://github.com/mockersf/kmanb): A bomberman against time (made for Ludum Dare 47)
 * [SiO2](https://github.com/dmitriy-shmilo/sio2): A simple powder toy clone
 * [Robbo](https://github.com/mrk-its/bevy-robbo): Bevy port of great 8-bit Atari game, working native and in the browser
+* [Life](https://github.com/DJMcNab/life-rs): Very reproduction of the rules of (Conway's Game of Life)[https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life]
 
 ## Apps
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
