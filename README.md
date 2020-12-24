@@ -29,6 +29,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [Bevy-WoW](https://github.com/Tezza48/Bevy-WoW): A WoW-style camera
 * [bevy_obj](https://github.com/AmionSky/bevy_obj): Wavefront .obj mesh asset loader plugin
 * [bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking): 3d cursor picking and highlighting
+* [bevy_stl](https://github.com/nilclass/bevy_stl): STL mesh asset loader plugin
 
 ### 2D
 
