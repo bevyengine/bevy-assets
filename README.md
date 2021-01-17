@@ -48,6 +48,7 @@ These translations are unofficial, unverified, and potentially out of date.
 
 * [bevy_ninepatch](https://crates.io/crates/bevy_ninepatch): Display 9-Patch UI elements, where you can specify how different parts of a PNG should grow
 * [bevy_megaui](https://github.com/mvlabat/bevy_megaui): A plugin for [megaui](https://crates.io/crates/megaui) integration into Bevy
+* [bevy_egui](https://github.com/mvlabat/bevy_egui): A plugin for [egui](https://crates.io/crates/egui) integration into Bevy
 
 ### Backends
 
