@@ -7,7 +7,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [Official Bevy Examples](https://github.com/bevyengine/bevy/tree/master/examples): Learn each Bevy feature from minimal illustrative examples
 * [Bevy Cheatsheet](https://github.com/jamadazi/bevy-cheatsheet): Concise programming reference for Bevy!
 * [Bevy Cookbook](https://github.com/jamadazi/bevy-cookbook): Concise recipes for common game dev tasks
-* [Understanding Bevy](https://github.com/alice-i-cecile/understanding-bevy): An opinionated guide to Bevy's design patterns and inner workings.
+* [Understanding Bevy](https://alice-i-cecile.github.io/understanding-bevy/): An opinionated guide to Bevy's design patterns and inner workings.
 * [Making a Snake Clone](https://mbuffett.com/posts/bevy-snake-tutorial/): Walkthrough on how to make a snake clone
 * [Making Chess Clone in 3D](https://caballerocoll.com/blog/bevy-chess-tutorial): Walkthrough on how to make a Chess Clone with 3D pieces
 
