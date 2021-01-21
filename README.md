@@ -70,7 +70,8 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy_networking_turbulence](https://github.com/smokku/bevy_networking_turbulence): Networking plugin running on [naia-socket](https://github.com/naia-rs/naia-socket) and [turbulence](https://github.com/kyren/turbulence) libraries.
 
 ### Development tools
-* [bevy-contrib-inspector](https://github.com/jakobhellermann/bevy-contrib-inspector): Visually edit fields of your bevy resources in a browser or native view.
+* [bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui): Visually edit fields of structs inside the game using [egui](https://github.com/emilk/egui).
+* [bevy-contrib-inspector](https://github.com/jakobhellermann/bevy-contrib-inspector): Like `bevy-inspector-egui`, but let's you edit your structs inside a browser instead of in-game.
 
 ### Helpers
 * [bevy_contrib_colors](https://crates.io/crates/bevy_contrib_colors): A simple color library.
