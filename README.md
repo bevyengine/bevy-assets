@@ -32,6 +32,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking): 3D mouse picking and ray casting plugin
 * [bevy_stl](https://github.com/nilclass/bevy_stl): STL mesh asset loader plugin
 * [bevy_vox](https://github.com/erasin/bevy_vox): MagicaVoxel Vox file loader plugin
+* [bevy_4x_camera](https://crates.io/crates/bevy_4x_camera): A 4X style camera for bevy. [Demo](https://imgur.com/XIIDcIW)
 
 ### 2D
 
