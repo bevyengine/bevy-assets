@@ -10,6 +10,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [Understanding Bevy](https://alice-i-cecile.github.io/understanding-bevy/): An opinionated guide to Bevy's design patterns and inner workings.
 * [Making a Snake Clone](https://mbuffett.com/posts/bevy-snake-tutorial/): Walkthrough on how to make a snake clone
 * [Making Chess Clone in 3D](https://caballerocoll.com/blog/bevy-chess-tutorial): Walkthrough on how to make a Chess Clone with 3D pieces
+* [Using Rapier for Physics](https://sburris.xyz/posts/bevy-gravity/)
 
 ### Migration Guides
 
@@ -27,6 +28,7 @@ These translations are unofficial, unverified, and potentially out of date.
 
 ### 3D
 * [bevy_fly_camera](https://crates.io/crates/bevy_fly_camera): A flying camera plugin
+* [bevy_flycam](https://github.com/sburris0/bevy_flycam): A basic FPS-style camera controller
 * [Bevy-WoW](https://github.com/Tezza48/Bevy-WoW): A WoW-style camera
 * [bevy_obj](https://github.com/AmionSky/bevy_obj): Wavefront .obj mesh asset loader plugin
 * [bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking): 3D mouse picking and ray casting plugin
