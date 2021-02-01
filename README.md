@@ -78,6 +78,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy-contrib-inspector](https://github.com/jakobhellermann/bevy-contrib-inspector): Like `bevy-inspector-egui`, but let's you edit your structs inside a browser instead of in-game.
 
 ### Helpers
+* [bevy_asset_ron](https://crates.io/crates/bevy_asset_ron): Custom RON Asset loading.
 * [bevy_contrib_colors](https://crates.io/crates/bevy_contrib_colors): A simple color library.
 * [bevy_prototype_inline_assets](https://crates.io/crates/bevy_prototype_inline_assets): A simple plugin for bundling assets into your binary.
 * [bevy_discovery](https://crates.io/crates/bevy_discovery): Automatically detects and registers systems for you.
