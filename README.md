@@ -81,6 +81,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy_contrib_colors](https://crates.io/crates/bevy_contrib_colors): A simple color library.
 * [bevy_prototype_inline_assets](https://crates.io/crates/bevy_prototype_inline_assets): A simple plugin for bundling assets into your binary.
 * [bevy_discovery](https://crates.io/crates/bevy_discovery): Automatically detects and registers systems for you.
+* [bevy_assetio_zip](https://github.com/katharostech/bevy_assetio_zip): A plugin for loading assets from an optionally obfuscated zip file.
 ## Games
 
 * [bevy_nbody](https://github.com/thallada/bevy-nbody): An N-body simulation in Rust
