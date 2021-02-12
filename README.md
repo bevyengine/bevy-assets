@@ -104,6 +104,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [Robbo](https://github.com/mrk-its/bevy-robbo): Bevy port of great 8-bit Atari game, working native and in the browser
 * [DJMcNab/life-rs](https://github.com/DJMcNab/life-rs): Bevy reproduction of the rules of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) on a randomised board.  
   Alternative implementation: [Byteron/life-rs](https://github.com/Byteron/life-rs).
+* [arugio](https://github.com/ostwilkens/arugio): Prototype multiplayer server-authoritative networked "game" with Browser (WebGL) client and native server
 
 ## Apps
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
