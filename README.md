@@ -77,7 +77,7 @@ These translations are unofficial, unverified, and potentially out of date.
 
 ### Development tools
 * [bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui): Visually edit fields of structs inside the game using [egui](https://github.com/emilk/egui).
-* [bevy-contrib-inspector](https://github.com/jakobhellermann/bevy-contrib-inspector): Like `bevy-inspector-egui`, but let's you edit your structs inside a browser instead of in-game.
+* [bevycheck](https://github.com/jakobhellermann/bevycheck): annotate invalid systems with `#[bevycheck::system]` to get nice error messages for what's wrong
 
 ### Helpers
 * [bevy_asset_ron](https://crates.io/crates/bevy_asset_ron): Custom RON Asset loading.
