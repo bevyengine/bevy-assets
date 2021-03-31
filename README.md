@@ -74,6 +74,10 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy_prototype_simple_net](https://github.com/0x22fe/bevy_prototype_simple_net): A working prototype networking plugin that can create client/server systems over TCP or UDP.
 * [bevy_networking_turbulence](https://github.com/smokku/bevy_networking_turbulence): Networking plugin running on [naia-socket](https://github.com/naia-rs/naia-socket) and [turbulence](https://github.com/kyren/turbulence) libraries.
 
+### Audio
+
+* [bevy_kira_audio](https://github.com/NiklasEi/bevy_kira_audio): An alternative Bevy audio plugin using [Kira](https://github.com/tesselode/kira)
+
 ### Development tools
 * [bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui): Visually edit fields of structs inside the game using [egui](https://github.com/emilk/egui).
 * [bevycheck](https://github.com/jakobhellermann/bevycheck): annotate invalid systems with `#[bevycheck::system]` to get nice error messages for what's wrong
@@ -85,6 +89,9 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy_discovery](https://crates.io/crates/bevy_discovery): Automatically detects and registers systems for you.
 * [bevy_assetio_zip](https://github.com/katharostech/bevy_assetio_zip): A plugin for loading assets from an optionally obfuscated zip file.
 * [bevy_event_set](https://github.com/woubuc/bevy-event-set): A macro to create event bundles for Bevy
+
+## Templates
+* [bevy_game_template](https://github.com/NiklasEi/bevy_game_template): An opinionated template repository for a Bevy game including a workflow for Windows, Linux and MacOS releases
 
 ## Games
 
@@ -109,6 +116,7 @@ These translations are unofficial, unverified, and potentially out of date.
   Alternative implementation: [Byteron/life-rs](https://github.com/Byteron/life-rs).
 * [arugio](https://github.com/ostwilkens/arugio): Prototype multiplayer server-authoritative networked "game" with Browser (WebGL) client and native server
 * [colonize](https://github.com/indiv0/colonize): A Dwarf Fortress/Rimworld-like game written in Rust.
+* [oicana](https://github.com/NiklasEi/oicana): A tower defense game with puzzle aspects
 
 ## Apps
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
