@@ -1,0 +1,59 @@
+html {
+    overflow-y: scroll;
+}
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0 0 0 0;
+    color: $default-color;
+    font-family: 'Fira Sans', sans-serif;
+    background-color: #232326;
+}
+@media screen and (max-width: 712px) {
+    html, body {
+        font-size: 0.7rem;
+    }
+}
+
+
+.container {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:focus {
+    outline: none;
+}
+
+.section {
+    display: block;
+    font-size: 1.4rem;
+    overflow-x: hidden;
+}
+
+.padded-content {
+    padding: $default-padding;
+}
+
+.warning {
+    color: #c8c864;
+}
+
+h2.category {
+    font-size: 1.5rem;
+    color: $default-color;
+}
+h1 {
+    font-size: 1.9rem;
+    color: $default-color;
+}
+
+input {
+    border-radius: $border-radius;
+    background-color: $syntax-theme-background;
+    color: $default-color;
+    height: 2rem;
+    width: 20rem;
+    font-size: 1.0rem;
+}

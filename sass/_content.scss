@@ -1,0 +1,82 @@
+$content-font-size: 1.22rem;
+.media-content {
+    width: 100%;
+    font-size: $content-font-size;
+    font-weight: 400;
+    line-height: $content-font-size * 1.43;
+    color: #d2d2d2;
+    font-style: normal;
+    text-decoration: none;
+
+    h2 {
+        margin-top: 3.0rem;
+        font-size: 2.2rem;
+    }
+
+    h3 {
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
+    }
+
+    h4 {
+        margin-bottom: 1rem;
+    }
+
+    pre {
+        font-family: 'Fira Code', monospace;
+        font-variant-ligatures: none;
+        padding: 10px;
+        padding-left: 15px;
+        font-size: 1.1rem;
+        border-radius: $border-radius;
+        word-wrap: break-word;
+        white-space: pre-wrap;
+    }
+
+    a code, a:active code, a:visited code, a:link code {
+        font-family: 'Fira Code', monospace;
+        font-variant-ligatures: none;
+        color: #e4c151;
+        font-style: normal;
+        text-decoration: none;
+    }
+
+    code {
+        font-family: 'Fira Code', monospace;
+        font-variant-ligatures: none;
+        font-size: 1.05rem;
+        color: #c8c8c8;
+        background-color: $syntax-theme-background;
+        border-radius: $border-radius;
+        padding-bottom: 3px;
+        padding-top: 3px;
+        padding-left: 8px;
+        padding-right: 8px;
+        text-decoration: none;
+    }
+
+
+    a:hover code {
+        background-color: $syntax-theme-background-hover;
+    }
+
+    a {
+        text-decoration: none;
+        color: $link-color;
+    }
+
+    a:hover {
+        text-shadow: 0 0 0.9px $link-hover-shadow-color, 0 0 0.9px $link-hover-shadow-color;
+    }
+
+    pre code {
+        padding-bottom: 0px;
+        padding-top: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+
+.fun-list {
+    color: #a0c5e7;
+}

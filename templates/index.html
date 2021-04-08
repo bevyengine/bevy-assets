@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+{% block head_extensions %}
+<meta name="description"
+    content="A refreshingly simple data-driven game engine built in Rust. Free and Open Source Forever!" />
+{% endblock head_extensions %}
+
+{% block content %}
+
+
+<div>{% set section = get_section(path="learning/_index.md") %}
+    <a href="#learning-bevy"><h1 id="learning-bevy">{{ section.title }}</h1></a>
+    <div class="card-list padded-content" id="learning">
+        {% for post in section.pages %}
+        <a id="{{ post.title }}" class="card" href="{{ post.extra.link }}">
+            {% if post.extra.image %}
+            <div class="card-image">
+              <img src="{{post.extra.image}}" />
+            </div>
+            {% endif %}
+            <div class="card-text">
+                <div class="card-title">
+                    {{ post.title }}
+                </div>
+                <div class="card-description">
+                    {{ post.description }}
+                </div>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</div>
+
+<div>
+    {% set section = get_section(path="plugins/_index.md") %}
+    <a href="#plugins"><h1 id="plugins">{{ section.title }}</h1></a>
+    {% set categories = get_taxonomy(kind="categories") %}
+    {% for category in categories.items %}
+    <a href="#{{ category.name | slugify }}" id="{{ category.name | slugify }}"><h2 class="category" >{{ category.name }}</h2></a>
+    <div class="card-list padded-content" id="plugins-list">
+        {% for post in category.pages %}
+        <a id="{{ post.title }}" class="card" href="{{ post.extra.link }}">
+            <div class="card-text">
+                <div class="card-title">
+                    {{ post.title }}
+                </div>
+                <div class="card-category">
+                    {% for plugin_category in post.taxonomies.categories %}
+                    {% if plugin_category != category.name %}
+                    <div>{{ plugin_category }}</div>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+                <div class="card-description">
+                    {{ post.description }}
+                </div>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+    {% endfor %}
+</div>
+
+<div>{% set section = get_section(path="games-n-apps/_index.md") %}
+    <a href="#games-n-apps"><h1 id="games-n-apps">{{ section.title }}</h1></a>
+    <div class="card-list padded-content" id="games">
+        {% for post in section.pages %}
+        <a id="{{ post.title }}" class="card" href="{{ post.extra.link }}">
+            <div class="card-text">
+                <div class="card-title">
+                    {{ post.title }}
+                </div>
+                <div class="card-description">
+                    {{ post.description }}
+                </div>
+            </div>
+        </a>
+        {% endfor %}
+    </div>
+</div>
+
+{% endblock content %}

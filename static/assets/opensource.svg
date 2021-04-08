@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="52.737835"
+   inkscape:export-xdpi="52.737835"
+   inkscape:export-filename="/home/rafael/workspace/logo-osi/5/png/logo396x412.png"
+   sodipodi:docname="Opensource.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   version="1.1"
+   id="svg3290"
+   height="564.0155"
+   width="582.72339">
+  <defs
+     id="defs3292" />
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:document-rotation="0"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1440"
+     inkscape:window-width="3440"
+     showgrid="false"
+     inkscape:current-layer="g3879"
+     inkscape:document-units="px"
+     inkscape:cy="364.39639"
+     inkscape:cx="878.11287"
+     inkscape:zoom="1.979899"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <sodipodi:guide
+       id="guide3004"
+       position="298.77811,-164.94977"
+       orientation="1,0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3295">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-91.140769,-108.23442)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       inkscape:export-ydpi="300.05554"
+       inkscape:export-xdpi="300.05554"
+       inkscape:export-filename="/home/paulormm/usp/softwarelivre/OSI/OSI_member_card_model_final-300dpi.png"
+       transform="matrix(3.1607572,0,0,3.1607572,1289.8039,2829.9529)"
+       id="g3879"
+       style="display:inline">
+      <path
+         style="text-anchor:middle;fill:none;fill-opacity:1;stroke:#ececec;stroke-width:7.37397;stroke-linejoin:round;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m -287.05192,-768.95371 m 11.01179,28.68474 a 30.724865,30.724865 0 1 0 -22.02358,0 l -20.69627,53.92828 a 88.487611,88.487611 0 1 1 63.41612,0 z"
+         id="path3773"
+         inkscape:export-filename="/home/rafael/workspace/logo-osi/3/png/logo396x412.png"
+         inkscape:export-xdpi="48.18"
+         inkscape:export-ydpi="48.18" />
+    </g>
+  </g>
+</svg>

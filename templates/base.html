@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name='viewport' content="width=device-width, initial-scale=1" />
+    <meta property="og:title" content="Awesome Bevy" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://bevyengine.org/" />
+    <meta property="og:image" content="https://bevyengine.org/assets/bevy_logo_fill.png" />
+    <meta property="og:description"
+        content="Bevy is a refreshingly simple data-driven game engine built in Rust. It is free and open-source forever!" />
+    <link rel="shortcut icon" type="image/png" href="/assets/favicon.png">
+    <link rel="stylesheet" href="/site.css" />
+    <link href="/atom.xml" rel="alternate" type="application/atom+xml" />
+    <title>Awesome Bevy</title>
+    {% block head_extensions %} {% endblock %}
+</head>
+
+<body>
+    <div class="headerbar-container">
+        <nav class="headerbar container">
+            <a href="/" class="header-logo">
+                <img src="/assets/bevy_logo_dark.svg" class="logo" alt="bevy logo" />
+            </a>
+            {% if section and section.path is starting_with("/learn/book/") %}
+            <label class="toggle-nav-mobile" for=show-book-nav>
+                <svg alt="nav bars" width="24" height="24">
+                    <g fill="none" stroke="#ececec" stroke-width="2">
+                        <path d="m4 6h16" />
+                        <path d="m4 11h16" />
+                        <path d="m4 16h16" />
+                    </g>
+                </svg>
+            </label>
+            {% else %}
+            <a href="/" class="header-logo-mobile">
+                <img src="/assets/bevy_icon_dark.svg" class="logo" alt="bevy icon" />
+            </a>
+            {% endif %}
+            <div class="header-item header-message">
+                Awesome Bevy
+            </div>
+            <div class="header-item header-push"></div>
+            <div class="search-container">
+                <input id="search" type="search" placeholder="🔎 Search awesomeness">
+            </div>
+        </nav>
+
+
+    </div>
+    <section class="section">
+        <div class="container">
+            {% block content %} {% endblock %}
+        </div>
+    </section>
+    <script type="text/javascript" src="{{ get_url(path="elasticlunr.min.js") }}"></script>
+    <script type="text/javascript" src="{{ get_url(path="search_index.en.js") }}"></script>
+    <script type="text/javascript" src="{{ get_url(path="search.js") }}"></script>
+    <script type="text/javascript" src="{{ get_url(path="reorder.js") }}"></script>
+</body>
+
+</html>

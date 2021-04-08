@@ -1,0 +1,105 @@
+$card-list-gap: 15px;
+
+.card-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    display: block;
+    flex-direction: left;
+    overflow: hidden;
+    border-radius: $border-radius;
+    background-color: $syntax-theme-background;
+    margin-bottom: $card-list-gap;
+    font-style: normal;
+    text-decoration: none;
+    box-shadow: 0px 0px 5px #494949;
+    width: 500px;
+    margin-right: $card-list-gap;
+    min-height: 5em;
+
+}
+
+.card:hover {
+    background-color: $card-hover-background;
+    box-shadow: 0px 0px 5px $default-color;
+}
+
+.card-image {
+    max-width: 30%;
+    max-height: 100%;
+    overflow: hidden;
+    object-fit: cover;
+    display: flex;
+    background-color: $default-image-background-color;
+    border-top-left-radius: $border-radius;
+    border-bottom-left-radius: $border-radius;
+    align-content: center;
+    justify-content: center;
+    float: left;
+    width: auto;
+    height: auto;
+    margin-right: 0px;
+}
+
+.card-image > img {
+    overflow: hidden;
+}
+
+.centered-card-image {
+    display: block;
+    align-self: center;
+    height: 85%;
+    max-width: 85%;
+    border-radius: $border-radius;
+}
+
+.card-text {
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card-category {
+    display: block;
+    font-weight: 200;
+    font-size: 1.0rem;
+    font-style: italic;
+    color: $subtitle-color;
+    text-decoration: none;
+}
+
+.card-description {
+    display: block;
+    position: relative;
+    font-weight: 300;
+    font-size: 1.0rem;
+    color: $default-color;
+    text-decoration: none;
+    margin-top: 0.4rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    // height: 100px;
+}
+
+.card-title {
+    display: block;
+    font-weight: 500;
+    font-size: 1.3rem;
+    color: $default-color;
+    font-style: normal;
+    text-decoration: none;
+    padding-bottom: 0.2rem;
+}
+
+.card-image-default {
+    display: flex;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}

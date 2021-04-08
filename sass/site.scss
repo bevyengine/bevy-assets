@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+$headerbar-color: #1e1e22;
+$hover-color: #ececec;
+$hover-shadow-color: #d6d6d6;
+$link-color: #7c90ff;
+$link-hover-shadow-color: #6c82ff;
+$default-color: #ececec;
+$content-top-margin: 30px;
+$default-padding: 15px;
+$subtitle-color: #8f8f8f;
+$syntax-theme-background: #2b2c2f;
+$syntax-theme-background-hover: #414247;
+$default-image-background-color: #1b1b1b;
+$card-hover-background: #2f3033;
+$media-max-width: 1000px;
+$border-radius: 10px;
+
+@import "headerbar";
+@import "card";
+@import "content";
+@import "firasans";
+@import "firamono";
+@import "base";
