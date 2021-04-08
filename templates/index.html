@@ -11,21 +11,21 @@
     <a href="#learning-bevy"><h1 id="learning-bevy">{{ section.title }}</h1></a>
     <div class="card-list padded-content" id="learning">
         {% for post in section.pages %}
-        <a id="{{ post.title }}" class="card" href="{{ post.extra.link }}">
+        <div class="card" id="{{ post.title }}">
             {% if post.extra.image %}
             <div class="card-image">
               <img src="{{ get_url(path=post.extra.image) }}" />
             </div>
             {% endif %}
             <div class="card-text">
-                <div class="card-title">
+                <a class="card-title" href="{{ post.extra.link }}">
                     {{ post.title }}
-                </div>
+                </a>
                 <div class="card-description">
-                    {{ post.description }}
+                    {{ post.description | markdown(inline=true) | safe }}
                 </div>
             </div>
-        </a>
+        </div>
         {% endfor %}
     </div>
 </div>
@@ -38,11 +38,11 @@
     <a href="#{{ category.name | slugify }}" id="{{ category.name | slugify }}"><h2 class="category" >{{ category.name }}</h2></a>
     <div class="card-list padded-content" id="plugins-list">
         {% for post in category.pages %}
-        <a id="{{ post.title }}" class="card" href="{{ post.extra.link }}">
+        <div class="card" id="{{ post.title }}">
             <div class="card-text">
-                <div class="card-title">
+                <a class="card-title" href="{{ post.extra.link }}">
                     {{ post.title }}
-                </div>
+                </a>
                 <div class="card-category">
                     {% for plugin_category in post.taxonomies.categories %}
                     {% if plugin_category != category.name %}
@@ -51,10 +51,10 @@
                     {% endfor %}
                 </div>
                 <div class="card-description">
-                    {{ post.description }}
+                    {{ post.description | markdown(inline=true) | safe }}
                 </div>
             </div>
-        </a>
+        </div>
         {% endfor %}
     </div>
     {% endfor %}
@@ -64,16 +64,16 @@
     <a href="#games-n-apps"><h1 id="games-n-apps">{{ section.title }}</h1></a>
     <div class="card-list padded-content" id="games">
         {% for post in section.pages %}
-        <a id="{{ post.title }}" class="card" href="{{ post.extra.link }}">
+        <div id="{{ post.title }}" class="card">
             <div class="card-text">
-                <div class="card-title">
+                <a class="card-title" href="{{ post.extra.link }}">
                     {{ post.title }}
-                </div>
+                </a>
                 <div class="card-description">
-                    {{ post.description }}
+                    {{ post.description | markdown(inline=true) | safe }}
                 </div>
             </div>
-        </a>
+        </div>
         {% endfor %}
     </div>
 </div>

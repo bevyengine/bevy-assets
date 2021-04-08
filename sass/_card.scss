@@ -69,6 +69,10 @@ $card-list-gap: 15px;
     text-decoration: none;
 }
 
+.card-description > a {
+    text-decoration: underline;
+}
+
 .card-description {
     display: block;
     position: relative;

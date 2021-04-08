@@ -21,6 +21,10 @@ html, body {
     margin-left: auto;
     margin-right: auto;
 }
+a {
+    color: $default-color;
+    text-decoration: none;
+}
 
 a:focus {
     outline: none;
