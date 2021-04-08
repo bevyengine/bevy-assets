@@ -28,23 +28,19 @@ $card-list-gap: 15px;
 
 .card-image {
     max-width: 30%;
-    max-height: 100%;
-    overflow: hidden;
-    object-fit: cover;
-    display: flex;
     background-color: $default-image-background-color;
     border-top-left-radius: $border-radius;
     border-bottom-left-radius: $border-radius;
     align-content: center;
     justify-content: center;
     float: left;
-    width: auto;
-    height: auto;
     margin-right: 0px;
 }
 
 .card-image > img {
-    overflow: hidden;
+    display: block;
+    width: 100%;
+    height: auto;
 }
 
 .centered-card-image {
