@@ -11,8 +11,7 @@
     <meta property="og:description"
         content="Bevy is a refreshingly simple data-driven game engine built in Rust. It is free and open-source forever!" />
     <link rel="shortcut icon" type="image/png" href="/assets/favicon.png">
-    <link rel="stylesheet" href="/site.css" />
-    <link href="/atom.xml" rel="alternate" type="application/atom+xml" />
+    <link rel="stylesheet" href="{{ get_url(path="site.css") }}" />
     <title>Awesome Bevy</title>
     {% block head_extensions %} {% endblock %}
 </head>
@@ -21,7 +20,7 @@
     <div class="headerbar-container">
         <nav class="headerbar container">
             <a href="/" class="header-logo">
-                <img src="/assets/bevy_logo_dark.svg" class="logo" alt="bevy logo" />
+                <img src="{{ get_url(path="assets/bevy_logo_dark.svg") }}" class="logo" alt="bevy logo" />
             </a>
             {% if section and section.path is starting_with("/learn/book/") %}
             <label class="toggle-nav-mobile" for=show-book-nav>
@@ -35,7 +34,7 @@
             </label>
             {% else %}
             <a href="/" class="header-logo-mobile">
-                <img src="/assets/bevy_icon_dark.svg" class="logo" alt="bevy icon" />
+                <img src="{{ get_url(path="assets/bevy_icon_dark.svg") }}" class="logo" alt="bevy icon" />
             </a>
             {% endif %}
             <div class="header-item header-message">

@@ -14,7 +14,7 @@
         <a id="{{ post.title }}" class="card" href="{{ post.extra.link }}">
             {% if post.extra.image %}
             <div class="card-image">
-              <img src="{{post.extra.image}}" />
+              <img src="{{ get_url(path=post.extra.image) }}" />
             </div>
             {% endif %}
             <div class="card-text">
