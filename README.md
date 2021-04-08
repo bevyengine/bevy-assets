@@ -121,6 +121,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [arugio](https://github.com/ostwilkens/arugio): Prototype multiplayer server-authoritative networked "game" with Browser (WebGL) client and native server
 * [colonize](https://github.com/indiv0/colonize): A Dwarf Fortress/Rimworld-like game written in Rust.
 * [oicana](https://github.com/NiklasEi/oicana): A tower defense game with puzzle aspects
+* [taipo](https://github.com/rparrett/taipo): A 2d typing/tower defense game for the browser.
 
 ## Apps
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
