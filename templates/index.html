@@ -54,6 +54,11 @@
                     {{ post.description | markdown(inline=true) | safe }}
                 </div>
             </div>
+            {% if post.extra.license %}
+            <div class="card-license">
+                {{ post.extra.license }}
+            </div>
+            {% endif %}
         </div>
         {% endfor %}
     </div>
@@ -73,6 +78,11 @@
                     {{ post.description | markdown(inline=true) | safe }}
                 </div>
             </div>
+            {% if post.extra.license %}
+            <div class="card-license">
+                {{ post.extra.license }}
+            </div>
+            {% endif %}
         </div>
         {% endfor %}
     </div>

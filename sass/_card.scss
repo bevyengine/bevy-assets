@@ -18,7 +18,7 @@ $card-list-gap: 15px;
     width: 500px;
     margin-right: $card-list-gap;
     min-height: 5em;
-
+    position: relative;
 }
 
 .card:hover {
@@ -102,4 +102,13 @@ $card-list-gap: 15px;
     margin-left: auto;
     margin-right: auto;
     align-items: center;
+}
+
+.card-license {
+    position: absolute;
+    top: 1px;
+    right: 5px;
+    font-weight: 300;
+    font-size: 0.8rem;
+    color: $default-color;
 }
