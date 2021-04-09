@@ -4,4 +4,5 @@ description = 'Walkthrough on how to make a Rhythm game, with menu, audio and sh
 
 [extra]
 link = "https://caballerocoll.com/blog/bevy-rhythm-game"
+image = "learning/making-a-rythm-game.png"
 +++

@@ -7,4 +7,6 @@ categories = ["2D"]
 
 [extra]
 link = "https://github.com/Nilirad/bevy_prototype_lyon"
+image = "plugins/bevy_prototype_lyon.png"
+license = "MIT"
 +++

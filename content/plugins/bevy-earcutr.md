@@ -7,4 +7,5 @@ categories = ["2D"]
 
 [extra]
 link = "https://github.com/frewsxcv/bevy-earcutr"
+license = "MIT/Apache-2.0"
 +++

@@ -7,4 +7,5 @@ categories = ["2D"]
 
 [extra]
 link = "https://github.com/stararawn/bevy_tiled"
+license = "MIT"
 +++

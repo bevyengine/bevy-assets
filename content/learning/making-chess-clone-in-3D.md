@@ -4,4 +4,5 @@ description = 'Walkthrough on how to make a Chess Clone with 3D pieces'
 
 [extra]
 link = "https://caballerocoll.com/blog/bevy-chess-tutorial"
+image = "learning/making-chess-clone-in-3D.png"
 +++
