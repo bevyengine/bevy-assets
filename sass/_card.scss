@@ -27,7 +27,7 @@ $card-list-gap: 15px;
 }
 
 .card-image {
-    max-width: 25%;
+    width: 25%;
     background-color: $default-image-background-color;
     border-top-left-radius: $border-radius;
     border-bottom-left-radius: $border-radius;
@@ -39,7 +39,7 @@ $card-list-gap: 15px;
 
 .card-image > img {
     display: block;
-    width: 100%;
+    max-width: 100%;
     height: auto;
 }
 

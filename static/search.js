@@ -67,8 +67,10 @@ function initSearch() {
             });
         }
         for (var i = 0; i < results.length; i++) {
-            console.log(results[i].doc.title);
-            document.getElementById(results[i].doc.title).style.display = "block";
+            let element = document.getElementById(results[i].doc.title);
+            if (element) {
+                element.style.display = "block";
+            }
         }
 
         document.querySelectorAll(".card-list").forEach(list => {

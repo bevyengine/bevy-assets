@@ -15,7 +15,7 @@
         {% for post in section.pages %}
         <div class="card" id="{{ post.title }}">
             {% if post.extra.image %}
-            <div class="card-image">
+            <div class="card-image card-image-default">
                 <img src="{{ get_url(path=post.extra.image) }}" />
             </div>
             {% endif %}
@@ -46,7 +46,7 @@
         {% for post in category.pages %}
         <div class="card" id="{{ post.title }}">
             {% if post.extra.image %}
-            <div class="card-image">
+            <div class="card-image card-image-default">
                 <img src="{{ get_url(path=post.extra.image) }}" />
             </div>
             {% endif %}
@@ -84,7 +84,7 @@
         {% for post in section.pages %}
         <div id="{{ post.title }}" class="card">
             {% if post.extra.image %}
-            <div class="card-image">
+            <div class="card-image card-image-default">
                 <img src="{{ get_url(path=post.extra.image) }}" />
             </div>
             {% endif %}
