@@ -39,7 +39,7 @@
     </a>
     {% set categories = get_taxonomy(kind="categories") %}
     {% for category in categories.items %}
-    <a class="category" href="plugins-#{{ category.name | slugify }}" id="plugins-{{ category.name | slugify }}">
+    <a class="category" href="#plugins-{{ category.name | slugify }}" id="plugins-{{ category.name | slugify }}">
         <h2 class="category">{{ category.name }}</h2>
     </a>
     <div class="card-list padded-content plugins-list" id="plugins-{{ category.name | slugify }}-list">
