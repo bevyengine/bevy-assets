@@ -14,7 +14,7 @@
         <div class="card" id="{{ post.title }}">
             {% if post.extra.image %}
             <div class="card-image">
-              <img src="{{ get_url(path=post.extra.image) }}" />
+                <img src="{{ get_url(path=post.extra.image) }}" />
             </div>
             {% endif %}
             <div class="card-text">
@@ -39,6 +39,11 @@
     <div class="card-list padded-content" id="plugins-list">
         {% for post in category.pages %}
         <div class="card" id="{{ post.title }}">
+            {% if post.extra.image %}
+            <div class="card-image">
+                <img src="{{ get_url(path=post.extra.image) }}" />
+            </div>
+            {% endif %}
             <div class="card-text">
                 <a class="card-title" href="{{ post.extra.link }}">
                     {{ post.title }}
@@ -70,6 +75,11 @@
     <div class="card-list padded-content" id="games">
         {% for post in section.pages %}
         <div id="{{ post.title }}" class="card">
+            {% if post.extra.image %}
+            <div class="card-image">
+                <img src="{{ get_url(path=post.extra.image) }}" />
+            </div>
+            {% endif %}
             <div class="card-text">
                 <a class="card-title" href="{{ post.extra.link }}">
                     {{ post.title }}
