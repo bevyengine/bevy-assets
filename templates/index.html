@@ -8,7 +8,9 @@
 
 
 <div>{% set section = get_section(path="learning/_index.md") %}
-    <a href="#learning-bevy"><h1 id="learning-bevy">{{ section.title }}</h1></a>
+    <a href="#learning-bevy">
+        <h1 id="learning-bevy">{{ section.title }}</h1>
+    </a>
     <div class="card-list padded-content" id="learning">
         {% for post in section.pages %}
         <div class="card" id="{{ post.title }}">
@@ -32,11 +34,15 @@
 
 <div>
     {% set section = get_section(path="plugins/_index.md") %}
-    <a href="#plugins"><h1 id="plugins">{{ section.title }}</h1></a>
+    <a href="#plugins">
+        <h1 id="plugins">{{ section.title }}</h1>
+    </a>
     {% set categories = get_taxonomy(kind="categories") %}
     {% for category in categories.items %}
-    <a href="#{{ category.name | slugify }}" id="{{ category.name | slugify }}"><h2 class="category" >{{ category.name }}</h2></a>
-    <div class="card-list padded-content" id="plugins-list">
+    <a class="category" href="plugins-#{{ category.name | slugify }}" id="plugins-{{ category.name | slugify }}">
+        <h2 class="category">{{ category.name }}</h2>
+    </a>
+    <div class="card-list padded-content plugins-list" id="plugins-{{ category.name | slugify }}-list">
         {% for post in category.pages %}
         <div class="card" id="{{ post.title }}">
             {% if post.extra.image %}
@@ -71,7 +77,9 @@
 </div>
 
 <div>{% set section = get_section(path="games-n-apps/_index.md") %}
-    <a href="#games-n-apps"><h1 id="games-n-apps">{{ section.title }}</h1></a>
+    <a href="#games-n-apps">
+        <h1 id="games-n-apps">{{ section.title }}</h1>
+    </a>
     <div class="card-list padded-content" id="games">
         {% for post in section.pages %}
         <div id="{{ post.title }}" class="card">

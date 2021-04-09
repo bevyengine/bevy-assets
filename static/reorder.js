@@ -16,7 +16,7 @@ for (i in cards) {
     learning.append(cards[i]);
 }
 
-var plugins = document.querySelectorAll('#plugins-list');
+var plugins = document.querySelectorAll('.plugins-list');
 plugins.forEach(category => {
     var cards = category.querySelectorAll('.card');
     var cards = Array.prototype.slice.call(cards);
