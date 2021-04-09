@@ -1,17 +1,13 @@
 var learning = document.querySelector('#learning');
 var cards = learning.querySelectorAll('.card');
 var cards = Array.prototype.slice.call(cards);
+let official = cards.filter(card => card.id === "Official Bevy Examples");
+cards = cards.filter(card => card.id != "Official Bevy Examples")
 cards.sort((a, b) => {
-    // make sure Official Bevy Examples is first
-    if (a.id === "Official Bevy Examples") {
-        return -1;
-    }
-    if (b.id === "Official Bevy Examples") {
-        return 1;
-    }
     return a.id.localeCompare(b.id);
 });
 learning.innerHTML = "";
+learning.append(official[0]);
 for (i in cards) {
     learning.append(cards[i]);
 }
