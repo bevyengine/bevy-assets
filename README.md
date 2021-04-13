@@ -74,6 +74,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy_prototype_laminar_networking](https://github.com/ncallaway/bevy-prototype-laminar-networking): A prototype networking plugin using `laminar` as the transport.
 * [bevy_prototype_simple_net](https://github.com/0x22fe/bevy_prototype_simple_net): A working prototype networking plugin that can create client/server systems over TCP or UDP.
 * [bevy_networking_turbulence](https://github.com/smokku/bevy_networking_turbulence): Networking plugin running on [naia-socket](https://github.com/naia-rs/naia-socket) and [turbulence](https://github.com/kyren/turbulence) libraries.
+* [bevy_spicy_networking](https://github.com/CabbitStudios/bevy_spicy_networking): Unifying server/client networking crate using [tokio](https://github.com/tokio-rs/tokio) as asynchronous backend.
 
 ### Audio
 
