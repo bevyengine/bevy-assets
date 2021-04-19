@@ -120,6 +120,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [SiO2](https://github.com/dmitriy-shmilo/sio2): A simple powder toy clone
 * [Robbo](https://github.com/mrk-its/bevy-robbo): Bevy port of great 8-bit Atari game, working native and in the browser
 * [DJMcNab/life-rs](https://github.com/DJMcNab/life-rs): Bevy reproduction of the rules of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) on a randomised board.  
+* [Zenith](https://github.com/rsaihe/zenith): A space-themed shoot 'em up game
   Alternative implementation: [Byteron/life-rs](https://github.com/Byteron/life-rs).
 * [arugio](https://github.com/ostwilkens/arugio): Prototype multiplayer server-authoritative networked "game" with Browser (WebGL) client and native server
 * [colonize](https://github.com/indiv0/colonize): A Dwarf Fortress/Rimworld-like game written in Rust.
