@@ -44,6 +44,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon): Draw 2D shapes, like triangles, circles, and beziers.
 * [bevy-earcutr](https://github.com/frewsxcv/bevy-earcutr): Draw polygons
 * [bevy_prototype_parallax](https://github.com/btrepp/bevy-prototype-parallax): A parallax scrolling background plugin.
+* [bevy_svg](https://github.com/Weasy666/bevy_svg): Load and draw SVG-files.
 
 ### Animation
 
@@ -73,6 +74,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy_prototype_laminar_networking](https://github.com/ncallaway/bevy-prototype-laminar-networking): A prototype networking plugin using `laminar` as the transport.
 * [bevy_prototype_simple_net](https://github.com/0x22fe/bevy_prototype_simple_net): A working prototype networking plugin that can create client/server systems over TCP or UDP.
 * [bevy_networking_turbulence](https://github.com/smokku/bevy_networking_turbulence): Networking plugin running on [naia-socket](https://github.com/naia-rs/naia-socket) and [turbulence](https://github.com/kyren/turbulence) libraries.
+* [bevy_spicy_networking](https://github.com/CabbitStudios/bevy_spicy_networking): Unifying server/client networking crate using [tokio](https://github.com/tokio-rs/tokio) as asynchronous backend.
 
 ### Audio
 
@@ -85,6 +87,7 @@ These translations are unofficial, unverified, and potentially out of date.
 ### Development tools
 * [bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui): Visually edit fields of structs inside the game using [egui](https://github.com/emilk/egui).
 * [bevycheck](https://github.com/jakobhellermann/bevycheck): annotate invalid systems with `#[bevycheck::system]` to get nice error messages for what's wrong
+* [autodefault](https://github.com/Lucretiel/autodefault): annotate functions to have them automatically insert `..Default::default()` into struct expressions. Useful when instantiating large, deeply nested components or component bundles.
 
 ### Helpers
 * [bevy_asset_ron](https://crates.io/crates/bevy_asset_ron): Custom RON Asset loading.
@@ -95,7 +98,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy_event_set](https://github.com/woubuc/bevy-event-set): A macro to create event bundles for Bevy
 
 ## Templates
-* [bevy_game_template](https://github.com/NiklasEi/bevy_game_template): An opinionated template repository for a Bevy game including a workflow for Windows, Linux and MacOS releases
+* [bevy_game_template](https://github.com/NiklasEi/bevy_game_template): An opinionated template repository for a Bevy game including a workflow for Windows, Linux, macOS and Web (WASM) releases
 
 ## Games
 
@@ -121,6 +124,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [arugio](https://github.com/ostwilkens/arugio): Prototype multiplayer server-authoritative networked "game" with Browser (WebGL) client and native server
 * [colonize](https://github.com/indiv0/colonize): A Dwarf Fortress/Rimworld-like game written in Rust.
 * [oicana](https://github.com/NiklasEi/oicana): A tower defense game with puzzle aspects
+* [taipo](https://github.com/rparrett/taipo): A 2d typing/tower defense game for the browser.
 
 ## Apps
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
