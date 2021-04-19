@@ -31,6 +31,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy_fly_camera](https://crates.io/crates/bevy_fly_camera): A flying camera plugin
 * [bevy_flycam](https://github.com/sburris0/bevy_flycam): A basic FPS-style camera controller
 * [Bevy-WoW](https://github.com/Tezza48/Bevy-WoW): A WoW-style camera
+* [bevy-orbit-controls](https://github.com/iMplode-nZ/bevy-orbit-controls): An orbit controls camera controller
 * [bevy_obj](https://github.com/AmionSky/bevy_obj): Wavefront .obj mesh asset loader plugin
 * [bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking): 3D mouse picking and ray casting plugin
 * [bevy_stl](https://github.com/nilclass/bevy_stl): STL mesh asset loader plugin
