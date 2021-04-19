@@ -87,6 +87,7 @@ These translations are unofficial, unverified, and potentially out of date.
 ### Development tools
 * [bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui): Visually edit fields of structs inside the game using [egui](https://github.com/emilk/egui).
 * [bevycheck](https://github.com/jakobhellermann/bevycheck): annotate invalid systems with `#[bevycheck::system]` to get nice error messages for what's wrong
+* [bevy_mod_debugdump](https://github.com/jakobhellermann/bevy_mod_debugdump): Render graph and schedule graph visualizers using [egui](https://github.com/emilk/egui).
 * [autodefault](https://github.com/Lucretiel/autodefault): annotate functions to have them automatically insert `..Default::default()` into struct expressions. Useful when instantiating large, deeply nested components or component bundles.
 
 ### Helpers
