@@ -107,7 +107,6 @@ These translations are unofficial, unverified, and potentially out of date.
 ## Games
 
 * [bevy_nbody](https://github.com/thallada/bevy-nbody): An N-body simulation in Rust
-  * Alternative: [bevy-nbody](https://github.com/WhoisDavid/bevy-nbody) - 3D simulation of the planets of the Solar System.
 * [flock-rs](https://github.com/JohnPeel/flock-rs): An example of steering and flocking behaviors
 * [bevy_pong](https://github.com/SuperiorJT/bevy_pong): It's Pong! Based on the "breakout" bevy example
 * [bevy-tetris](https://github.com/8bit-pudding/bevy-tetris): It's Tetris!
@@ -131,6 +130,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [colonize](https://github.com/indiv0/colonize): A Dwarf Fortress/Rimworld-like game written in Rust.
 * [oicana](https://github.com/NiklasEi/oicana): A tower defense game with puzzle aspects
 * [taipo](https://github.com/rparrett/taipo): A 2d typing/tower defense game for the browser.
+* [bevy-nbody](https://github.com/WhoisDavid/bevy-nbody) - 3d n-body simulation of the planets of the Solar System.
 
 ## Apps
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
