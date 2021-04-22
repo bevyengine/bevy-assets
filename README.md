@@ -107,6 +107,7 @@ These translations are unofficial, unverified, and potentially out of date.
 ## Games
 
 * [bevy_nbody](https://github.com/thallada/bevy-nbody): An N-body simulation in Rust
+  * Alternative: [bevy-nbody](https://github.com/WhoisDavid/bevy-nbody) - 3D simulation of the planets of the Solar System.
 * [flock-rs](https://github.com/JohnPeel/flock-rs): An example of steering and flocking behaviors
 * [bevy_pong](https://github.com/SuperiorJT/bevy_pong): It's Pong! Based on the "breakout" bevy example
 * [bevy-tetris](https://github.com/8bit-pudding/bevy-tetris): It's Tetris!
@@ -123,9 +124,9 @@ These translations are unofficial, unverified, and potentially out of date.
 * [Keep Moving and Nobody Burns](https://github.com/mockersf/kmanb): A bomberman against time (made for Ludum Dare 47)
 * [SiO2](https://github.com/dmitriy-shmilo/sio2): A simple powder toy clone
 * [Robbo](https://github.com/mrk-its/bevy-robbo): Bevy port of great 8-bit Atari game, working native and in the browser
-* [DJMcNab/life-rs](https://github.com/DJMcNab/life-rs): Bevy reproduction of the rules of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) on a randomised board.  
+* [DJMcNab/life-rs](https://github.com/DJMcNab/life-rs): Bevy reproduction of the rules of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) on a randomised board.
+  * Alternative implementation: [Byteron/life-rs](https://github.com/Byteron/life-rs). 
 * [Zenith](https://github.com/rsaihe/zenith): A space-themed shoot 'em up game
-  Alternative implementation: [Byteron/life-rs](https://github.com/Byteron/life-rs).
 * [arugio](https://github.com/ostwilkens/arugio): Prototype multiplayer server-authoritative networked "game" with Browser (WebGL) client and native server
 * [colonize](https://github.com/indiv0/colonize): A Dwarf Fortress/Rimworld-like game written in Rust.
 * [oicana](https://github.com/NiklasEi/oicana): A tower defense game with puzzle aspects
