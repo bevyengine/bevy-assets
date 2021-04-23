@@ -37,6 +37,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy_stl](https://github.com/nilclass/bevy_stl): STL mesh asset loader plugin
 * [bevy_vox](https://github.com/erasin/bevy_vox): MagicaVoxel Vox file loader plugin
 * [bevy_4x_camera](https://crates.io/crates/bevy_4x_camera): A 4X style camera for bevy. [Demo](https://imgur.com/XIIDcIW)
+* [bevy_vox_mesh](https://github.com/Game4all/bevy_vox_mesh): Asset loader plugin to load MagicaVoxel files as meshes.
 
 ### 2D
 
