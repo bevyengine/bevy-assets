@@ -25,6 +25,7 @@ These translations are unofficial, unverified, and potentially out of date.
 
 ## Plugins and Crates
 ### Input
+* [bevy_advanced_input](https://github.com/sadpython/bevy_advanced_input): Input keybindings, including support for combinations / hotkeys / modifier keys.
 * [Kurinji](https://crates.io/crates/kurinji): Input Map for bevy. Converts user input from different input hardware into game specific actions, eg. keyboard "Space" or joystick "A" can be mapped to "Jump" Action.  This allows decoupling of the game code from device specific input api.
 * [bevy_input_actionmap](https://github.com/lightsoutgames/bevy_input_actionmap): Maps key and gamepad events to actions in Bevy.
 
