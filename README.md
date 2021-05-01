@@ -73,6 +73,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy_rapier](https://github.com/dimforge/bevy_rapier): A plugin for Rapier, a 2D and 3D physics engine. Maintained by the Rapier developers.
 * [heron](https://github.com/jcornaz/heron): An ergonomic physics API for 2d and 3d bevy games. (powered by rapier)
 * [physme](https://github.com/walterpie/physme): A simplistic physics engine for both 2D and 3D simulation. Physically inaccurate, but feels satisfying and is easy to use.
+* [bevy_physimple](https://github.com/RustyStriker/bevy_physimple): A physics lib for the bevy game engine based on physme.
 
 ### Networking
 
