@@ -96,6 +96,8 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevycheck](https://github.com/jakobhellermann/bevycheck): annotate invalid systems with `#[bevycheck::system]` to get nice error messages for what's wrong
 * [bevy_mod_debugdump](https://github.com/jakobhellermann/bevy_mod_debugdump): Render graph and schedule graph visualizers using [egui](https://github.com/emilk/egui).
 * [autodefault](https://github.com/Lucretiel/autodefault): annotate functions to have them automatically insert `..Default::default()` into struct expressions. Useful when instantiating large, deeply nested components or component bundles.
+* [bevy_mod_debug_console](https://github.com/hymm/bevy_mod_debug_console): Get info from ecs through
+console commands.
 
 ### Helpers
 * [bevy_asset_ron](https://crates.io/crates/bevy_asset_ron): Custom RON Asset loading.
