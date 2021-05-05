@@ -47,6 +47,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy_ecs_tilemap](https://github.com/StarArawn/bevy_ecs_tilemap) A plugin for tilemaps where each tile is an entity.
 * [bevy_ldtk](https://github.com/katharostech/bevy_ldtk): Efficient tilemap rendering for [LDtk](https://ldtk.io) maps.
 * [bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon): Draw 2D shapes, like triangles, circles, and beziers.
+* [bevy_canvas](https://github.com/Nilirad/bevy_canvas): An immediate mode 2D drawing API.
 * [bevy-earcutr](https://github.com/frewsxcv/bevy-earcutr): Draw polygons
 * [bevy_prototype_parallax](https://github.com/btrepp/bevy-prototype-parallax): A parallax scrolling background plugin.
 * [bevy_svg](https://github.com/Weasy666/bevy_svg): Load and draw SVG-files.
