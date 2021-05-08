@@ -86,11 +86,14 @@ These translations are unofficial, unverified, and potentially out of date.
 
 ### Audio
 
-* [bevy_kira_audio](https://github.com/NiklasEi/bevy_kira_audio): An alternative Bevy audio plugin using [Kira](https://github.com/tesselode/kira)
+* [bevy_kira_audio](https://github.com/NiklasEi/bevy_kira_audio): An alternative Bevy audio plugin using [Kira](https://github.com/tesselode/kira)a
 
 ### AI
 
 * [big-brain](https://github.com/zkat/big-brain): A highly-parallel [Utility AI](https://en.wikipedia.org/wiki/Utility_system) engine.
+
+### Platform Integration
+* [bevy-steamworks](https:://github.com/james7132/bevy-steamworks): Steamworks SDK Plugin.
 
 ### Development tools
 * [bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui): Visually edit fields of structs inside the game using [egui](https://github.com/emilk/egui).
