@@ -86,7 +86,7 @@ These translations are unofficial, unverified, and potentially out of date.
 
 ### Audio
 
-* [bevy_kira_audio](https://github.com/NiklasEi/bevy_kira_audio): An alternative Bevy audio plugin using [Kira](https://github.com/tesselode/kira)a
+* [bevy_kira_audio](https://github.com/NiklasEi/bevy_kira_audio): An alternative Bevy audio plugin using [Kira](https://github.com/tesselode/kira)
 
 ### AI
 
