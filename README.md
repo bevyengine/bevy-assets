@@ -92,6 +92,9 @@ These translations are unofficial, unverified, and potentially out of date.
 
 * [big-brain](https://github.com/zkat/big-brain): A highly-parallel [Utility AI](https://en.wikipedia.org/wiki/Utility_system) engine.
 
+### Platform Integration
+* [bevy-steamworks](https:://github.com/james7132/bevy-steamworks): Steamworks SDK Plugin.
+
 ### Development tools
 * [bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui): Visually edit fields of structs inside the game using [egui](https://github.com/emilk/egui).
 * [bevycheck](https://github.com/jakobhellermann/bevycheck): annotate invalid systems with `#[bevycheck::system]` to get nice error messages for what's wrong
