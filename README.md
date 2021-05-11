@@ -51,6 +51,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy-earcutr](https://github.com/frewsxcv/bevy-earcutr): Draw polygons
 * [bevy_prototype_parallax](https://github.com/btrepp/bevy-prototype-parallax): A parallax scrolling background plugin.
 * [bevy_svg](https://github.com/Weasy666/bevy_svg): Load and draw SVG-files.
+* [bevy_interact_2d](https://crates.io/crates/bevy_interact_2d): 2D mouse interactions
 
 ### Animation
 
