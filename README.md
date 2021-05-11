@@ -110,6 +110,7 @@ console commands.
 * [bevy_discovery](https://crates.io/crates/bevy_discovery): Automatically detects and registers systems for you.
 * [bevy_assetio_zip](https://github.com/katharostech/bevy_assetio_zip): A plugin for loading assets from an optionally obfuscated zip file.
 * [bevy_event_set](https://github.com/woubuc/bevy-event-set): A macro to create event bundles for Bevy
+* [bevy_debug_lines](https://github.com/Toqozz/bevy_debug_lines): Simple line drawing api for bevy.
 
 ## Templates
 * [bevy_game_template](https://github.com/NiklasEi/bevy_game_template): An opinionated template repository for a Bevy game including a workflow for Windows, Linux, macOS and Web (WASM) releases
