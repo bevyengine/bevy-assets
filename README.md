@@ -52,6 +52,7 @@ These translations are unofficial, unverified, and potentially out of date.
 * [bevy_prototype_parallax](https://github.com/btrepp/bevy-prototype-parallax): A parallax scrolling background plugin.
 * [bevy_svg](https://github.com/Weasy666/bevy_svg): Load and draw SVG-files.
 * [bevy_retro](https://github.com/katharostech/bevy_retro): 2D pixel-perfect renderer for Bevy with support for OpenGL/WebGL
+* [bevy_interact_2d](https://crates.io/crates/bevy_interact_2d): 2D mouse interactions
 
 ### Animation
 
@@ -111,6 +112,7 @@ console commands.
 * [bevy_discovery](https://crates.io/crates/bevy_discovery): Automatically detects and registers systems for you.
 * [bevy_assetio_zip](https://github.com/katharostech/bevy_assetio_zip): A plugin for loading assets from an optionally obfuscated zip file.
 * [bevy_event_set](https://github.com/woubuc/bevy-event-set): A macro to create event bundles for Bevy
+* [bevy_debug_lines](https://github.com/Toqozz/bevy_debug_lines): Simple line drawing api for bevy.
 
 ## Templates
 * [bevy_game_template](https://github.com/NiklasEi/bevy_game_template): An opinionated template repository for a Bevy game including a workflow for Windows, Linux, macOS and Web (WASM) releases
