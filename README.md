@@ -14,7 +14,8 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 
 ### Migration Guides
 
-* [0.3 to 0.4](https://sburris.xyz/posts/bevy-update-0-4/)
+* [0.3 to 0.4 (unofficial)](https://sburris.xyz/posts/bevy-update-0-4/)
+* [0.4 to 0.5 (official)](https://bevyengine.org/learn/book/migration-guides/0.4-0.5/)
 
 ### Languages
 
