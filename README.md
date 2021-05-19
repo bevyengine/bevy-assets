@@ -146,6 +146,7 @@ console commands.
 * [taipo](https://github.com/rparrett/taipo): A 2d typing/tower defense game for the browser.
 * [bevy-nbody](https://github.com/WhoisDavid/bevy-nbody) - 3d n-body simulation of the planets of the Solar System.
 * [flappy_bevy](https://github.com/TanTanDev/flappy_bevy) - A Flappy Bird clone
+* [smoke-rs](https://github.com/cvhariharan/smoke-rs) - A simple smoke simulation using particles, built with Bevy.
 
 ## Apps
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
