@@ -110,6 +110,7 @@ console commands.
 * [bevy_asset_ron](https://crates.io/crates/bevy_asset_ron): Custom RON Asset loading.
 * [bevy_contrib_colors](https://crates.io/crates/bevy_contrib_colors): A simple color library.
 * [bevy_prototype_inline_assets](https://crates.io/crates/bevy_prototype_inline_assets): A simple plugin for bundling assets into your binary.
+* [bevy_asset_loader](https://github.com/NiklasEi/bevy_asset_loader): Automatically load asset collections during a configurable State
 * [bevy_discovery](https://crates.io/crates/bevy_discovery): Automatically detects and registers systems for you.
 * [bevy_assetio_zip](https://github.com/katharostech/bevy_assetio_zip): A plugin for loading assets from an optionally obfuscated zip file.
 * [bevy_event_set](https://github.com/woubuc/bevy-event-set): A macro to create event bundles for Bevy
