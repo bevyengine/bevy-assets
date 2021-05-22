@@ -30,16 +30,20 @@ These translations are unofficial, unverified, and potentially out of date.
 * [Kurinji](https://crates.io/crates/kurinji): Input Map for bevy. Converts user input from different input hardware into game specific actions, eg. keyboard "Space" or joystick "A" can be mapped to "Jump" Action.  This allows decoupling of the game code from device specific input api.
 
 ### 3D
+
+* [bevy_4x_camera](https://crates.io/crates/bevy_4x_camera): A 4X style camera for bevy. [Demo](https://imgur.com/XIIDcIW)
 * [bevy_fly_camera](https://crates.io/crates/bevy_fly_camera): A flying camera plugin
 * [bevy_flycam](https://github.com/sburris0/bevy_flycam): A basic FPS-style camera controller
-* [Bevy-WoW](https://github.com/Tezza48/Bevy-WoW): A WoW-style camera
+* [bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking): 3D mouse picking plugin
+* [bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast): A plugin for raycasting against meshes and primitives
+* [bevy_mod_bounding](https://github.com/aevyrie/bevy_mod_picking): Bounding box generation for meshes
 * [bevy-orbit-controls](https://github.com/iMplode-nZ/bevy-orbit-controls): An orbit controls camera controller
 * [bevy_obj](https://github.com/AmionSky/bevy_obj): Wavefront .obj mesh asset loader plugin
-* [bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking): 3D mouse picking and ray casting plugin
 * [bevy_stl](https://github.com/nilclass/bevy_stl): STL mesh asset loader plugin
+* [bevy_transform_gizmo](https://github.com/ForesightMiningSoftwareCorporation/bevy_transform_gizmo): Interactive transform gizmo for transforming meshes in 3d with the mouse
 * [bevy_vox](https://github.com/erasin/bevy_vox): MagicaVoxel Vox file loader plugin
-* [bevy_4x_camera](https://crates.io/crates/bevy_4x_camera): A 4X style camera for bevy. [Demo](https://imgur.com/XIIDcIW)
 * [bevy_vox_mesh](https://github.com/Game4all/bevy_vox_mesh): Asset loader plugin to load MagicaVoxel files as meshes.
+* [Bevy-WoW](https://github.com/Tezza48/Bevy-WoW): A WoW-style camera
 
 ### 2D
 
