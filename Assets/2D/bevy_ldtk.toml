@@ -1,0 +1,3 @@
+name = "bevy_ldtk"
+description = "Efficient tilemap rendering for LDtk maps."
+link = "https://github.com/katharostech/bevy_ldtk"

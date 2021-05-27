@@ -1,0 +1,3 @@
+name = "bevy_asset_loader"
+description = "Automatically load asset collections during a configurable State"
+link = "https://github.com/NiklasEi/bevy_asset_loader"

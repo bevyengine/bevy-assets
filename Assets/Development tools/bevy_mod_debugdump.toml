@@ -1,0 +1,3 @@
+name = "bevy_mod_debugdump"
+description = "Render graph and schedule graph visualizers using egui."
+link = "https://github.com/jakobhellermann/bevy_mod_debugdump"

@@ -1,0 +1,3 @@
+name = "bevy_squares"
+description = "A remake of the 'Threes' game, built with Bevy"
+link = "https://github.com/TheNeikos/bevy_squares"
