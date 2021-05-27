@@ -1,0 +1,3 @@
+name = "bevy_stl"
+description = "STL mesh asset loader plugin"
+link = "https://github.com/nilclass/bevy_stl"

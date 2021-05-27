@@ -1,0 +1,3 @@
+name = "bevy_webgl2"
+description = "WebGL2 renderer plugin for WASM target"
+link = "https://github.com/mrk-its/bevy_webgl2"

@@ -1,0 +1,3 @@
+name = "bevy_transform_gizmo"
+description = "Interactive transform gizmo for transforming meshes in 3d with the mouse"
+link = "https://github.com/ForesightMiningSoftwareCorporation/bevy_transform_gizmo"

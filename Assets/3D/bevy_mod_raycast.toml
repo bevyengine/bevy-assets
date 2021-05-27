@@ -1,0 +1,3 @@
+name = "bevy_mod_raycast"
+description = "A plugin for raycasting against meshes and primitives"
+link = "https://github.com/aevyrie/bevy_mod_raycast"

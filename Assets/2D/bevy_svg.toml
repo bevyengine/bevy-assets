@@ -1,0 +1,3 @@
+name = "bevy_svg"
+description = "Load and draw SVG-files."
+link = "https://github.com/Weasy666/bevy_svg"

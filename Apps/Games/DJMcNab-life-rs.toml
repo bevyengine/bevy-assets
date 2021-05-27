@@ -1,0 +1,3 @@
+name = "DJMcNab/life-rs"
+description = "Bevy reproduction of the rules of Conway's Game of Life on a randomised board."
+link = "https://github.com/DJMcNab/life-rs"

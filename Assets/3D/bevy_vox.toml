@@ -1,0 +1,3 @@
+name = "bevy_vox"
+description = "MagicaVoxel Vox file loader plugin"
+link = "https://github.com/erasin/bevy_vox"

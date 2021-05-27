@@ -1,0 +1,3 @@
+name = "bevy_mod_bounding"
+description = "Bounding box generation for meshes"
+link = "https://github.com/aevyrie/bevy_mod_picking"

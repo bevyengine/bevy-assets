@@ -1,0 +1,3 @@
+name = "colonize"
+description = "A Dwarf Fortress/Rimworld-like game written in Rust."
+link = "https://github.com/indiv0/colonize"

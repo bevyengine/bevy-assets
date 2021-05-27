@@ -1,0 +1,3 @@
+name = "bevy_networking_turbulence"
+description = "Networking plugin running on naia-socket and turbulence libraries."
+link = "https://github.com/smokku/bevy_networking_turbulence"
