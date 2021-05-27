@@ -1,2 +1,3 @@
 name = "bevy_ecs_tilemap"
+description = "A plugin for tilemaps where each tile is an entity."
 link = "https://github.com/StarArawn/bevy_ecs_tilemap"

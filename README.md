@@ -46,7 +46,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 
 * [bevy_tiled](https://github.com/stararawn/bevy_tiled): A plugin for rendering Tiled maps
 * [bevy_tilemap](https://github.com/joshuajbouw/bevy_tilemap): Chunk rendered tilemap for Bevy game engine.
-* [bevy_ecs_tilemap](https://github.com/StarArawn/bevy_ecs_tilemap) A plugin for tilemaps where each tile is an entity.
+* [bevy_ecs_tilemap](https://github.com/StarArawn/bevy_ecs_tilemap): A plugin for tilemaps where each tile is an entity.
 * [bevy_ldtk](https://github.com/katharostech/bevy_ldtk): Efficient tilemap rendering for LDtk maps.
 * [bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon): Draw 2D shapes, like triangles, circles, and beziers.
 * [bevy_canvas](https://github.com/Nilirad/bevy_canvas): An immediate mode 2D drawing API.
@@ -146,9 +146,9 @@ console commands.
 * [colonize](https://github.com/indiv0/colonize): A Dwarf Fortress/Rimworld-like game written in Rust.
 * [oicana](https://github.com/NiklasEi/oicana): A tower defense game with puzzle aspects
 * [taipo](https://github.com/rparrett/taipo): A 2d typing/tower defense game for the browser.
-* [bevy-nbody](https://github.com/WhoisDavid/bevy-nbody) - 3d n-body simulation of the planets of the Solar System.
-* [flappy_bevy](https://github.com/TanTanDev/flappy_bevy) - A Flappy Bird clone
-* [smoke-rs](https://github.com/cvhariharan/smoke-rs) - A simple smoke simulation using particles, built with Bevy.
+* [bevy-nbody](https://github.com/WhoisDavid/bevy-nbody): 3d n-body simulation of the planets of the Solar System.
+* [flappy_bevy](https://github.com/TanTanDev/flappy_bevy): A Flappy Bird clone
+* [smoke-rs](https://github.com/cvhariharan/smoke-rs): A simple smoke simulation using particles, built with Bevy.
 
 ### Tools
 

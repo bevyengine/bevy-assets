@@ -1,2 +1,3 @@
 name = "flappy_bevy"
+description = "A Flappy Bird clone"
 link = "https://github.com/TanTanDev/flappy_bevy"
