@@ -28,7 +28,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 
 ### 3D
 
-* [bevy_4x_camera](https://crates.io/crates/bevy_4x_camera): A 4X style camera for bevy. [Demo](https://imgur.com/XIIDcIW)
+* [bevy_4x_camera](https://crates.io/crates/bevy_4x_camera): A 4X style camera for bevy. Demo: https://imgur.com/XIIDcIW
 * [bevy_fly_camera](https://crates.io/crates/bevy_fly_camera): A flying camera plugin
 * [bevy_flycam](https://github.com/sburris0/bevy_flycam): A basic FPS-style camera controller
 * [bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking): 3D mouse picking plugin
@@ -47,7 +47,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [bevy_tiled](https://github.com/stararawn/bevy_tiled): A plugin for rendering Tiled maps
 * [bevy_tilemap](https://github.com/joshuajbouw/bevy_tilemap): Chunk rendered tilemap for Bevy game engine.
 * [bevy_ecs_tilemap](https://github.com/StarArawn/bevy_ecs_tilemap) A plugin for tilemaps where each tile is an entity.
-* [bevy_ldtk](https://github.com/katharostech/bevy_ldtk): Efficient tilemap rendering for [LDtk](https://ldtk.io) maps.
+* [bevy_ldtk](https://github.com/katharostech/bevy_ldtk): Efficient tilemap rendering for LDtk maps.
 * [bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon): Draw 2D shapes, like triangles, circles, and beziers.
 * [bevy_canvas](https://github.com/Nilirad/bevy_canvas): An immediate mode 2D drawing API.
 * [bevy-earcutr](https://github.com/frewsxcv/bevy-earcutr): Draw polygons
@@ -63,15 +63,15 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 ### UI
 
 * [bevy_ninepatch](https://crates.io/crates/bevy_ninepatch): Display 9-Patch UI elements, where you can specify how different parts of a PNG should grow
-* [bevy_megaui](https://github.com/mvlabat/bevy_megaui): A plugin for [megaui](https://crates.io/crates/megaui) integration into Bevy
-* [bevy_egui](https://github.com/mvlabat/bevy_egui): A plugin for [egui](https://crates.io/crates/egui) integration into Bevy
-* [bevy_console](https://github.com/RichoDemus/bevy-console): A half-life2 style console using [bevy_egui](https://github.com/mvlabat/bevy_egui)
+* [bevy_megaui](https://github.com/mvlabat/bevy_megaui): A plugin for megaui integration into Bevy
+* [bevy_egui](https://github.com/mvlabat/bevy_egui): A plugin for egui integration into Bevy
+* [bevy_console](https://github.com/RichoDemus/bevy-console): A half-life2 style console using bevy_egui
 
 ### Backends
 
 * [prototype_bevy_sdl2](https://github.com/aclysma/prototype_bevy_sdl2): A prototype for SDL2 integration into Bevy
-* [bevy_miniquad](https://github.com/smokku/bevy_miniquad): A plugin replacing winit windowing and render pipeline with [miniquad](https://github.com/not-fl3/miniquad) library.
-* [bevy_doryen](https://github.com/smokku/bevy_doryen): A plugin integrating Bevy ECS with [doryen-rs](https://github.com/jice-nospam/doryen-rs) Ascii roguelike library.
+* [bevy_miniquad](https://github.com/smokku/bevy_miniquad): A plugin replacing winit windowing and render pipeline with miniquad library.
+* [bevy_doryen](https://github.com/smokku/bevy_doryen): A plugin integrating Bevy ECS with doryen-rs Ascii roguelike library.
 * [bevy_webgl2](https://github.com/mrk-its/bevy_webgl2): WebGL2 renderer plugin for WASM target
 
 ### Physics
@@ -85,24 +85,24 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 
 * [bevy_prototype_laminar_networking](https://github.com/ncallaway/bevy-prototype-laminar-networking): A prototype networking plugin using `laminar` as the transport.
 * [bevy_prototype_simple_net](https://github.com/0x22fe/bevy_prototype_simple_net): A working prototype networking plugin that can create client/server systems over TCP or UDP.
-* [bevy_networking_turbulence](https://github.com/smokku/bevy_networking_turbulence): Networking plugin running on [naia-socket](https://github.com/naia-rs/naia-socket) and [turbulence](https://github.com/kyren/turbulence) libraries.
-* [bevy_spicy_networking](https://github.com/CabbitStudios/bevy_spicy_networking): Unifying server/client networking crate using [tokio](https://github.com/tokio-rs/tokio) as asynchronous backend.
+* [bevy_networking_turbulence](https://github.com/smokku/bevy_networking_turbulence): Networking plugin running on naia-socket and turbulence libraries.
+* [bevy_spicy_networking](https://github.com/CabbitStudios/bevy_spicy_networking): Unifying server/client networking crate using tokio as asynchronous backend.
 
 ### Audio
 
-* [bevy_kira_audio](https://github.com/NiklasEi/bevy_kira_audio): An alternative Bevy audio plugin using [Kira](https://github.com/tesselode/kira)
+* [bevy_kira_audio](https://github.com/NiklasEi/bevy_kira_audio): An alternative Bevy audio plugin using Kira
 
 ### AI
 
-* [big-brain](https://github.com/zkat/big-brain): A highly-parallel [Utility AI](https://en.wikipedia.org/wiki/Utility_system) engine.
+* [big-brain](https://github.com/zkat/big-brain): A highly-parallel Utility AI engine.
 
 ### Platform Integration
 * [bevy-steamworks](https://github.com/james7132/bevy-steamworks): Steamworks SDK Plugin.
 
 ### Development tools
-* [bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui): Visually edit fields of structs inside the game using [egui](https://github.com/emilk/egui).
+* [bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui): Visually edit fields of structs inside the game using egui.
 * [bevycheck](https://github.com/jakobhellermann/bevycheck): annotate invalid systems with `#[bevycheck::system]` to get nice error messages for what's wrong
-* [bevy_mod_debugdump](https://github.com/jakobhellermann/bevy_mod_debugdump): Render graph and schedule graph visualizers using [egui](https://github.com/emilk/egui).
+* [bevy_mod_debugdump](https://github.com/jakobhellermann/bevy_mod_debugdump): Render graph and schedule graph visualizers using egui.
 * [autodefault](https://github.com/Lucretiel/autodefault): annotate functions to have them automatically insert `..Default::default()` into struct expressions. Useful when instantiating large, deeply nested components or component bundles.
 * [bevy_mod_debug_console](https://github.com/hymm/bevy_mod_debug_console): Get info from ecs through
 console commands.
@@ -140,8 +140,7 @@ console commands.
 * [Keep Moving and Nobody Burns](https://github.com/mockersf/kmanb): A bomberman against time (made for Ludum Dare 47)
 * [SiO2](https://github.com/dmitriy-shmilo/sio2): A simple powder toy clone
 * [Robbo](https://github.com/mrk-its/bevy-robbo): Bevy port of great 8-bit Atari game, working native and in the browser
-* [DJMcNab/life-rs](https://github.com/DJMcNab/life-rs): Bevy reproduction of the rules of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) on a randomised board.
-  * Alternative implementation: [Byteron/life-rs](https://github.com/Byteron/life-rs). 
+* [DJMcNab/life-rs](https://github.com/DJMcNab/life-rs): Bevy reproduction of the rules of Conway's Game of Life on a randomised board.
 * [Zenith](https://github.com/rsaihe/zenith): A space-themed shoot 'em up game
 * [arugio](https://github.com/ostwilkens/arugio): Prototype multiplayer server-authoritative networked "game" with Browser (WebGL) client and native server
 * [colonize](https://github.com/indiv0/colonize): A Dwarf Fortress/Rimworld-like game written in Rust.
