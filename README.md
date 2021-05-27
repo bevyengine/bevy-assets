@@ -4,6 +4,8 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 
 ## Learning
 
+### Tutorials
+
 * [Official Bevy Examples](https://github.com/bevyengine/bevy/tree/latest/examples): Learn each Bevy feature from minimal illustrative examples
 * [Bevy Cheatbook](https://bevy-cheatbook.github.io): Practical reference to programming in bevy! Covers basic concepts, syntax, and solutions to common game dev tasks!
 * [Maz.digital Blog](https://maz.digital/bevy/list): Beginner-focused blog posts introducing Bevy's features.
@@ -11,19 +13,14 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [Making Chess Clone in 3D](https://caballerocoll.com/blog/bevy-chess-tutorial): Walkthrough on how to make a Chess Clone with 3D pieces
 * [Using Rapier for Physics](https://sburris.xyz/posts/bevy-gravity/)
 * [Making a Rhythm game](https://caballerocoll.com/blog/bevy-rhythm-game): Walkthrough on how to make a Rhythm game, with menu, audio and shaders.
+* [Bevy Chinese Website(Bevy中文网)](https://bevyengine-cn.github.io/): Translate official website and The Bevy Book in Chinese
 
 ### Migration Guides
 
 * [0.3 to 0.4 (unofficial)](https://sburris.xyz/posts/bevy-update-0-4/)
 * [0.4 to 0.5 (official)](https://bevyengine.org/learn/book/migration-guides/0.4-0.5/)
 
-### Languages
-
-These translations are unofficial, unverified, and potentially out of date.
-
-* [Bevy Chinese Website(Bevy中文网)](https://bevyengine-cn.github.io/): Translate official website and The Bevy Book in Chinese
-
-## Plugins and Crates
+## Assets
 ### Input
 * [bevy_advanced_input](https://github.com/sadpython/bevy_advanced_input): Input keybindings, including support for combinations / hotkeys / modifier keys.
 * [bevy_input_actionmap](https://github.com/lightsoutgames/bevy_input_actionmap): Maps key and gamepad events to actions in Bevy.
@@ -120,11 +117,12 @@ console commands.
 * [bevy_event_set](https://github.com/woubuc/bevy-event-set): A macro to create event bundles for Bevy
 * [bevy_debug_lines](https://github.com/Toqozz/bevy_debug_lines): Simple line drawing api for bevy.
 
-## Templates
+### Templates
 * [bevy_game_template](https://github.com/NiklasEi/bevy_game_template): An opinionated template repository for a Bevy game including a workflow for Windows, Linux, macOS and Web (WASM) releases
 
-## Games
+## Apps
 
+### Games
 * [bevy_nbody](https://github.com/thallada/bevy-nbody): An N-body simulation in Rust
 * [flock-rs](https://github.com/JohnPeel/flock-rs): An example of steering and flocking behaviors
 * [bevy_pong](https://github.com/SuperiorJT/bevy_pong): It's Pong! Based on the "breakout" bevy example
@@ -153,5 +151,6 @@ console commands.
 * [flappy_bevy](https://github.com/TanTanDev/flappy_bevy) - A Flappy Bird clone
 * [smoke-rs](https://github.com/cvhariharan/smoke-rs) - A simple smoke simulation using particles, built with Bevy.
 
-## Apps
+### Tools
+
 * [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
