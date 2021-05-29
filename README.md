@@ -33,7 +33,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [bevy_flycam](https://github.com/sburris0/bevy_flycam): A basic FPS-style camera controller
 * [bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking): 3D mouse picking plugin
 * [bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast): A plugin for raycasting against meshes and primitives
-* [bevy_mod_bounding](https://github.com/aevyrie/bevy_mod_picking): Bounding box generation for meshes
+* [bevy_mod_bounding](https://github.com/aevyrie/bevy_mod_bounding): Bounding box generation for meshes
 * [bevy-orbit-controls](https://github.com/iMplode-nZ/bevy-orbit-controls): An orbit controls camera controller
 * [bevy_obj](https://github.com/AmionSky/bevy_obj): Wavefront .obj mesh asset loader plugin
 * [bevy_stl](https://github.com/nilclass/bevy_stl): STL mesh asset loader plugin
