@@ -1,4 +1,4 @@
-name: CI
+name: Deploy
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  check:
+  deploy-website:
     runs-on: ubuntu-latest
     steps:
       - name: trigger website deploy
