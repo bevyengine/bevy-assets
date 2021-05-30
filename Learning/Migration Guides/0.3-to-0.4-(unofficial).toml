@@ -1,3 +1,4 @@
 name = "0.3 to 0.4 (unofficial)"
 link = "https://sburris.xyz/posts/bevy-update-0-4/"
 order = 0
+description = "Migration guide to 0.4"

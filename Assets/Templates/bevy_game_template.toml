@@ -1,3 +1,3 @@
 name = "bevy_game_template"
-description = "An opinionated template repository for a Bevy game including a workflow for Windows, Linux, macOS and Web (WASM) releases"
+description = "An opinionated template for a Bevy game with workflows for Windows, Linux, macOS and WASM releases"
 link = "https://github.com/NiklasEi/bevy_game_template"
