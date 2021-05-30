@@ -1,0 +1,15 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: trigger website deploy
+        run: gh --repo bevyengine/bevy-website workflow run deploy.yml
+        env:
+          GITHUB_TOKEN: ${{ secrets.CART_PAT }}
