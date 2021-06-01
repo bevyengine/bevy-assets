@@ -1,160 +1,30 @@
-# Awesome Bevy
+# Bevy Assets
 
-An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy projects. If you would like to share what you're working on, submit a PR! Feel free to create new categories where it makes sense.
+A repository of cool Bevy projects. If you would like to share what you're working on, submit a PR! Feel free to create new categories where it makes sense.
 
-## Learning
+This repository can be explored in the [Bevy Asset website](https://bevyengine.org/assets/).
 
-### Tutorials
+## Asset Format
 
-* [Official Bevy Examples](https://github.com/bevyengine/bevy/tree/latest/examples): Learn each Bevy feature from minimal illustrative examples
-* [Bevy Cheatbook](https://bevy-cheatbook.github.io): Practical reference to programming in bevy! Covers basic concepts, syntax, and solutions to common game dev tasks!
-* [Maz.digital Blog](https://maz.digital/bevy/list): Beginner-focused blog posts introducing Bevy's features.
-* [Making a Snake Clone](https://mbuffett.com/posts/bevy-snake-tutorial/): Walkthrough on how to make a snake clone
-* [Making Chess Clone in 3D](https://caballerocoll.com/blog/bevy-chess-tutorial): Walkthrough on how to make a Chess Clone with 3D pieces
-* [Using Rapier for Physics](https://sburris.xyz/posts/bevy-gravity/)
-* [Making a Rhythm game](https://caballerocoll.com/blog/bevy-rhythm-game): Walkthrough on how to make a Rhythm game, with menu, audio and shaders.
-* [Bevy Chinese Website(Bevy中文网)](https://bevyengine-cn.github.io/): Translate official website and The Bevy Book in Chinese
+Assets are described in a toml file:
 
-### Migration Guides
+```toml
+# Name of your asset.
+name = "My Cool Plugin"
 
-* [0.3 to 0.4 (unofficial)](https://sburris.xyz/posts/bevy-update-0-4/)
-* [0.4 to 0.5 (official)](https://bevyengine.org/learn/book/migration-guides/0.4-0.5/)
+# Description of your asset. It should be less than 100 characters and not contain formatting.
+description = "A short and sweet description of My Cool Plugin"
 
-## Assets
-### Input
-* [bevy_advanced_input](https://github.com/sadpython/bevy_advanced_input): Input keybindings, including support for combinations / hotkeys / modifier keys.
-* [bevy_input_actionmap](https://github.com/lightsoutgames/bevy_input_actionmap): Maps key and gamepad events to actions in Bevy.
-* [Kurinji](https://crates.io/crates/kurinji): Input Map for bevy. Converts user input from different input hardware into game specific actions, eg. keyboard "Space" or joystick "A" can be mapped to "Jump" Action.  This allows decoupling of the game code from device specific input api.
+# Where can your asset be found. It can be a link to crates.io, github, gitlab or similar.
+link = "https://github.com/me/my_plugin"
 
-### 3D
+# Optional image to showcase your asset. Should be a png/jpg/gif located next to your toml file.
+image = "my_plugin_icon.png"
+```
 
-* [bevy_4x_camera](https://crates.io/crates/bevy_4x_camera): A 4X style camera for bevy. Demo: https://imgur.com/XIIDcIW
-* [bevy_fly_camera](https://crates.io/crates/bevy_fly_camera): A flying camera plugin
-* [bevy_flycam](https://github.com/sburris0/bevy_flycam): A basic FPS-style camera controller
-* [bevy_mod_picking](https://github.com/aevyrie/bevy_mod_picking): 3D mouse picking plugin
-* [bevy_mod_raycast](https://github.com/aevyrie/bevy_mod_raycast): A plugin for raycasting against meshes and primitives
-* [bevy_mod_bounding](https://github.com/aevyrie/bevy_mod_bounding): Bounding box generation for meshes
-* [bevy-orbit-controls](https://github.com/iMplode-nZ/bevy-orbit-controls): An orbit controls camera controller
-* [bevy_obj](https://github.com/AmionSky/bevy_obj): Wavefront .obj mesh asset loader plugin
-* [bevy_stl](https://github.com/nilclass/bevy_stl): STL mesh asset loader plugin
-* [bevy_transform_gizmo](https://github.com/ForesightMiningSoftwareCorporation/bevy_transform_gizmo): Interactive transform gizmo for transforming meshes in 3d with the mouse
-* [bevy_vox](https://github.com/erasin/bevy_vox): MagicaVoxel Vox file loader plugin
-* [bevy_vox_mesh](https://github.com/Game4all/bevy_vox_mesh): Asset loader plugin to load MagicaVoxel files as meshes.
-* [Bevy-WoW](https://github.com/Tezza48/Bevy-WoW): A WoW-style camera
+## Categories
 
-### 2D
-
-* [bevy_tiled](https://github.com/stararawn/bevy_tiled): A plugin for rendering Tiled maps
-* [bevy_tilemap](https://github.com/joshuajbouw/bevy_tilemap): Chunk rendered tilemap for Bevy game engine.
-* [bevy_ecs_tilemap](https://github.com/StarArawn/bevy_ecs_tilemap): A plugin for tilemaps where each tile is an entity.
-* [bevy_ldtk](https://github.com/katharostech/bevy_ldtk): Efficient tilemap rendering for LDtk maps.
-* [bevy_prototype_lyon](https://github.com/Nilirad/bevy_prototype_lyon): Draw 2D shapes, like triangles, circles, and beziers.
-* [bevy_canvas](https://github.com/Nilirad/bevy_canvas): An immediate mode 2D drawing API.
-* [bevy-earcutr](https://github.com/frewsxcv/bevy-earcutr): Draw polygons
-* [bevy_prototype_parallax](https://github.com/btrepp/bevy-prototype-parallax): A parallax scrolling background plugin.
-* [bevy_svg](https://github.com/Weasy666/bevy_svg): Load and draw SVG-files.
-* [bevy_retro](https://github.com/katharostech/bevy_retro): 2D pixel-perfect renderer for Bevy with support for OpenGL/WebGL
-* [bevy_interact_2d](https://crates.io/crates/bevy_interact_2d): 2D mouse interactions
-* [bevy_pixels](https://github.com/dtcristo/bevy_pixels): A plugin that uses Pixels (a tiny pixel buffer) for rendering.
-
-### Animation
-
-* [bevy_easings](https://crates.io/crates/bevy_easings): A plugin for easing a component value to another value, mainly used to animate transition between two transforms, but usable for other components.
-* [bevy_sprite_animation](https://github.com/PhaestusFox/bevy_sprite_animation): A plugin that recreates Aarthificial's Reanimator for bevy TextureAtlasSprites.
-
-### UI
-
-* [bevy_ninepatch](https://crates.io/crates/bevy_ninepatch): Display 9-Patch UI elements, where you can specify how different parts of a PNG should grow
-* [bevy_megaui](https://github.com/mvlabat/bevy_megaui): A plugin for megaui integration into Bevy
-* [bevy_egui](https://github.com/mvlabat/bevy_egui): A plugin for egui integration into Bevy
-* [bevy_console](https://github.com/RichoDemus/bevy-console): A half-life2 style console using bevy_egui
-
-### Backends
-
-* [prototype_bevy_sdl2](https://github.com/aclysma/prototype_bevy_sdl2): A prototype for SDL2 integration into Bevy
-* [bevy_miniquad](https://github.com/smokku/bevy_miniquad): A plugin replacing winit windowing and render pipeline with miniquad library.
-* [bevy_doryen](https://github.com/smokku/bevy_doryen): A plugin integrating Bevy ECS with doryen-rs Ascii roguelike library.
-* [bevy_webgl2](https://github.com/mrk-its/bevy_webgl2): WebGL2 renderer plugin for WASM target
-
-### Physics
-
-* [bevy_rapier](https://github.com/dimforge/bevy_rapier): A plugin for Rapier, a 2D and 3D physics engine. Maintained by the Rapier developers.
-* [heron](https://github.com/jcornaz/heron): An ergonomic physics API for 2d and 3d bevy games. (powered by rapier)
-* [physme](https://github.com/walterpie/physme): A simplistic physics engine for both 2D and 3D simulation. Physically inaccurate, but feels satisfying and is easy to use.
-* [bevy_physimple](https://github.com/RustyStriker/bevy_physimple): A physics lib for the bevy game engine based on physme.
-
-### Networking
-
-* [bevy_prototype_laminar_networking](https://github.com/ncallaway/bevy-prototype-laminar-networking): A prototype networking plugin using `laminar` as the transport.
-* [bevy_prototype_simple_net](https://github.com/0x22fe/bevy_prototype_simple_net): A working prototype networking plugin that can create client/server systems over TCP or UDP.
-* [bevy_networking_turbulence](https://github.com/smokku/bevy_networking_turbulence): Networking plugin running on naia-socket and turbulence libraries.
-* [bevy_spicy_networking](https://github.com/CabbitStudios/bevy_spicy_networking): Unifying server/client networking crate using tokio as asynchronous backend.
-
-### Audio
-
-* [bevy_kira_audio](https://github.com/NiklasEi/bevy_kira_audio): An alternative Bevy audio plugin using Kira
-
-### AI
-
-* [big-brain](https://github.com/zkat/big-brain): A highly-parallel Utility AI engine.
-
-### Platform Integration
-* [bevy-steamworks](https://github.com/james7132/bevy-steamworks): Steamworks SDK Plugin.
-
-### Development tools
-* [bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui): Visually edit fields of structs inside the game using egui.
-* [bevycheck](https://github.com/jakobhellermann/bevycheck): annotate invalid systems with `#[bevycheck::system]` to get nice error messages for what's wrong
-* [bevy_mod_debugdump](https://github.com/jakobhellermann/bevy_mod_debugdump): Render graph and schedule graph visualizers using egui.
-* [autodefault](https://github.com/Lucretiel/autodefault): annotate functions to have them automatically insert `..Default::default()` into struct expressions. Useful when instantiating large, deeply nested components or component bundles.
-* [bevy_mod_debug_console](https://github.com/hymm/bevy_mod_debug_console): Get info from ecs through
-console commands.
-
-### Helpers
-* [bevy_asset_ron](https://crates.io/crates/bevy_asset_ron): Custom RON Asset loading.
-* [bevy_contrib_colors](https://crates.io/crates/bevy_contrib_colors): A simple color library.
-* [bevy_prototype_inline_assets](https://crates.io/crates/bevy_prototype_inline_assets): A simple plugin for bundling assets into your binary.
-* [bevy_asset_loader](https://github.com/NiklasEi/bevy_asset_loader): Automatically load asset collections during a configurable State
-* [bevy_discovery](https://crates.io/crates/bevy_discovery): Automatically detects and registers systems for you.
-* [bevy_assetio_zip](https://github.com/katharostech/bevy_assetio_zip): A plugin for loading assets from an optionally obfuscated zip file.
-* [bevy_event_set](https://github.com/woubuc/bevy-event-set): A macro to create event bundles for Bevy
-* [bevy_debug_lines](https://github.com/Toqozz/bevy_debug_lines): Simple line drawing api for bevy.
-
-### Accessibility
-* [bevy_fluent](https://github.com/kgv/bevy_fluent): A plugin for localization using Fluent
-
-### Templates
-* [bevy_game_template](https://github.com/NiklasEi/bevy_game_template): An opinionated template repository for a Bevy game including a workflow for Windows, Linux, macOS and Web (WASM) releases
-
-## Apps
-
-### Games
-* [bevy_nbody](https://github.com/thallada/bevy-nbody): An N-body simulation in Rust
-* [flock-rs](https://github.com/JohnPeel/flock-rs): An example of steering and flocking behaviors
-* [bevy_pong](https://github.com/SuperiorJT/bevy_pong): It's Pong! Based on the "breakout" bevy example
-* [bevy-tetris](https://github.com/8bit-pudding/bevy-tetris): It's Tetris!
-* [snake_bevy](https://github.com/mtKeller/snake_bevy): It's Snake!
-* [bevy-space-invaders](https://github.com/nicolashahn/bevy-space-invaders): It's Space Invaders!
-* [i_sjon_kan_ingen_hora_dig_skrika](https://gitlab.com/TheZoq2/i_sjon_kan_ingen_hora_dig_skrika): Swedish rowing boat pirate simulator 2020
-* [labyrinth-game](https://github.com/insrcd/labrynth-game): A humble attempt at a roguelike / market-sim game
-* [bevy_sokoban](https://github.com/ropewalker/bevy_sokoban): Simple implementation of Sokoban
-* [per_spatium](https://gitlab.com/BottledByte/per-spatium): Scroll-down space shooter game
-* [bevy_rider](https://github.com/bonsairobo/bevy_rider): Line Rider, riding linearly, on segments of lines
-* [bevy_squares](https://github.com/TheNeikos/bevy_squares): A remake of the 'Threes' game, built with Bevy
-* [Kataster](https://github.com/Bobox214/Kataster): A simple single-screen spaceshooter with rapier2d
-* [Keep Inside](https://github.com/davidB/ld47_keep_inside): A solo pong on a circle (made for Ludum Dare 47)
-* [Keep Moving and Nobody Burns](https://github.com/mockersf/kmanb): A bomberman against time (made for Ludum Dare 47)
-* [SiO2](https://github.com/dmitriy-shmilo/sio2): A simple powder toy clone
-* [Robbo](https://github.com/mrk-its/bevy-robbo): Bevy port of great 8-bit Atari game, working native and in the browser
-* [DJMcNab/life-rs](https://github.com/DJMcNab/life-rs): Bevy reproduction of the rules of Conway's Game of Life on a randomised board.
-* [Zenith](https://github.com/rsaihe/zenith): A space-themed shoot 'em up game
-* [arugio](https://github.com/ostwilkens/arugio): Prototype multiplayer server-authoritative networked "game" with Browser (WebGL) client and native server
-* [colonize](https://github.com/indiv0/colonize): A Dwarf Fortress/Rimworld-like game written in Rust.
-* [oicana](https://github.com/NiklasEi/oicana): A tower defense game with puzzle aspects
-* [taipo](https://github.com/rparrett/taipo): A 2d typing/tower defense game for the browser.
-* [bevy-nbody](https://github.com/WhoisDavid/bevy-nbody): 3d n-body simulation of the planets of the Solar System.
-* [flappy_bevy](https://github.com/TanTanDev/flappy_bevy): A Flappy Bird clone
-* [smoke-rs](https://github.com/cvhariharan/smoke-rs): A simple smoke simulation using particles, built with Bevy.
-
-### Tools
-
-* [bevy-calc](https://github.com/PravinKumar95/simple-calc): A simple calculator
+Assets are organised in the following categories:
+* [Learning](./Learning) - Anything that can help learn Bevy.
+* [Assets](./Assets) - Crates that can be used in a Bevy project. These plugins offers additional functionality, see [Bevy plugin guildelines](https://github.com/bevyengine/bevy/blob/main/docs/plugins_guidelines.md) on how to create your plugin crate.
+* [Apps](./Apps) - Games and Tools made with Bevy.
