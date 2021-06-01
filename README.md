@@ -1,6 +1,6 @@
 # Bevy Assets
 
-A repository of Bevy assets, plugins, learning resources, and apps made by the community. If you would like to share what you're working on, submit a PR! Feel free to create new categories where it makes sense.
+A collection of Bevy assets, plugins, learning resources, and apps made by the community. If you would like to share what you're working on, submit a PR! Feel free to create new categories where it makes sense.
 
 This repository can be explored in the [Bevy Asset website](https://bevyengine.org/assets/).
 
