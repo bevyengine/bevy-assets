@@ -1,0 +1,3 @@
+name = "bevy_sprite_animation"
+description = "A plugin that recreates Aarthificial's Reanimator for bevy TextureAtlasSprites."
+link = "https://github.com/PhaestusFox/bevy_sprite_animation"

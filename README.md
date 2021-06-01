@@ -55,12 +55,12 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 * [bevy_svg](https://github.com/Weasy666/bevy_svg): Load and draw SVG-files.
 * [bevy_retro](https://github.com/katharostech/bevy_retro): 2D pixel-perfect renderer for Bevy with support for OpenGL/WebGL
 * [bevy_interact_2d](https://crates.io/crates/bevy_interact_2d): 2D mouse interactions
-* [bevy_pixels](https://github.com/dtcristo/bevy_pixels): A plugin that uses [Pixels](https://github.com/parasyte/pixels) (a tiny pixel buffer) for rendering.
+* [bevy_pixels](https://github.com/dtcristo/bevy_pixels): A plugin that uses Pixels (a tiny pixel buffer) for rendering.
 
 ### Animation
 
 * [bevy_easings](https://crates.io/crates/bevy_easings): A plugin for easing a component value to another value, mainly used to animate transition between two transforms, but usable for other components.
-* [bevy_sprite_animation](https://github.com/PhaestusFox/bevy_sprite_animation): A plugin that recreates [Aarthificial's Reanimator](https://github.com/aarthificial/reanimation) for bevy TextureAtlasSprites.
+* [bevy_sprite_animation](https://github.com/PhaestusFox/bevy_sprite_animation): A plugin that recreates Aarthificial's Reanimator for bevy TextureAtlasSprites.
 
 ### UI
 
@@ -120,7 +120,7 @@ console commands.
 * [bevy_debug_lines](https://github.com/Toqozz/bevy_debug_lines): Simple line drawing api for bevy.
 
 ### Accessibility
-* [bevy_fluent](https://github.com/kgv/bevy_fluent): A plugin for localization using [Fluent](https://github.com/projectfluent/fluent-rs)
+* [bevy_fluent](https://github.com/kgv/bevy_fluent): A plugin for localization using Fluent
 
 ### Templates
 * [bevy_game_template](https://github.com/NiklasEi/bevy_game_template): An opinionated template repository for a Bevy game including a workflow for Windows, Linux, macOS and Web (WASM) releases
