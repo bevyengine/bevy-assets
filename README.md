@@ -118,6 +118,9 @@ console commands.
 * [bevy_event_set](https://github.com/woubuc/bevy-event-set): A macro to create event bundles for Bevy
 * [bevy_debug_lines](https://github.com/Toqozz/bevy_debug_lines): Simple line drawing api for bevy.
 
+### Accessibility
+* [bevy_fluent](https://github.com/kgv/bevy_fluent): A plugin for localization using [Fluent](https://github.com/projectfluent/fluent-rs)
+
 ### Templates
 * [bevy_game_template](https://github.com/NiklasEi/bevy_game_template): An opinionated template repository for a Bevy game including a workflow for Windows, Linux, macOS and Web (WASM) releases
 
