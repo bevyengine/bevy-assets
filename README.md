@@ -60,6 +60,7 @@ An [awesome](https://github.com/sindresorhus/awesome)-style list of cool Bevy pr
 ### Animation
 
 * [bevy_easings](https://crates.io/crates/bevy_easings): A plugin for easing a component value to another value, mainly used to animate transition between two transforms, but usable for other components.
+* [bevy_sprite_animation](https://github.com/PhaestusFox/bevy_sprite_animation): A plugin that recreates [Aarthificial's Reanimator](https://github.com/aarthificial/reanimation) for bevy TextureAtlasSprites.
 
 ### UI
 
