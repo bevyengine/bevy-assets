@@ -1,0 +1,4 @@
+name = "bevy_config_cam"
+description = "A Swiss Army knife of a camera plugin that allows for easy setup and configuration of a wide variety of types of moveable cameras and player cameras for a scene."
+link = "https://github.com/BlackPhlox/bevy_config_cam"
+image = "bevy_config_cam_low_fov.png"
