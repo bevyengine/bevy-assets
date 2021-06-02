@@ -1,4 +1,4 @@
 name = "bevy_config_cam"
-description = "An easy plug-n-play multifunctional camera controller with many camera modes to fit your every need"
+description = "An easy plug-n-play multifunctional camera controller with many camera-modes to fit your every need"
 link = "https://github.com/BlackPhlox/bevy_config_cam"
 image = "bevy_config_cam_low_fov.png"
