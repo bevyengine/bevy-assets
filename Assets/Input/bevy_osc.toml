@@ -1,4 +1,3 @@
 name = "bevy_osc"
 description = "Send and receive OSC data to and from bevy and other programs or controllers that uses OSC"
 link = "https://github.com/BlackPhlox/bevy_osc"
-image = "bevy_osc_logo.png"
