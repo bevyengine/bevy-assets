@@ -1,0 +1,4 @@
+name = "Bounce Up!"
+description = "Pong but has gravity"
+link = "https://github.com/cryscan/summer-jam"
+image = "bounce-up.gif"
