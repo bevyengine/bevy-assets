@@ -1,0 +1,3 @@
+name = "bevy_assets_bundler"
+description = "Assets Bundler with content encryption support"
+link = "https://github.com/hanabi1224/bevy_assets_bundler"
