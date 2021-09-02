@@ -1,0 +1,3 @@
+name = "bevy_loading"
+description = "Easily implement a loading state, tracking the progress of assets and other tasks."
+link = "https://crates.io/crates/bevy_loading"
