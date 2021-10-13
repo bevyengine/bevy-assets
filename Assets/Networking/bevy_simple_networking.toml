@@ -1,0 +1,3 @@
+name = "bevy_simple_networking"
+description = "A simple authoritative server networking library for Bevy"
+link = "https://github.com/bacongobbler/bevy_simple_networking"
