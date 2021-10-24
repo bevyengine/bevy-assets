@@ -1,0 +1,3 @@
+name = "bevy_atmosphere"
+description = "A procedural sky plugin"
+link = "https://crates.io/crates/bevy_atmosphere"
