@@ -1,3 +1,3 @@
 name = "Bevy Cheatbook"
-description = "Practical reference to bevy! Covers basic concepts, syntax, and solutions to common game dev tasks!"
+description = "Unofficial reference book for Bevy. Offers useful practical advice and teaches topics not yet covered by Bevy's official docs."
 link = "https://bevy-cheatbook.github.io"
