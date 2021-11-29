@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@master
 
       - name: "Install Asset Validator"
-        run: cargo install --git https://github.com/bevyengine/bevy-website/ --path generate-assets --bin validate
+        run: cargo install --git https://github.com/bevyengine/bevy-website/ generate-assets --bin validate
 
       - name: "Check Assets"
         run: validate ./
