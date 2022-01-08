@@ -1,0 +1,3 @@
+name = "bevy-ui-navigation"
+description = "Add a menu navigation system using components"
+link = "https://crates.io/crates/bevy-ui-navigation"
