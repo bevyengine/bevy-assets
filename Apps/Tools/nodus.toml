@@ -1,0 +1,4 @@
+name = "Nodus"
+description = "Logic gate simulator"
+link = "https://github.com/r4gus/nodus"
+image = "nodus.gif"
