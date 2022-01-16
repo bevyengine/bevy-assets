@@ -1,0 +1,4 @@
+name = "bevy_ecs_ldtk"
+description = "An ergonomic and ECS-friendly ldtk plugin!"
+link = "https://github.com/Trouv/bevy_ecs_ldtk"
+image = "bevy_ecs_ldtk.gif"
