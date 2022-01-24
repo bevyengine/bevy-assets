@@ -1,0 +1,3 @@
+name = "ezinput"
+description = "Easier joystick, mouse and keyboard input handling in Bevy"
+link = "https://github.com/existentially/ezinput"
