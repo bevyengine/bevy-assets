@@ -1,0 +1,4 @@
+name = "bevy_life"
+description = "Cellular Automaton plugin for Bevy game engine."
+link = "https://github.com/ManevilleF/bevy_life"
+image = "bevy_life.png"
