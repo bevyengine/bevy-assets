@@ -1,0 +1,4 @@
+name = "bevy_tileset"
+description = "Simple, configurable tilesets in Bevy using RON."
+link = "https://github.com/MrGVSV/bevy_tileset"
+image = "bevy_tileset.gif"
