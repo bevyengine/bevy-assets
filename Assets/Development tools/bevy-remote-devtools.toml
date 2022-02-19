@@ -1,0 +1,3 @@
+name = "bevy-remote-devtools"
+description = "UI for debugging entities, assets, logs and systems over network"
+link = "https://github.com/reneeichhorn/bevy-remote-devtools"
