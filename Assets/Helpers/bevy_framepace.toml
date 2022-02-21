@@ -1,3 +1,4 @@
 name = "bevy_framepace"
 description = "Framepacing and framelimiting for bevy"
 link = "https://crates.io/crates/bevy_framepace"
+image = "bevy_framepace.png"
