@@ -1,0 +1,4 @@
+name = "Minesweeper Tutorial"
+description = "Learn to make a cross platform minesweeper in Bevy 0.6"
+link = "https://dev.to/qongzi/bevy-minesweeper-introduction-4l7f"
+image = "minesweper-tutorial.png"
