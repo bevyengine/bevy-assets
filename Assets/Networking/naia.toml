@@ -1,0 +1,3 @@
+name = "naia"
+description = "Cross-platform client/server networking library with ECS world sync & FPS-style rollback"
+link = "https://github.com/naia-rs/naia/tree/main/demos/bevy"
