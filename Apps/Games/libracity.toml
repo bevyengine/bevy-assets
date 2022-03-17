@@ -1,0 +1,4 @@
+name = "Libracity"
+description = "A puzzle game where you build a city at equilibrium on a needle. (LDJam #49)"
+link = "https://github.com/djeedai/libracity"
+image = "libracity.png"
