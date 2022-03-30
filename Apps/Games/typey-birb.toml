@@ -1,0 +1,4 @@
+name = "Typey Birb"
+description = "A simple typing game. Built for Bevy Jam #1."
+link = "https://github.com/rparrett/typey_birb"
+image = "typey-birb.png"
