@@ -1,0 +1,4 @@
+name = "Moon creator"
+description = "Yet another n-body simulation with egui interface for settings"
+link = "https://github.com/pjankiewicz/nbody"
+image = "nbody_moon_creator.gif"
