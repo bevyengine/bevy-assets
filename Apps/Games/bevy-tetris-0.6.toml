@@ -2,7 +2,7 @@
 name = "Tetris for Bevy 0.6"
 
 # Description of your asset. It should be less than 100 characters and not contain formatting.
-description = "A partial Tetris clone written as an introductory tutorial fo Bevy 0.6"
+description = "A partial Tetris clone written as an introductory tutorial for Bevy 0.6"
 
 # Where can your asset be found. It can be a link to crates.io, github, gitlab or similar.
 link = "https://github.com/langp11/bevy-tetris-0.6"
