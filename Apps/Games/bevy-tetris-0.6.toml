@@ -9,5 +9,3 @@ link = "https://github.com/langp11/bevy-tetris-0.6"
 
 # Optional image to showcase your asset. Should be a png/jpg/gif located next to your toml file.
 image = "bevy-tetris-0.6.png"
-
-#https://github.com/bevyengine/bevy-assets
