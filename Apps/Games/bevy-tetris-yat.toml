@@ -8,4 +8,4 @@ description = "Tetris clone for Bevy 0.4/0.6/0.7"
 link = "https://github.com/corbamico/bevy-tetris"
 
 # Optional image to showcase your asset. Should be a png/jpg/gif located next to your toml file.
-image = "bevy-tetris-yat.jpg"
+image = "bevy-tetris-yat.gif"
