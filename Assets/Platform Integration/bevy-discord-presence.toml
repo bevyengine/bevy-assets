@@ -1,0 +1,3 @@
+name = "bevy-discord-presence"
+description = "Discord Rich Presence Client for the Bevy Game Engine."
+link = "https://github.com/jewlexx/discord-presence"
