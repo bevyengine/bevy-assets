@@ -1,0 +1,3 @@
+name = "bevy_rrise"
+description = "Bevy audio plugin using Wwise"
+link = "https://github.com/dtaralla/bevy-rrise"
