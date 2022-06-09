@@ -1,0 +1,3 @@
+name = "bevy_rosc"
+description = "Send and receive OSC 1.0 messages using the rosc library"
+link = "https://github.com/DrLuke/bevy_rosc"
