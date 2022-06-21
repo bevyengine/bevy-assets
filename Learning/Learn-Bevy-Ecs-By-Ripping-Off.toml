@@ -1,0 +1,3 @@
+name = "Learn Bevy's ECS by ripping off someone else's project"
+description = "A tutorial on Bevy's ECS, taught by porting Rusty Roguelike from Legion to Bevy"
+link = "https://saveriomiroddi.github.io/learn_bevy_ecs_by_ripping_off"
