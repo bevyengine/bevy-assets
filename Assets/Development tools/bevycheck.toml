@@ -1,0 +1,3 @@
+name = "bevycheck"
+description = "annotate invalid systems with `#[bevycheck::system]` to get nice error messages for what's wrong"
+link = "https://github.com/jakobhellermann/bevycheck"

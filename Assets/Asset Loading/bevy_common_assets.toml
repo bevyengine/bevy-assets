@@ -1,0 +1,3 @@
+name = "bevy_common_assets"
+description = "Plugins to load json, yaml, ron, toml, and MessagePack assets"
+link = "https://github.com/NiklasEi/bevy_common_assets"

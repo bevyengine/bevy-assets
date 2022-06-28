@@ -1,0 +1,3 @@
+name = "bevy_megaui"
+description = "A plugin for megaui integration into Bevy"
+link = "https://github.com/mvlabat/bevy_megaui"

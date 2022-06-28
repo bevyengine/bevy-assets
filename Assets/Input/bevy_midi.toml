@@ -1,0 +1,4 @@
+name = "bevy_midi"
+description = "Send and receive MIDI data to and from bevy using DAWS or MIDI Controllers"
+link = "https://github.com/BlackPhlox/bevy_midi"
+image = "bevy_midi_logo.png"

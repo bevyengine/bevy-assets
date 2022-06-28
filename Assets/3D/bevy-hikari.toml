@@ -1,0 +1,4 @@
+name = "bevy-hikari"
+description = "Voxel cone tracing global illumination plugin"
+link = "https://github.com/cryscan/bevy-hikari"
+image = "bevy-hikari.gif"

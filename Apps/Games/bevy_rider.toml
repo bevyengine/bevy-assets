@@ -1,0 +1,3 @@
+name = "bevy_rider"
+description = "Line Rider, riding linearly, on segments of lines"
+link = "https://github.com/bonsairobo/bevy_rider"

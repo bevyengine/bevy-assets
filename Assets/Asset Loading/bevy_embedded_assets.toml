@@ -1,0 +1,4 @@
+name = "bevy_embedded_assets"
+description = "Plugin to embed assets in your game binary"
+link = "https://github.com/vleue/bevy_embedded_assets"
+image = "bevy_embedded_assets.png"

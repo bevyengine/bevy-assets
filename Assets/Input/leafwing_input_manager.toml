@@ -1,0 +1,3 @@
+name = "leafwing_input_manager"
+description = "Track actions and configure cross-device input mappings. Fully documented; exceptionally ergonomic."
+link = "https://crates.io/crates/leafwing-input-manager"

@@ -1,0 +1,4 @@
+name = "bevy_easings"
+description = "Easing (or tweening) a component value to another value."
+link = "https://crates.io/crates/bevy_easings"
+image = "bevy_easings.gif"

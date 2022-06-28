@@ -1,0 +1,4 @@
+name = "UnFlock"
+description = "Drag the birds around until no more lines intersect."
+link = "https://gitlab.com/central-gaming-system/unflock/"
+image = "unflock.png"

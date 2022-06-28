@@ -1,0 +1,3 @@
+name = "bevy_prototype_parallax"
+description = "A parallax scrolling background plugin."
+link = "https://github.com/btrepp/bevy-prototype-parallax"

@@ -1,0 +1,4 @@
+name = "taileater"
+description = "Bevy port of great 8-bit Atari game, working native and in the browser"
+link = "https://github.com/szunami/taileater"
+image = "taileater.gif"

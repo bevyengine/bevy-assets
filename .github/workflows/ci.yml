@@ -1,0 +1,16 @@
+name: CI
+
+on:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - name: "Install Asset Validator"
+        run: cargo install --git https://github.com/bevyengine/bevy-website/ generate-assets --bin validate
+
+      - name: "Check Assets"
+        run: validate ./

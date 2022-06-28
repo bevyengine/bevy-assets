@@ -1,0 +1,3 @@
+name = "physme"
+description = "A simplistic physics engine for 2D/3D sims. Physically inaccurate, but satisfying and easy to use."
+link = "https://github.com/walterpie/physme"

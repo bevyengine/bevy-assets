@@ -1,0 +1,4 @@
+name = "bevy_tweening"
+description = "A tweening (easing) animation plugin for components and assets."
+link = "https://crates.io/crates/bevy_tweening"
+image = "bevy_tweening.gif"

@@ -1,0 +1,7 @@
+name = "Bevy Combat"
+
+description = " A sci-fi battle simulation implemented in the bevy engine. "
+
+link = "https://github.com/ElliotB256/bevy_combat"
+
+image = "bevy_combat.gif"

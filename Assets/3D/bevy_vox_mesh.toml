@@ -1,0 +1,3 @@
+name = "bevy_vox_mesh"
+description = "Asset loader plugin to load MagicaVoxel files as meshes."
+link = "https://github.com/Game4all/bevy_vox_mesh"

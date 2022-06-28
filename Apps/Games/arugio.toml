@@ -1,0 +1,3 @@
+name = "arugio"
+description = "Multiplayer server-authoritative networked 'game' with Browser (WebGL) client and native server"
+link = "https://github.com/ostwilkens/arugio"

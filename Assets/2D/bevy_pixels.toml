@@ -1,0 +1,3 @@
+name = "bevy_pixels"
+description = "A plugin that uses Pixels (a tiny pixel buffer) for rendering."
+link = "https://github.com/dtcristo/bevy_pixels"

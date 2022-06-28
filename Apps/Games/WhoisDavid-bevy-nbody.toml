@@ -1,0 +1,3 @@
+name = "WhoisDavid-bevy-nbody"
+description = "3d n-body simulation of the planets of the Solar System."
+link = "https://github.com/WhoisDavid/bevy-nbody"
