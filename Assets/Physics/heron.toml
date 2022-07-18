@@ -1,3 +1,5 @@
 name = "heron"
 description = "An ergonomic physics API for 2d and 3d bevy games. (powered by rapier)"
 link = "https://github.com/jcornaz/heron"
+bevy_versions = ["0.7.0"]
+licenses = ["MIT"]

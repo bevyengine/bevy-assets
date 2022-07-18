@@ -1,3 +1,5 @@
 name = "bevy-steamworks"
 description = "Steamworks SDK Plugin."
 link = "https://github.com/james7132/bevy-steamworks"
+bevy_versions = ["0.7"]
+licenses = ["MIT", "Apache-2.0"]

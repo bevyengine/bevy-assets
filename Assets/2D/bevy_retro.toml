@@ -1,3 +1,4 @@
 name = "bevy_retro"
 description = "2D pixel-perfect renderer for Bevy with support for OpenGL/WebGL"
 link = "https://github.com/katharostech/bevy_retro"
+bevy_versions = ["0.7.0"]

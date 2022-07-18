@@ -1,3 +1,5 @@
 name = "bevy_physimple"
 description = "A physics lib for the bevy game engine based on physme."
 link = "https://github.com/RustyStriker/bevy_physimple"
+bevy_versions = ["0.7.0"]
+licenses = ["MIT"]

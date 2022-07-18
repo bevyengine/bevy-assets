@@ -1,3 +1,5 @@
 name = "bevy_github_ci_template"
 description = "A simple template providing basic CI and automated builds for Windows, Linux, MacOS and the web."
 link = "https://github.com/bevyengine/bevy_github_ci_template"
+bevy_versions = ["0.6"]
+licenses = ["MIT", "Apache-2.0"]

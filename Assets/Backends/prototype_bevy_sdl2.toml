@@ -1,3 +1,5 @@
 name = "prototype_bevy_sdl2"
 description = "A prototype for SDL2 integration into Bevy"
 link = "https://github.com/aclysma/prototype_bevy_sdl2"
+bevy_versions = ["0.1"]
+licenses = ["MIT"]

@@ -1,3 +1,4 @@
 name = "bevy_game_template"
 description = "An opinionated template for a Bevy game with workflows for Windows, Linux, macOS and WASM releases"
 link = "https://github.com/NiklasEi/bevy_game_template"
+bevy_versions = ["0.7"]

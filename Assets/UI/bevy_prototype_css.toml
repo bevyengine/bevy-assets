@@ -1,3 +1,5 @@
 name = "Bevy CSS (Prototype)"
 description = "Bevy UI Node Styles defined with CSS"
 link = "https://github.com/sharky-david/bevy_prototype_css"
+bevy_versions = ["0.7.0"]
+licenses = ["MIT", "Apache-2.0"]

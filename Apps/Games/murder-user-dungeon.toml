@@ -1,7 +1,5 @@
 name = "Murder User Dungeon"
-
 description = "A 2D game made in one week for the RustyJam21"
-
 link = "https://github.com/TheRealTeamFReSh/MurderUserDungeon"
-
 image = "murder-user-dungeon.png"
+bevy_versions = ["0.6.0"]

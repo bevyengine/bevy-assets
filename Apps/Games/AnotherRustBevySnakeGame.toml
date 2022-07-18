@@ -1,3 +1,5 @@
 name = "Another Snake Game"
 description = "Another, very simple snake clone"
 link = "https://github.com/JhnW/AnotherRustBevySnakeGame"
+bevy_versions = ["0.7"]
+licenses = ["MIT"]

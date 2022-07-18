@@ -2,3 +2,5 @@ name = "bevy_ggrs"
 description = "Integration plugin for the P2P rollback networking library GGRS."
 link = "https://github.com/gschup/bevy_ggrs"
 image = "ggrs_logo.png"
+bevy_versions = ["0.7"]
+licenses = ["MIT", "Apache-2.0"]

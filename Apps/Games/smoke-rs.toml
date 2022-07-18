@@ -1,3 +1,4 @@
 name = "smoke-rs"
 description = "A simple smoke simulation using particles, built with Bevy."
 link = "https://github.com/cvhariharan/smoke-rs"
+bevy_versions = ["0.5.0"]

@@ -1,3 +1,5 @@
 name = "bevy-orbit-controls"
 description = "An orbit controls camera controller"
 link = "https://github.com/iMplode-nZ/bevy-orbit-controls"
+bevy_versions = ["0.5.0"]
+licenses = ["ISC"]

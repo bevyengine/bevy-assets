@@ -1,3 +1,5 @@
 name = "bevy_serial"
 description = "Serial port communication plugin for Bevy"
 link = "https://github.com/hideakitai/bevy_serial"
+bevy_versions = ["0.6"]
+licenses = ["MIT", "Apache-2.0"]

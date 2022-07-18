@@ -1,3 +1,5 @@
 name = "bevy_event_set"
 description = "A macro to create event bundles for Bevy"
 link = "https://github.com/woubuc/bevy-event-set"
+bevy_versions = ["0.4"]
+licenses = ["MIT"]

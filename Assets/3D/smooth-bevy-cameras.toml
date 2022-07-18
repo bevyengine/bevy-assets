@@ -1,3 +1,5 @@
 name = "smooth-bevy-cameras"
 description = "Camera controllers with buttery, exponential smoothing."
 link = "https://github.com/bonsairobo/smooth-bevy-cameras"
+bevy_versions = ["0.7"]
+licenses = ["MIT"]

@@ -1,7 +1,5 @@
 name = "Not Snake"
-
 description = "A snake game but in 3D and you're the food"
-
 link = "https://github.com/ramirezmike/not_snake_game"
-
 image = "not-snake.png"
+bevy_versions = ["0.6.1"]

@@ -1,7 +1,6 @@
 name = "¿Quien es el MechaBurro?"
-
 description = "3D singleplayer/local multiplayer twin-stick shooter"
-
 link = "https://github.com/ramirezmike/quien_es_el_mechaburro"
-
 image = "mechaburro.gif"
+bevy_versions = ["0.7.0"]
+licenses = ["MIT", "Apache-2.0"]

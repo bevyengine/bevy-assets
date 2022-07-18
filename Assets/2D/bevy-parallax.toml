@@ -2,3 +2,5 @@ name = "bevy-parallax"
 description = " A Bevy plugin for creating a parallax effect."
 link = "https://github.com/Corrosive-Games/bevy-parallax"
 image = "bevy-parallax.gif"
+bevy_versions = ["0.7.0"]
+licenses = ["MIT"]

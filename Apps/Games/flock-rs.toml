@@ -1,3 +1,4 @@
 name = "flock-rs"
 description = "An example of steering and flocking behaviors"
 link = "https://github.com/JohnPeel/flock-rs"
+bevy_versions = ["0.4"]

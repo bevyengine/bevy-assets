@@ -2,3 +2,4 @@ name = "Warlock's Gambit"
 description = "A Puzzle/card game made for the 1st bevy jam"
 link = "https://github.com/team-plover/warlocks-gambit"
 image = "warlocks-gambit.png"
+bevy_versions = ["0.7"]

@@ -2,3 +2,5 @@ name = "bevy_plot"
 description = "Plotting library with a focus on esthetics and interactivity"
 link = "https://github.com/eliotbo/bevy_plot"
 image = "bevy_plot.png"
+bevy_versions = ["0.6.0"]
+licenses = ["MIT", "Apache-2.0"]

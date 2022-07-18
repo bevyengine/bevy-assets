@@ -2,3 +2,5 @@ name = "bevy-hikari"
 description = "Voxel cone tracing global illumination plugin"
 link = "https://github.com/cryscan/bevy-hikari"
 image = "bevy-hikari.gif"
+bevy_versions = ["0.6"]
+licenses = ["MIT", "Apache-2.0"]

@@ -1,3 +1,5 @@
 name = "colonize"
 description = "A Dwarf Fortress/Rimworld-like game written in Rust."
 link = "https://github.com/indiv0/colonize"
+bevy_versions = ["0.4.0"]
+licenses = ["GPL-3.0-or-later"]

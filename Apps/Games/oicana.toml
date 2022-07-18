@@ -2,3 +2,4 @@ name = "oicana"
 description = "A tower defense game with puzzle aspects"
 link = "https://github.com/NiklasEi/oicana"
 image = "oicana.png"
+bevy_versions = ["0.7"]

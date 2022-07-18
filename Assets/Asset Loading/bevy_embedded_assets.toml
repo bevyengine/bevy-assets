@@ -2,3 +2,5 @@ name = "bevy_embedded_assets"
 description = "Plugin to embed assets in your game binary"
 link = "https://github.com/vleue/bevy_embedded_assets"
 image = "bevy_embedded_assets.png"
+bevy_versions = ["0.8.0-dev"]
+licenses = ["MIT", "Apache-2.0"]

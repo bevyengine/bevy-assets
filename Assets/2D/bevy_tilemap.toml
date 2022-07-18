@@ -1,3 +1,5 @@
 name = "bevy_tilemap"
 description = "Chunk rendered tilemap for Bevy game engine."
 link = "https://github.com/joshuajbouw/bevy_tilemap"
+bevy_versions = ["main"]
+licenses = ["MIT"]

@@ -1,3 +1,4 @@
 name = "autodefault"
 description = "annotate functions to have them automatically insert `..Default::default()` into struct expressions"
 link = "https://github.com/Lucretiel/autodefault"
+licenses = ["MPL-2.0"]

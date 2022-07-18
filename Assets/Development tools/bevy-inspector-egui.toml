@@ -1,3 +1,5 @@
 name = "bevy-inspector-egui"
 description = "Visually edit fields of structs inside the game using egui."
 link = "https://github.com/jakobhellermann/bevy-inspector-egui"
+bevy_versions = ["0.7"]
+licenses = ["MIT"]

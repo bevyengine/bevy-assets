@@ -2,3 +2,4 @@ name = "Unbalanced Brawl"
 description = "An autochess made for LD49."
 link = "https://github.com/yopox/LD49"
 image = "unbalanced-brawl.png"
+bevy_versions = ["0.5.0"]

@@ -1,3 +1,5 @@
 name = "big-brain"
 description = "A highly-parallel Utility AI engine."
 link = "https://github.com/zkat/big-brain"
+bevy_versions = ["0.7.0"]
+licenses = ["Apache-2.0"]

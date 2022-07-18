@@ -1,3 +1,4 @@
 name = "bevy_sokoban"
 description = "Simple implementation of Sokoban"
 link = "https://github.com/ropewalker/bevy_sokoban"
+bevy_versions = ["0.5"]

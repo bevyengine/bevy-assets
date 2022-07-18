@@ -2,3 +2,4 @@ name = "Pixie Wrangler"
 description = "A 2d circuit design puzzle game."
 link = "https://github.com/rparrett/pixie_wrangler"
 image = "pixie-wrangler-2by3.png"
+bevy_versions = ["0.7"]

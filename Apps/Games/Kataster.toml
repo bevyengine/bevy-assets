@@ -2,3 +2,4 @@ name = "Kataster"
 description = "A simple single-screen spaceshooter with a shader background. Uses Heron"
 link = "https://github.com/Bobox214/Kataster"
 image = "Kataster.gif"
+bevy_versions = ["0.7"]

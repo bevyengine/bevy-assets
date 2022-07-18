@@ -2,3 +2,5 @@ name = "Build A Better Buddy"
 description = "A cute auto-battler with the goal of Building A Better Buddy. Built for Bevy Jam #1."
 link = "https://github.com/cart/build_a_better_buddy"
 image = "build_a_better_buddy.png"
+bevy_versions = ["0.6"]
+licenses = ["MIT", "Apache-2.0"]

@@ -1,3 +1,5 @@
 name = "benimator"
 description = "Sprite sheet animation"
 link = "https://github.com/jcornaz/benimator"
+bevy_versions = ["0.7.0"]
+licenses = ["Unlicense", "MIT"]

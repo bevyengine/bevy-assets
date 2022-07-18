@@ -1,3 +1,4 @@
 name = "bevy-tetris"
 description = "It's Tetris!"
 link = "https://github.com/8bit-pudding/bevy-tetris"
+bevy_versions = ["0.4"]

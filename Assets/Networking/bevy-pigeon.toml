@@ -1,3 +1,5 @@
 name = "bevy-pigeon"
 description = "A simple yet powerfull networking plugin. Supports messages and automatic component syncing."
 link = "https://github.com/MitchellMarinoDev/bevy-pigeon"
+bevy_versions = ["~0.7.0"]
+licenses = ["MIT", "Apache-2.0"]

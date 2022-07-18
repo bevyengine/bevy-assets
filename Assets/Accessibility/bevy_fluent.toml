@@ -1,3 +1,5 @@
 name = "bevy_fluent"
 description = "A plugin for localization using Fluent"
 link = "https://github.com/kgv/bevy_fluent"
+bevy_versions = ["0.7.0"]
+licenses = ["MIT", "Apache-2.0"]

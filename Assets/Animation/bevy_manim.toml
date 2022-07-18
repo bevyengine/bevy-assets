@@ -1,3 +1,5 @@
 name = "bevy_manim"
 description = "bevy plugin for drawing and animation like a 3b1b's manim"
 link = "https://github.com/simensgreen/bevy_manim"
+bevy_versions = ["0.5.0"]
+licenses = ["MIT"]

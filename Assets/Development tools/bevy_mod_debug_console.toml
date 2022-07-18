@@ -1,3 +1,5 @@
 name = "bevy_mod_debug_console"
 description = "Get info from ecs through"
 link = "https://github.com/hymm/bevy_mod_debug_console"
+bevy_versions = ["0.5"]
+licenses = ["MIT", "MIT-0", "Apache-2.0"]

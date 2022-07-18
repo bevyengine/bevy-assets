@@ -1,3 +1,5 @@
 name = "bevy_advanced_input"
 description = "Input keybindings, including support for combinations / hotkeys / modifier keys."
 link = "https://github.com/sadpython/bevy_advanced_input"
+bevy_versions = ["0.5.0"]
+licenses = ["MIT"]

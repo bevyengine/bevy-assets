@@ -1,3 +1,5 @@
 name = "bevy-earcutr"
 description = "Draw polygons"
 link = "https://github.com/frewsxcv/bevy-earcutr"
+bevy_versions = ["0.7"]
+licenses = ["MIT/Apache-2.0"]

@@ -1,3 +1,4 @@
 name = "Zenith"
 description = "A space-themed shoot 'em up game"
 link = "https://github.com/rsaihe/zenith"
+bevy_versions = ["0.5"]

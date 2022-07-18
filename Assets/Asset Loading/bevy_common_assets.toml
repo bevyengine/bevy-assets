@@ -1,3 +1,5 @@
 name = "bevy_common_assets"
 description = "Plugins to load json, yaml, ron, toml, and MessagePack assets"
 link = "https://github.com/NiklasEi/bevy_common_assets"
+bevy_versions = ["0.7"]
+licenses = ["MIT", "Apache-2.0"]

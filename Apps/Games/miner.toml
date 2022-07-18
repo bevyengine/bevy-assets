@@ -2,3 +2,4 @@ name = "Miner"
 description = "A mining-based platform game."
 link = "https://github.com/timboldt/miner"
 image = "miner.png"
+bevy_versions = ["0.6"]

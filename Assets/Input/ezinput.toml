@@ -1,3 +1,5 @@
 name = "ezinput"
 description = "Easier joystick, mouse and keyboard input handling in Bevy"
 link = "https://github.com/existentially/ezinput"
+bevy_versions = ["^0.7"]
+licenses = ["MIT"]

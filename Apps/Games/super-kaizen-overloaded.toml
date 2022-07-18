@@ -2,3 +2,5 @@ name = "☄ Super Kaizen Overloaded ☄"
 description = "A shoot'em up written in 🦀 Rust with the 🕊 Bevy game engine. (Bevy Game Jam #1)"
 link = "https://github.com/djeedai/super-kaizen-overloaded"
 image = "super-kaizen-overloaded.png"
+bevy_versions = ["0.7"]
+licenses = ["MIT", "Apache-2.0"]

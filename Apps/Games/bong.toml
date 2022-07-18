@@ -1,3 +1,4 @@
 name = "bong"
 description = "A full fledged sample game showcasing bevy-pigeon"
 link = "https://github.com/MitchellMarinoDev/bong"
+bevy_versions = ["0.7.0"]

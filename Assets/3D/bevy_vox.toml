@@ -1,3 +1,5 @@
 name = "bevy_vox"
 description = "MagicaVoxel Vox file loader plugin"
 link = "https://github.com/erasin/bevy_vox"
+bevy_versions = ["0.6.0"]
+licenses = ["MIT"]

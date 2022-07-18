@@ -1,3 +1,5 @@
 name = "bevy_console"
 description = "A half-life2 style console using bevy_egui"
 link = "https://github.com/RichoDemus/bevy-console"
+bevy_versions = ["0.7"]
+licenses = ["MIT"]

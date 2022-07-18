@@ -1,3 +1,4 @@
 name = "thallada-bevy_nbody"
 description = "An N-body simulation in Rust"
 link = "https://github.com/thallada/bevy-nbody"
+bevy_versions = ["0.1"]

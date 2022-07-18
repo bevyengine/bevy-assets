@@ -2,3 +2,4 @@ name = "One-Click Ninja"
 description = "A rhythm game for '1-Button Jam 2021'"
 link = "https://github.com/fluffysquirrels/one-click-ninja"
 image = "One-Click-Ninja.png"
+bevy_versions = ["0.5.0"]

@@ -1,3 +1,5 @@
 name = "bevy_prototype_lyon"
 description = "Draw 2D shapes, like triangles, circles, and beziers."
 link = "https://github.com/Nilirad/bevy_prototype_lyon"
+bevy_versions = ["main"]
+licenses = ["MIT", "Apache-2.0"]
