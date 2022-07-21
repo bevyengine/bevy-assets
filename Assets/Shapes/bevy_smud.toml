@@ -1,0 +1,4 @@
+name = "bevy_smud"
+description = "Draw shapes for 2d and ui using signed distance fields"
+link = "https://github.com/johanhelsing/bevy_smud"
+image = "bevy_smud.png"

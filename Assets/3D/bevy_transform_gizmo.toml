@@ -1,4 +1,4 @@
 name = "bevy_transform_gizmo"
-description = "Interactive transform gizmo for transforming meshes in 3d with the mouse"
+description = "Gizmo for transforming meshes in 3d"
 link = "https://github.com/ForesightMiningSoftwareCorporation/bevy_transform_gizmo"
 image = "bevy_transform_gizmo.png"
