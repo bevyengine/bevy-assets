@@ -1,0 +1,4 @@
+name = "bevy_shadertoy_wgsl"
+description = "A Shadertoy clone, facilitating coding complex shaders"
+link = "https://github.com/eliotbo/bevy_shadertoy_wgsl"
+image = "bevy_shadertoy_wgsl.gif"
