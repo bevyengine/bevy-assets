@@ -1,0 +1,3 @@
+name = "bevy_renet"
+description = "Bevy Plugin for renet, a network library for Server/Client with authentication and client management"
+link = "https://github.com/lucaspoffo/renet/tree/master/bevy_renet"
