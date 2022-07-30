@@ -1,0 +1,3 @@
+name = "bevy-add-events-macro"
+description = "adds the add_events! macro to make adding multiple events easier"
+link = "https://git.tebibyte.media/nexus/nexus/src/branch/main/bevy-add-events-macro"
