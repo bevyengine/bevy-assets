@@ -1,0 +1,3 @@
+name = "bevy_pancam"
+description = "A map-like panning and zooming camera controller"
+link = "https://github.com/johanhelsing/bevy_pancam"
