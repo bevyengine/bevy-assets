@@ -1,0 +1,3 @@
+name = "bevy_fundsp"
+description = "A Bevy plugin that integrates FunDSP into Bevy."
+link = "https://github.com/harudagondi/bevy_fundsp"
