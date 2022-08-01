@@ -1,0 +1,3 @@
+name = "bevy_fundsp"
+description = "Bevy plugin for audio processing and synthesis using FunDSP"
+link = "https://github.com/harudagondi/bevy_fundsp"
