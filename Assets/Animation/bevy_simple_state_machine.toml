@@ -1,0 +1,3 @@
+name = "bevy-simple-state-machine"
+description = "A rudimentary animation state machine system"
+link = "https://github.com/LucaRickler/bevy-simple-state-machine"
