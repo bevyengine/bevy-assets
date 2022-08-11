@@ -1,0 +1,4 @@
+name = "bevy_mod_rounded_box"
+description = "A rounded box shape"
+link = "https://github.com/komadori/bevy_mod_rounded_box"
+image = "bevy_mod_rounded_box.gif"
