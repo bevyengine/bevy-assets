@@ -1,4 +1,4 @@
-name = "Bevy Kajiya"
+aname = "bevy-kajiya"
 
 description = "A plugin to use kajiya as an alternative to the default bevy renderer"
 
