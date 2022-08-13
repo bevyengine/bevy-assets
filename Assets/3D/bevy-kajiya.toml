@@ -1,0 +1,7 @@
+name = "bevy-kajiya"
+
+description = "A plugin to use kajiya as an alternative to the default bevy renderer"
+
+link = "https://github.com/seabassjh/bevy-kajiya"
+
+image = "bevy-kajiya.png"
