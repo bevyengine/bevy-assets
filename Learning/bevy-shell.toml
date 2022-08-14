@@ -1,0 +1,4 @@
+name = "Bevy Shell"
+description = "Template bevy app cross-platform CI/CD deployment for WASM and native."
+link = "https://github.com/kurbos/bevy-shell-template"
+image = "bevy-shell.png"
