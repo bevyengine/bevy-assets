@@ -1,4 +1,4 @@
 name = "bevy_mod_outline"
 description = "A plugin for drawing outlines around meshes"
 link = "https://github.com/komadori/bevy_mod_outline"
-image = "bevy_mod_outline.gif"
+image = "bevy_mod_outline.png"
