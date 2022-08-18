@@ -1,0 +1,4 @@
+name = "bevy_jornet"
+description = "Easy to use leaderboard"
+link = "https://crates.io/crates/bevy_jornet"
+image = "bevy_jornet.png"
