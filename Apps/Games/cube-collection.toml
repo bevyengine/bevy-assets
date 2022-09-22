@@ -1,0 +1,4 @@
+name = "Cube Collection"
+description = "A dead simple PUZZLE game."
+link = "https://github.com/wiryls/cube-collection/tree/bevy"
+image = "cube-collection.gif"
