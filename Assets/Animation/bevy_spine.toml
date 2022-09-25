@@ -1,0 +1,4 @@
+name = "bevy_spine"
+description = "A plugin for using Spine animations within Bevy."
+link = "https://github.com/jabuwu/bevy_spine"
+image = "bevy_spine.gif"
