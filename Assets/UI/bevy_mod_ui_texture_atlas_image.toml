@@ -1,4 +1,4 @@
 name = "bevy_mod_ui_texture_atlas_image"
 description = "Draw images from texture atlases with Bevy UI"
 link = "https://github.com/ickshonpe/bevy_mod_ui_texture_atlas_image"
-image = "ui_atlas_image.png"
+image = "bevy_mod_ui_texture_atlas_image..png"
