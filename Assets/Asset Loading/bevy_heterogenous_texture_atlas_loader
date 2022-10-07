@@ -1,0 +1,3 @@
+name = "Bevy Heterogenous Texture Atlas Loader"
+description = "Load heterogenous texture atlases with a RON file manifest"
+link = "https://github.com/ickshonpe/bevy_heterogeneous_texture_atlas_loader"
