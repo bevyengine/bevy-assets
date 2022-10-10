@@ -1,4 +1,4 @@
 name = "bevy-hikari"
-description = "A Realtime Path Tracer"
+description = "A Realtime Path Tracer for Direct and Global Illumination"
 link = "https://github.com/cryscan/bevy-hikari"
 image = "bevy-hikari.png"
