@@ -1,3 +1,0 @@
-name = "impacted"
-description = "2d collision test for game-development in rust (with optional integration and example for bevy)"
-link = "https://github.com/jcornaz/impacted"
