@@ -1,0 +1,3 @@
+name = "bevy_mod_gizmos"
+description = "Visual gizmos to aid with development and debugging in Bevy"
+link = "https://crates.io/crates/bevy_mod_gizmos"

@@ -1,0 +1,3 @@
+name = "bevy_qoi"
+description = "Bevy support for the QOI (Quite OK Image) format."
+link = "https://crates.io/crates/bevy_qoi"

@@ -1,0 +1,4 @@
+name = "Dodge the Creeps!"
+description = "Reimplement \"Dodge the Creeps!\" with bevy."
+link = "https://github.com/liangyongrui/dodge-the-creeps-bevy"
+image = "dodge-the-creeps-bevy.png"
