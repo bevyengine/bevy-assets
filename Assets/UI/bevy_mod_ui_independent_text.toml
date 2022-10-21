@@ -1,0 +1,4 @@
+name = "bevy_mod_ui_independent_text"
+description = "Bevy UI text with a transform independent of the UI's layout."
+link = "https://github.com/ickshonpe/bevy_mod_ui_independent_text"
+image = "bevy_mod_ui_independent_text.png"
