@@ -1,0 +1,4 @@
+name = "bevy-vfx-bag"
+description = "Bevy VFX Bag — a GPU visual effects plugin."
+link = "https://github.com/torsteingrindvik/bevy-vfx-bag"
+image = "bevy_vfx_bag.gif"
