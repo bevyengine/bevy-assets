@@ -1,0 +1,4 @@
+name = "The Hug Game"
+description = "A game about hugging. Uses rapier for active ragdoll. Playable at https://hug.hihaheho.com"
+link = "https://github.com/Hihaheho/Hug"
+image = "Hug.png"
