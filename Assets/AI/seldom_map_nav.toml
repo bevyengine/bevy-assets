@@ -1,0 +1,3 @@
+name = "seldom_map_nav"
+description = "Navmesh generation, pathfinding, and navigation for tilemaps"
+link = "https://github.com/Seldom-SE/seldom_map_nav"
