@@ -1,0 +1,4 @@
+name = "Combine Racers"
+description = "Do tricks to gain speed in this 2.5d side-scrolling racer. Built for Bevy Jam #2."
+link = "https://github.com/rparrett/combine-racers"
+image = "combine-racers.png"
