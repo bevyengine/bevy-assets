@@ -1,4 +1,4 @@
 name = "taipo"
-description = "A Japanese language practice tool with an English mode. Type words to build towers and defend the station!"
+description = "A Japanese language practice tool / tower defense game with an English mode."
 link = "https://github.com/rparrett/taipo"
 image = "taipo.gif"
