@@ -1,4 +1,4 @@
 name = "taipo"
-description = "A 2d typing/tower defense game for the browser."
+description = "A Japanese language practice tool / tower defense game with an English mode."
 link = "https://github.com/rparrett/taipo"
-image = "taipo-390x600.png"
+image = "taipo.gif"
