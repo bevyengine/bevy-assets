@@ -1,4 +1,4 @@
 name = "Kataster"
-description = "A simple single-screen spaceshooter with a shader background. Uses Heron"
-link = "https://github.com/Bobox214/Kataster"
+description = "A minimalist single-screen spaceshooter for bevy beginners"
+link = "https://github.com/BorisBoutillier/Kataster"
 image = "Kataster.gif"
