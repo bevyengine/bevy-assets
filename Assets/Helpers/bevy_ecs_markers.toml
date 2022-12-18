@@ -1,0 +1,4 @@
+name = "bevy_ecs_markers"
+description = "🏷️ Markers for Bevy ECS Entities"
+link = "https://github.com/ChoppedStudio/bevy_ecs_markers"
+image = "bevy_ecs_markers.png"
