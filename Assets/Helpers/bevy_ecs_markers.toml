@@ -1,0 +1,4 @@
+name = "bevy_ecs_markers"
+description = "Easily mark Entities and read and mutate them"
+link = "https://github.com/ChoppedStudio/bevy_ecs_markers"
+image = "bevy_ecs_markers.png"
