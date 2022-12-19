@@ -1,0 +1,4 @@
+name = "dip_desktop"
+description = "A plugin to build cross-platform desktop apps with React-like declarative UI. Powered by Dioxus."
+link = "https://github.com/diptools/dip"
+image = "dip_desktop.png"

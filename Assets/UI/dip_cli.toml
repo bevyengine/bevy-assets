@@ -1,0 +1,4 @@
+name = "dip_cli"
+description = "A plugin to build Clap based command line tools with Bevy."
+link = "https://github.com/diptools/dip"
+image = "dip.png"

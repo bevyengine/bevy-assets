@@ -1,4 +1,0 @@
-name = "dip"
-description = "Dip allows you to develop desktop application much like Electron + React, via Tauri + Dioxus integration. Ultimately, the goal is to provide the cross-platform Web3 application tookit all based on Bevy ECS."
-link = "https://github.com/diptools/dip"
-image = "dip.png"
