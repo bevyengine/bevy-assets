@@ -1,0 +1,3 @@
+name = "bevy_turborand"
+description = "a fast random number generator based on turborand"
+link = "https://github.com/Bluefinger/bevy_turborand"
