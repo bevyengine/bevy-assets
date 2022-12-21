@@ -1,0 +1,3 @@
+name = "iyes_scene_tools"
+description = "Helpers for working with Bevy Scenes"
+link = "https://crates.io/crates/iyes_scene_tools"
