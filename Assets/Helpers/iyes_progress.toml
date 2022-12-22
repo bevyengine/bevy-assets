@@ -1,3 +1,4 @@
-name = "bevy_loading"
+# Formerly bevy_loading
+name = "iyes_progress"
 description = "Easily implement a loading state, tracking the progress of assets and other tasks."
-link = "https://crates.io/crates/bevy_loading"
+link = "https://crates.io/crates/iyes_loopless"
