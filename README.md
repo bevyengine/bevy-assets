@@ -19,7 +19,7 @@ description = "A short and sweet description of My Cool Plugin"
 link = "https://github.com/me/my_plugin"
 
 # Optional image to showcase your asset.
-# Should be a png/jpg/webp located next to your toml file, less than 2 MB in size.
+# Should be a png/jpg/gif/webp located next to your toml file, less than 2 MB in size.
 image = "my_plugin_icon.png"
 ```
 
