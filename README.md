@@ -18,7 +18,7 @@ description = "A short and sweet description of My Cool Plugin"
 # Where can your asset be found. It can be a link to crates.io, github, gitlab or similar.
 link = "https://github.com/me/my_plugin"
 
-# Optional image to showcase your asset. Should be a png/jpg/gif located next to your toml file.
+# Optional image to showcase your asset. Should be a png/jpg/webp located next to your toml file, less than 2 MB in size.
 image = "my_plugin_icon.png"
 ```
 
