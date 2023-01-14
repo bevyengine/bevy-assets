@@ -1,0 +1,4 @@
+name = "bevy_adventure"
+description = "A comprehensive framework for building adventure games in Bevy."
+link = "https://github.com/hankjordan/bevy_adventure"
+image = "bevy_adventure.webp"
