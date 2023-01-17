@@ -1,0 +1,4 @@
+name = "oxidized_navigation"
+description = "Runtime nav-mesh generation & pathfinding for 3D worlds."
+link = "https://crates.io/crates/oxidized_navigation"
+image = "oxidized_navigation.jpg"
