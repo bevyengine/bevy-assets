@@ -1,0 +1,4 @@
+name = "bevy_image_export"
+description = "Enables you to record the output of a camera to a sequence of image files"
+link = "https://crates.io/crates/bevy_image_export"
+image = "bevy_image_export.png"
