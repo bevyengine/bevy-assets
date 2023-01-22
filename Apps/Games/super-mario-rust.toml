@@ -1,0 +1,4 @@
+name = "Super Mario Rust"
+description = "Super Mario Bros replica. Very short version of Level 1-1 which implements fundamental Bevy usage"
+link = "https://github.com/gorkemcnr/super-mario-rust"
+image = "super-mario-rust.png"
