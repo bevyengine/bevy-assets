@@ -1,0 +1,4 @@
+name = "Pixel Attack"
+description = "Parallax effect based game written in Rust and Bevy Gaming Engine which uses bevy-parallax"
+link = "https://github.com/gorkemcnr/pixel-attack"
+image = "bevy_pixel_attack.gif"
