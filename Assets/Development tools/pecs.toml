@@ -1,0 +1,3 @@
+name = "pecs"
+description = "Asynchronous operations with Promises for Bevy"
+link = "https://github.com/jkb0o/pecs"
