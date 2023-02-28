@@ -1,0 +1,4 @@
+name = "2048 Game"
+description = "A 2048 game. A easy demo for bevy beginners"
+link = "https://github.com/DarkLichCode/bevy_demo_2048"
+image = "2048.jpg"
