@@ -1,0 +1,4 @@
+name = "Flappy Bird"
+description = "A flappy bird game in Bevy 0.10"
+link = "https://github.com/LiamGallagher737/bevy_flappy_bird"
+image = "flappy_bird.gif"
