@@ -1,0 +1,9 @@
+# Name of your asset.
+name = "bevy_mod_index"
+
+# Description of your asset. It should be less than 100 characters and not contain formatting.
+description = "A Rust crate that allows efficient querying for components by their values"
+
+# Where can your asset be found. It can be a link to crates.io, github, gitlab or similar.
+link = "https://github.com/chrisjuchem/bevy_mod_index"
+
