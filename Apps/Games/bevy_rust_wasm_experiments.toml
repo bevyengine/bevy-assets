@@ -1,0 +1,4 @@
+name = "bevy-rust-wasm-experiments"
+description = "A small video game targeting both desktop and WebAssembly (uses accelerometer on mobile device)"
+link = "https://github.com/topheman/bevy-rust-wasm-experiments"
+image = "bevy_rust_wasm_experiments.webp"
