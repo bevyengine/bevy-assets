@@ -1,0 +1,4 @@
+name = "Tetris"
+description = "Classical tetris game made with bevy engine."
+link = "https://github.com/NightsWatchGames/tetris"
+image = "lewiszlw-tetris.png"

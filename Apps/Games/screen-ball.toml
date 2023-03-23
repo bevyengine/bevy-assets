@@ -1,0 +1,4 @@
+name = "Screen Ball"
+description = "Work and play ball game, made with bevy engine."
+link = "https://github.com/NightsWatchGames/screen-ball"
+image = "screen-ball.png"

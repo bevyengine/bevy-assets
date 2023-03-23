@@ -1,0 +1,4 @@
+name = "Rubik's Cube"
+description = "Rubik's cube simulator made with bevy engine."
+link = "https://github.com/NightsWatchGames/rubiks-cube"
+image = "rubiks-cube.jpg"
