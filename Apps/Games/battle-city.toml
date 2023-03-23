@@ -1,0 +1,4 @@
+name = "Battle City"
+description = "Classical battle-city game made with bevy engine."
+link = "https://github.com/NightsWatchGames/battle-city"
+image = "battle-city.png"
