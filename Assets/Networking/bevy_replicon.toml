@@ -1,0 +1,3 @@
+name = "bevy_replicon"
+description = "High level networking library for replication and network events"
+link = "https://github.com/lifescapegame/bevy_replicon"
