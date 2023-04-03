@@ -1,0 +1,3 @@
+name = "bevy_text_mode"
+description = "A plugin to render 1-bit sprites."
+link = "https://github.com/yopox/bevy_text_mode"
