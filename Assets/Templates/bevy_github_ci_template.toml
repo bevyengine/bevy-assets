@@ -1,3 +1,5 @@
-name = "bevy_github_ci_template"
+name = "Official GitHub Template"
 description = "A simple template providing basic CI and automated builds for Windows, Linux, MacOS and the web."
 link = "https://github.com/bevyengine/bevy_github_ci_template"
+order = 0
+image = "official-github-template.png"
