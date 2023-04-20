@@ -1,0 +1,4 @@
+name = "Celeste"
+description = "Celeste classic platformer game made with bevy engine."
+link = "https://github.com/NightsWatchGames/celeste"
+image = "celeste.png"
