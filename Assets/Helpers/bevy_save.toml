@@ -1,0 +1,4 @@
+name = "bevy_save"
+description = "A framework for saving and loading game state in Bevy."
+link = "https://github.com/hankjordan/bevy_save"
+image = "bevy_save.webp"
