@@ -1,0 +1,4 @@
+name = "bevy_matchbox"
+description = "Painless peer-to-peer WebRTC networking for rust's native and wasm applications."
+link = "https://crates.io/crates/bevy_matchbox"
+image = "matchbox_logo.png"
