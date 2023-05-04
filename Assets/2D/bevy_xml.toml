@@ -1,0 +1,4 @@
+name = "bevy_xml"
+description = "This Bevy Plugin Parses SpriteSheet XMLs!"
+link = "https://github.com/rayanmargham/bevy_xml"
+image = "bevy_xml.gif"
