@@ -1,0 +1,4 @@
+name = "Drone Agility Challenge"
+description = "Carefully fly a drone through several levels without colliding into anything."
+link = "https://github.com/Samuel-Bowden/drone-agility-challenge"
+image = "drone-agility-challenge.gif"
