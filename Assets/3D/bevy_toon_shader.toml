@@ -1,0 +1,4 @@
+name = "bevy_toon_shader"
+description = "A toon shader with sun & light banding"
+link = "https://github.com/tbillington/bevy_toon_shader"
+image = "bevy_toon_shader.jpg"
