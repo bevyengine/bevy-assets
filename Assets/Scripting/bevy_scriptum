@@ -1,0 +1,3 @@
+name = "bevy_scriptum"
+description = "Low-boilerplate, easy to use scripting plugin for Bevy"
+link = "https://github.com/jarkonik/bevy_scriptum"
