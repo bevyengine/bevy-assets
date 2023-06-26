@@ -1,0 +1,4 @@
+name = "Lavagna"
+description = "A collaborative (WebRTC based) blackboard, great for simple sketches during meetings"
+link = "https://github.com/alepez/lavagna"
+image = "lavagna.gif"
