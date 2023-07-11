@@ -1,0 +1,3 @@
+name = "moonshine-save"
+description = "Save/Load framework for Bevy game engine"
+link = "https://crates.io/crates/moonshine-save"
