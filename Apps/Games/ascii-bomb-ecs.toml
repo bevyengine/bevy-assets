@@ -1,0 +1,4 @@
+name = "ascii-bomb-ecs"
+description = "ASCII-styled Bomberman clone with multiple game modes and a web build with mobile controls"
+link = "https://github.com/aleksa2808/ascii-bomb-ecs"
+image = "ascii-bomb-ecs.gif"
