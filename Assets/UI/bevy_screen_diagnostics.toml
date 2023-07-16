@@ -1,0 +1,4 @@
+name = "bevy_screen_diagnostics"
+description = "Display Diagnostics like FPS or Entity count easily"
+link = "https://github.com/laundmo/bevy_screen_diagnostics"
+image = "bevy_screen_diagnostics.gif"
