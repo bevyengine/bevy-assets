@@ -1,0 +1,3 @@
+name = "bevy_global_input"
+description = "Recieve key/mouse events and shortcuts from outside the Bevy window."
+link = "https://github.com/laundmo/bevy_global_input"
