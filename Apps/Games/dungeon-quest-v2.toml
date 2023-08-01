@@ -1,0 +1,7 @@
+name = "Dungeon Quest V2"
+
+description = "Refactored version of Dungeon Quest, for bevy=0.11"
+
+link = "https://github.com/CiderSlime/dungeon-quest"
+
+image = "dungeon-quest.png"
