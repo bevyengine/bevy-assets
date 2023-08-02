@@ -1,0 +1,3 @@
+name = "bevy_cronjob"
+description = "A simple helper for run cronjon in Bevy."
+link = "https://github.com/foxzool/bevy_cronjob"
