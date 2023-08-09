@@ -1,4 +1,4 @@
 name = "bevy_third_person_camera"
 description = "A simple, plug & play third person camera for bevy."
 link = "https://crates.io/crates/bevy_third_person_camera"
-image = 'assets\assets\3d\bevy_third_person_camera.gif'
+image = "bevy_third_person_camera.gif"
