@@ -1,0 +1,4 @@
+name = "Bevy Cursor"
+description = "A plugin to track informations about the cursor"
+link = "https://github.com/tguichaoua/bevy_cursor"
+image = "bevy_cursor.png"
