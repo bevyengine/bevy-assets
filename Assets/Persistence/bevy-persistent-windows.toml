@@ -1,0 +1,3 @@
+name = "bevy-persistent-windows"
+description = "A Bevy plugin to easily create and manage windows that remember where they were."
+link = "https://crates.io/crates/bevy-persistent-windows"
