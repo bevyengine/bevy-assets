@@ -1,0 +1,4 @@
+name = "SR Bevy Template"
+description = "Template bevy app cross-platform CI/CD deployment."
+link = "https://github.com/SrTemplates/Bevy"
+image = "bevy-sr-template.png"
