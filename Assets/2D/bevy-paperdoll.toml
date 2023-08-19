@@ -1,0 +1,4 @@
+name = "bevy-paperdoll"
+description = "A plugin for 2D paper doll."
+link = "https://github.com/fralonra/bevy-paperdoll"
+image = "bevy-paperdoll.gif"
