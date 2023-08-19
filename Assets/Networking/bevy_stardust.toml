@@ -1,0 +1,3 @@
+name = "bevy_stardust"
+description = "Stardust is a batteries-included networking crate with a focus on extensibility and parallelism."
+link = "https://github.com/veritius/bevy_stardust"
