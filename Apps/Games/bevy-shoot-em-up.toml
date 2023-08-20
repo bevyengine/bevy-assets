@@ -1,0 +1,4 @@
+name = "Bevy Shoot 'em Up"
+description = "A simple shoot 'em up style game with desktop and mobile versions autodetected by browser user-agent"
+link = "https://play.marcoinacio.com"
+image = "bevy-shoot-em-up.png"
