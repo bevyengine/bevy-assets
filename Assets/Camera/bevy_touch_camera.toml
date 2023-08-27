@@ -1,0 +1,4 @@
+name = "bevy_touch_camera"
+description = "Touch camera for drag and pinch to zoom"
+link = "https://github.com/d-bucur/bevy_touch_camera"
+image = "bevy_touch_camera.webp"
