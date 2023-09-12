@@ -1,0 +1,4 @@
+name = "bevy_cosmic_edit"
+description = "Provides multiline text editing for bevy apps"
+link = "https://github.com/StaffEngineer/bevy_cosmic_edit"
+image = "bevy_cosmic_edit.gif"
