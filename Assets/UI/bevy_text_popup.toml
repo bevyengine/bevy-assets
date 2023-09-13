@@ -1,0 +1,4 @@
+name = "bevy_text_popup"
+description = "Bevy plugin to easily create UI text popups using events."
+link = "https://github.com/edouardpoitras/bevy_text_popup"
+image = "bevy_text_popup.png"

@@ -1,0 +1,3 @@
+name = "bevy_client_server_events"
+description = "Simple event-based client-server networking library for Bevy."
+link = "https://github.com/edouardpoitras/bevy_client_server_events"
