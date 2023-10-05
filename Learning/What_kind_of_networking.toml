@@ -1,0 +1,3 @@
+name = "Choosing your networking architecture"
+description = "Explains what an online game involves, what are the tradeoffs and how to choose a networking model"
+link = "https://github.com/bevyengine/bevy/discussions/8675"
