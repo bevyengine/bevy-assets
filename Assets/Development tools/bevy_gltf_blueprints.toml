@@ -1,0 +1,3 @@
+name = "bevy_gltf_blueprints"
+description = "Define Blueprints/Prefabs inside gltf files and spawn them easilly inside Bevy"
+link = "https://crates.io/crates/bevy_gltf_blueprints"
