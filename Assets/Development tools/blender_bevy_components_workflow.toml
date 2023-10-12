@@ -1,4 +1,4 @@
 name = "blender_bevy_components_workflow"
 description = "Simple workflow crates & tools for adding Bevy components, blueprints etc from gltf files created in Blender"
 link = "https://github.com/kaosat-dev/Blender_bevy_components_workflow"
-image = "blender_bevy_workflow.png"
+image = "blender_bevy_components_workflow.png"
