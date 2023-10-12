@@ -1,3 +1,3 @@
 name = "bevy_gltf_blueprints"
-description = "Define Blueprints/Prefabs inside gltf files and spawn them easilly inside Bevy"
+description = "Define Blueprints/Prefabs (a set of overrideable components + a 3d hierarchy) inside gltf files and spawn them easilly inside Bevy. Particularly useful when using Blender as an editor (see https://github.com/kaosat-dev/Blender_bevy_components_workflow)"
 link = "https://crates.io/crates/bevy_gltf_blueprints"

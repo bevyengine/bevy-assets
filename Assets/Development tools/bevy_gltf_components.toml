@@ -1,3 +1,3 @@
 name = "bevy_gltf_components"
-description = "Define components directly inside gltf files (from Blender & co) and instanciate the components on the Bevy side."
+description = "Define components directly inside gltf files (from Blender & co) and instanciate the components on the Bevy side. Tracks loading gltf files & injects components once a gltf file is loaded."
 link = "https://crates.io/crates/bevy_gltf_components"
