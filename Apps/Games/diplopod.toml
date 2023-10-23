@@ -1,0 +1,4 @@
+name = "diplopod"
+description = "A reimplementation of the classic snake clone 'Tausendfuß' from the Colour Genie EG2000"
+link = "https://github.com/tehlers/diplopod"
+image = "diplopod.gif"
