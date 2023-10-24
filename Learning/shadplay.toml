@@ -1,0 +1,3 @@
+name = "Shadplay"
+description = "Shadplay is a tool to help you program shaders in wgsl. The app not only helps you learn to write great shaders & view them in real-time but also, Shadplay is a Bevy app, so its open-source code shows you how to plug those shaders into YOUR Bevy project once you're done. "
+link = "https://github.com/alphastrata/shadplay/"
