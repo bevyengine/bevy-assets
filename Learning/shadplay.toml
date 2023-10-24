@@ -1,0 +1,3 @@
+name = "Shadplay"
+description = "Shadplay helps you to write wgsl shaders & get them into Bevy!"
+link = "https://github.com/alphastrata/shadplay/"
