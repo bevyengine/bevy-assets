@@ -1,0 +1,4 @@
+name = "bevy_simple_text_input"
+description = "An unambitious single-line text input widget for Bevy UI"
+link = "https://github.com/rparrett/bevy_simple_text_input"
+image = "bevy_simple_text_input.gif"

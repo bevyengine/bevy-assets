@@ -1,0 +1,8 @@
+# Name of your asset.
+name = "Bevy Input Mapper Plugin"
+
+# Description of your asset. It should be less than 100 characters and not contain formatting.
+description = "An user-friendly input binding plugin with scenario profiles in mind."
+
+# Where can your asset be found. It can be a link to crates.io, github, gitlab or similar.
+link = "https://github.com/atahabaki/bevy_input_mapper"

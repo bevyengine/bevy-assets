@@ -1,0 +1,4 @@
+name = "bevy_pipelines_ready"
+description = "Tiny plugin for tracking render pipeline status."
+link = "https://github.com/rparrett/bevy_pipelines_ready"
+image = "bevy_pipelines_ready.png"
