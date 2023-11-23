@@ -1,3 +1,3 @@
 name = "bevy_titan"
-description = "Simple loader for texture atlases from a ron manifest. Supports heterogeneous spritesheets and merging of spritesheets and images"
+description = "Load heterogeneous, homogeneous and merged texture atlas from a ron manifest."
 link = "https://crates.io/crates/bevy_titan"
