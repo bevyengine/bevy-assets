@@ -1,0 +1,4 @@
+name = "Bevy Lunex"
+description = "Path based ECS-First UI library"
+link = "https://github.com/bytestring-net/bevy-lunex"
+image = "bevy_lunex.png"
