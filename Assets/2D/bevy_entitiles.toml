@@ -1,0 +1,4 @@
+name = "bevy_entitiles"
+description = "A 2d tilemap library for bevy. With many useful algorithms/tools built in."
+link = "https://github.com/443eb9/bevy_entitiles"
+image = "bevy_entitiles.png"
