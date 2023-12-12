@@ -1,4 +1,4 @@
 name = "bevy_asepritesheet"
 description = "Use animated Aseprite JSON sprite sheets in bevy game engine"
 link = "https://crates.io/crates/bevy_asepritesheet"
-image = "asset_icon.gif"
+image = "bevy_asepritesheet.gif"
