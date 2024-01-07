@@ -1,0 +1,4 @@
+name = "bevy_generative"
+description = "Real-time procedural generation of maps, textures, terrain, planets and more!"
+link = "https://github.com/manankarnik/bevy_generative"
+image = "bevy_generative.gif"
