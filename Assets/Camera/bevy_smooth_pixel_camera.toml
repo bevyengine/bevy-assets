@@ -1,0 +1,4 @@
+name = "bevy_smooth_pixel_camera"
+description = "A powerful pixel-perfect camera with subpixel smoothing."
+link = "https://crates.io/crates/bevy_smooth_pixel_camera"
+image = "bevy_smooth_pixel_camera.gif"
