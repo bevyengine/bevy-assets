@@ -1,0 +1,4 @@
+name = "bevy_openai"
+description = "An event-driven plugin for Bevy that provides convenient access to the OpenAI API."
+link = "https://crates.io/crates/bevy_openai"
+image = "bevy_openai.png"
