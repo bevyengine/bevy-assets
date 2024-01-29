@@ -1,0 +1,4 @@
+description = "Plugin to scroll things and create parallaxes."
+image = "bevy_scroller.gif"
+link = "https://crates.io/crates/bevy_scroller"
+name = "bevy_scroller"

@@ -1,0 +1,3 @@
+name = "bevy_simplenet_events"
+description = "Events-based networking library built on bevy_simplenet"
+link = "https://github.com/UkoeHB/bevy_simplenet_events"

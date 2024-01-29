@@ -1,0 +1,4 @@
+name = "bevy_local_commands"
+description = "Execute and manage local shell commands"
+link = "https://github.com/edouardpoitras/bevy_local_commands"
+image = "bevy_local_commands.png"

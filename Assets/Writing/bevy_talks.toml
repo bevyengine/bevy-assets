@@ -1,0 +1,3 @@
+name = "bevy_talks"
+description = "A Bevy plugin to write and handle dialogues for your characters, together with player choices."
+link = "https://github.com/giusdp/bevy_talks"
