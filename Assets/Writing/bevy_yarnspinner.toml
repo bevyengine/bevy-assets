@@ -1,0 +1,3 @@
+name = "bevy_yarnspinner"
+description = "The Bevy plugin for the Rust port of Yarn Spinner, the friendly tool for writing game dialogue"
+link = "https://github.com/YarnSpinnerTool/YarnSpinner-Rust"
