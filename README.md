@@ -26,6 +26,7 @@ image = "my_plugin_icon.png"
 ## Categories
 
 Assets are organised in the following categories:
+
 * [Learning](./Learning) - Anything that can help learn Bevy.
-* [Assets](./Assets) - Crates and Plugins that can be added to a Bevy project to provide additional functionality and content. See the [Bevy Plugin Guidelines](https://github.com/bevyengine/bevy/blob/main/docs/plugins_guidelines.md) to learn about best practices for Bevy Plugin creation.
+* [Assets](./Assets) - Crates and Plugins that can be added to a Bevy project to provide additional functionality and content. See the [Bevy Plugin Guidelines](https://bevyengine.org/learn/book/plugin-development/) to learn about best practices for Bevy Plugin creation.
 * [Apps](./Apps) - Games and Tools made with Bevy.
