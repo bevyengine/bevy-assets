@@ -1,0 +1,3 @@
+name = "bevy_ehttp"
+description = "Plugin for performing web requests and loading assets from internet."
+link = "https://github.com/edouardpoitras/bevy_client_server_events"
