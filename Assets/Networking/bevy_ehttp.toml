@@ -1,0 +1,3 @@
+name = "bevy_ehttp"
+description = "Plugin for performing web requests and loading assets from internet"
+link = "https://crates.io/crates/bevy_ehttp"
