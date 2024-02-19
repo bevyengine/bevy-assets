@@ -1,0 +1,4 @@
+name = "bevy_wind_waker_shaderr"
+description = "A toon shader that looks like the one used for characters in The Legend of Zelda: The Wind Waker."
+link = "https://github.com/janhohenheim/bevy_wind_waker_shader"
+image = "bevy_wind_waker_shader.png"
