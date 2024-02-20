@@ -2,7 +2,7 @@
 name = "bevy_eventwork_mod_websockets"
 
 # Description of your asset. It should be less than 100 characters and not contain formatting.
-description = "A websocket transport layer for Bevy_eventwork that supports WASM and Native."
+description = "A websocket transport layer for bevy_eventwork that supports WASM and Native."
 
 # Where can your asset be found. It can be a link to crates.io, github, gitlab or similar.
 link = "https://crates.io/crates/bevy_eventwork_mod_websockets"
