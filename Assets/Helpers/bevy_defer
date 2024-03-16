@@ -1,0 +1,3 @@
+name = "bevy_defer"
+description = "Simple asynchronous runtime for executing deferred queries."
+link = "https://github.com/mintlu8/bevy_defer"
