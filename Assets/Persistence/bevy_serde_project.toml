@@ -1,0 +1,3 @@
+name = "bevy_serde_project"
+description = "Stateful, structural and pretty serialization for the bevy engine."
+link = "https://github.com/mintlu8/bevy_serde_project"
