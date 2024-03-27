@@ -1,4 +1,4 @@
 name = "sokoban-rs"
-description = "A sokoban with a solver."
+description = "A sokoban with solver."
 link = "https://github.com/ShenMian/sokoban-rs"
-image = "sokoban-rs.png"
+image = "sokoban-rs.gif"
