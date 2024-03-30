@@ -1,0 +1,3 @@
+name = "some_bevy_helper"
+description = "A bunch of plugins to get started more quickly"
+link = "https://github.com/neosam/some_bevy_tools"
