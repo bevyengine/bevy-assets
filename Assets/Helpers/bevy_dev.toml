@@ -1,0 +1,4 @@
+name = "bevy_dev"
+description = "Dev tools for Bevy Engine. For faster prototyping."
+link = "https://crates.io/crates/bevy_dev"
+image = "bevy_dev.webp"
