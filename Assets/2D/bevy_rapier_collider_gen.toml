@@ -1,4 +1,0 @@
-name = "bevy_rapier_collider_gen"
-description = "a library for generating bevy_rapier2d colliders from images with transparency"
-link = "https://github.com/shnewto/bevy_rapier_collider_gen"
-image = "bevy_rapier_collider_gen.png"
