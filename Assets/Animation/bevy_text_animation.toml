@@ -1,3 +1,4 @@
 name = "bevy_text_animation"
 description = "text animation library for Bevy"
 link = "https://crates.io/crates/bevy_text_animation"
+image = "bevy_text_animation.gif"
