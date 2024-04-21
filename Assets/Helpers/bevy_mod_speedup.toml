@@ -1,0 +1,3 @@
+name = "bevy_mod_speedup"
+description = "bevy_mod_speedup is a collection of ways to increase the performance of your application."
+link = "https://github.com/FrTerstappen/bevy_mod_speedup"
