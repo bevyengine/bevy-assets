@@ -1,0 +1,4 @@
+name = "bevy_rts_camera"
+description = "A simple RTS-style camera controller"
+link = "https://github.com/Plonq/bevy_rts_camera"
+image = "bevy_rts_camera.gif"
