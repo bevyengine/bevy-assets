@@ -1,4 +1,4 @@
 name = "bevy_rtc"
-description = "A simple, multi-platform WebRTC networking library for client<->server topologies. Built over Matchbox."
+description = "A simple, multi-platform WebRTC networking library for client<->server topologies."
 link = "https://github.com/loopystudios/bevy_rtc"
-image = "matchbox_logo.png"
+image = "bevy_rtc.png"
