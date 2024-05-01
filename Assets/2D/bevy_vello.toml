@@ -1,0 +1,4 @@
+name = "bevy_vello"
+description = "An integration to render vector assets with Vello."
+link = "https://github.com/loopystudios/bevy_vello"
+image = "bevy_vello.png"
