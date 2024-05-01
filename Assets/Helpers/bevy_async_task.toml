@@ -1,0 +1,3 @@
+name = "bevy_async_task"
+description = "Cross-platform ergonomic abstractions for async programming."
+link = "https://github.com/loopystudios/bevy_async_task"
