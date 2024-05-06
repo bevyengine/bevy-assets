@@ -1,0 +1,4 @@
+name = "quartz"
+description = "visual programming and dsp playground using bevy and fundsp"
+link = "https://github.com/tomara-x/quartz"
+image = "quartz.png"
