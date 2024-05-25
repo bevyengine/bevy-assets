@@ -1,0 +1,4 @@
+name = "bevy-in-app"
+description = "Integrate the Bevy engine into existing iOS | Android apps."
+link = "https://github.com/jinleili/bevy-in-app"
+image = "bevy_in_app.png"
