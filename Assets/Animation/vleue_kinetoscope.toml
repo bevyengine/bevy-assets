@@ -1,0 +1,4 @@
+name = "vleue_kinetoscope"
+description = "Animated GIF player"
+link = "https://crates.io/crates/vleue_kinetoscope"
+image = "vleue_kinetoscope.webp"
