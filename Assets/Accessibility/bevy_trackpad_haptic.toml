@@ -1,0 +1,3 @@
+name = "bevy_trackpad_haptic"
+description = "A bevy plugin for triggering trackpad haptic feedback on a mac."
+link = "https://github.com/jasonjmcghee/bevy_trackpad_haptic"
