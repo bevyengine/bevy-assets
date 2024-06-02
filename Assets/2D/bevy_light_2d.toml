@@ -1,0 +1,4 @@
+name = "bevy_light_2d"
+description = "General purpose 2D lighting for Bevy."
+link = "https://github.com/jgayfer/bevy_light_2d"
+image = "bevy_light_2d.gif"
