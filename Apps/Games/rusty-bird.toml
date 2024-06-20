@@ -1,0 +1,4 @@
+name = "Rusty Bird"
+description = "Yet another flappy bird game."
+link = "https://github.com/carp3/rusty-bird"
+image = "rusty-bird.png"
