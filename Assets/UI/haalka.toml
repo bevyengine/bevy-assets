@@ -1,0 +1,4 @@
+name = "haalka"
+description = "ergonomic reactive Bevy UI library powered by FRP signals"
+link = "https://github.com/databasedav/haalka"
+image = "haalka.webp"
