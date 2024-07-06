@@ -1,0 +1,4 @@
+name = "avian"
+description = "An ECS-driven 2D and 3D physics engine for Bevy."
+link = "https://github.com/Jondolf/avian"
+image = "avian.png"
