@@ -1,0 +1,3 @@
+name = "bevy-autoplay"
+description = "Automated integration testing based on recorded play-testing sessions"
+link = "https://github.com/tobyselway/bevy-autoplay"
