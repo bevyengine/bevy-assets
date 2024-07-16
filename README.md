@@ -20,6 +20,7 @@ link = "https://github.com/me/my_plugin"
 
 # Optional image to showcase your asset.
 # Should be a png/jpg/gif/webp located next to your toml file, less than 2 MB in size.
+# We recommend a size of 551x310 pixels. (16:9 aspect ratio)
 image = "my_plugin_icon.png"
 ```
 
