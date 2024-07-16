@@ -1,0 +1,4 @@
+name = "bevy_simple_prefs"
+description = "A small WASM-compatible Bevy plugin for persisting multiple Resources to a single Ron file"
+link = "https://github.com/rparrett/bevy_simple_prefs"
+image = "bevy_simple_prefs.png"

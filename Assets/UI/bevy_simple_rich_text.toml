@@ -1,0 +1,4 @@
+name = "bevy_simple_rich_text"
+description = "A tiny bbcode-like rich text helper for bevy_ui"
+link = "https://github.com/rparrett/bevy_simple_rich_text"
+image = "bevy_simple_rich_text.png"

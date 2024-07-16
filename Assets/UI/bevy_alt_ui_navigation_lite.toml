@@ -1,0 +1,3 @@
+name = "bevy-alt-ui-navigation-lite"
+description = "A fork of bevy-ui-navigation without dependencies on other Bevy ecosystem crates"
+link = "https://github.com/rparrett/bevy-alt-ui-navigation-lite"

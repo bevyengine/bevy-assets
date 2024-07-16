@@ -1,0 +1,4 @@
+name = "bevy_two_entities"
+description = "A few convenience traits for working with Bevy Queries and exactly two Entities"
+link = "https://github.com/rparrett/bevy_two_entities"
+image = "bevy_two_entities.png"
