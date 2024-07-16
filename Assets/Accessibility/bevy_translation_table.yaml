@@ -1,3 +1,0 @@
-name = "bevy-translation-table"
-description = "Localisation using simple key-value lookups supporting CSV, ODS, and customized data."
-link = "https://crates.io/crates/bevy-translation-table"
