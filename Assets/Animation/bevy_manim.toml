@@ -1,3 +1,4 @@
 name = "bevy_manim"
 description = "bevy plugin for drawing and animation like a 3b1b's manim"
 link = "https://github.com/simensgreen/bevy_manim"
+crate = "bevy_manim"

@@ -1,3 +1,4 @@
 name = "bevy-sequential-actions"
 description = "A Bevy library for executing various actions in a sequence."
 link = "https://github.com/hikikones/bevy-sequential-actions"
+crate = "bevy-sequential-actions"

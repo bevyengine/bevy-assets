@@ -1,3 +1,4 @@
 name = "bevy_cronjob"
 description = "A simple helper to run cronjobs (at repeated schedule) in Bevy."
 link = "https://github.com/foxzool/bevy_cronjob"
+crate = "bevy_cronjob"

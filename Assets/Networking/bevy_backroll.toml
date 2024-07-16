@@ -1,3 +1,4 @@
 name = "bevy_backroll"
 description = "Integration plugin with Backroll for providing session-based peer-to-peer rollback networking."
 link = "https://crates.io/crates/bevy_backroll"
+crate = "bevy_backroll"

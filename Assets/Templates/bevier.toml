@@ -1,4 +1,4 @@
 name = "bevier"
 description = "A Bevy Project Generator."
 link = "https://github.com/DraftedDev/bevier"
-
+crate = "bevier"

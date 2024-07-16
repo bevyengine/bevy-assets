@@ -1,3 +1,4 @@
 name = "bevy-steamworks"
 description = "Steamworks SDK Plugin."
-link = "https://github.com/james7132/bevy-steamworks"
+link = "https://github.com/HouraiTeahouse/bevy-steamworks"
+crate = "bevy-steamworks"

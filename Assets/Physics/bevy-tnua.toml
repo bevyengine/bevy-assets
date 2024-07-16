@@ -1,3 +1,4 @@
 name = "bevy-tnua"
 description = "Physics based floating character controller"
 link = "https://crates.io/crates/bevy-tnua"
+crate = "bevy-tnua"

@@ -1,3 +1,4 @@
 name = "iyes_loopless"
 description = "Composable Alternatives to Bevy's RunCriteria, States, and FixedTimestep"
 link = "https://crates.io/crates/iyes_loopless"
+crate = "iyes_loopless"

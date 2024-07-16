@@ -1,3 +1,4 @@
 name = "bevy_fly_camera"
 description = "A flying camera plugin"
 link = "https://crates.io/crates/bevy_fly_camera"
+crate = "bevy_fly_camera"

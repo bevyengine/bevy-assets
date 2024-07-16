@@ -1,3 +1,4 @@
 name = "moonshine-behavior"
 description = "Minimalistic state machine implementation for Bevy entities."
 link = "https://github.com/Zeenobit/moonshine_behavior"
+crate = "moonshine-behavior"

@@ -1,3 +1,4 @@
 name = "Bevy Rand"
 description = "A plugin to integrate rand for ECS optimised RNG for the Bevy game engine"
 link = "https://github.com/Bluefinger/bevy_rand"
+crate = "bevy_rand"

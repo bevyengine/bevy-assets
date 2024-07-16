@@ -1,5 +1,4 @@
 name = "keyseq"
-
 description = "Specify key chords using `ctrl-A` short-hand"
-
 link = "https://github.com/shanecelis/keyseq"
+crate = "keyseq"

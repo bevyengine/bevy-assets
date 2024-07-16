@@ -1,3 +1,4 @@
 name = "bevy_iced"
 description = "Iced integration for Bevy"
 link = "https://github.com/tasgon/bevy_iced"
+crate = "bevy_iced"

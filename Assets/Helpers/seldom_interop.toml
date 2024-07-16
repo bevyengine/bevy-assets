@@ -1,3 +1,4 @@
 name = "seldom_interop"
 description = "Interoperability traits for component types"
 link = "https://github.com/Seldom-SE/seldom_interop"
+crate = "seldom_interop"

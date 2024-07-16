@@ -1,3 +1,4 @@
 name = "bevy_oddio"
 description = "A third party Bevy plugin that integrates `oddio` into Bevy."
 link = "https://github.com/harudagondi/bevy_oddio"
+crate = "bevy_oddio"

@@ -1,0 +1,4 @@
+name = "bevy_prototype_networking_laminar"
+description = "A prototype networking plugin using `laminar` as the transport."
+link = "https://github.com/ncallaway/bevy_prototype_networking_laminar"
+crate = "bevy_prototype_networking_laminar"

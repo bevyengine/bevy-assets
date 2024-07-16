@@ -1,3 +1,4 @@
 name = "bevy-nest"
 description = "A telnet plugin for getting MUDdy in Bevy."
 link = "https://github.com/its-danny/bevy-nest"
+crate = "bevy-nest"

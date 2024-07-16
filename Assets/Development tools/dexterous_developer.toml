@@ -1,4 +1,4 @@
 name = "Dexterous Developer"
-
 description = "A hot reload system for bevy"
 link = "https://github.com/lee-orr/dexterous_developer"
+crate = "bevy_dexterous_developer"

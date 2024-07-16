@@ -1,3 +1,4 @@
 name = "bevy_mod_ui_sprite"
 description = "Draw sprites and texture atlas sprites with the Bevy UI"
 link = "https://github.com/ickshonpe/bevy_mod_ui_sprite"
+crate = "bevy_mod_ui_sprite"

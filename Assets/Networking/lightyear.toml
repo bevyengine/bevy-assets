@@ -1,3 +1,4 @@
 name = "lightyear"
 description = "Complete server-client networking library for bevy"
 link = "https://github.com/cBournhonesque/lightyear"
+crate = "lightyear"

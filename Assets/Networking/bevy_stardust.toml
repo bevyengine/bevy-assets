@@ -1,3 +1,4 @@
 name = "bevy_stardust"
 description = "Stardust is a batteries-included networking crate with a focus on extensibility and parallelism."
 link = "https://crates.io/crates/bevy_stardust"
+crate = "bevy_stardust"

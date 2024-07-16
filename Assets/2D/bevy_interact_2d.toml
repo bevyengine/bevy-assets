@@ -1,3 +1,4 @@
 name = "bevy_interact_2d"
 description = "2D mouse interactions"
 link = "https://crates.io/crates/bevy_interact_2d"
+crate = "bevy_interact_2d"

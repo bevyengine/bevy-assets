@@ -1,3 +1,4 @@
 name = "bevy_asset_ron"
 description = "Custom RON Asset loading."
 link = "https://crates.io/crates/bevy_asset_ron"
+crate = "bevy_asset_ron"

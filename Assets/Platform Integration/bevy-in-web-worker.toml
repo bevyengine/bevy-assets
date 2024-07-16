@@ -2,3 +2,4 @@ name = "bevy-in-web-worker"
 description = "Running a Bevy app in a Web Worker and interacting with HTML elements and the Bevy engine."
 link = "https://github.com/jinleili/bevy-in-web-worker"
 image = "bevy-in-web-worker.png"
+# TODO: No crate.

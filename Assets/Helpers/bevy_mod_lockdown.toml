@@ -1,3 +1,4 @@
 name = "bevy_mod_lockdown"
 description = "bevy_mod_lockdown is a library to reduce the attack surface your application offers."
 link = "https://github.com/FrTerstappen/bevy_mod_lockdown"
+crate = "bevy_mod_lockdown"

@@ -1,3 +1,4 @@
 name = "bevy_mod_wanderlust"
 description = "Dynamic floating character controller"
 link = "https://crates.io/crates/bevy_mod_wanderlust"
+crate = "bevy_mod_wanderlust"

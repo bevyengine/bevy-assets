@@ -1,3 +1,4 @@
 name = "bevy_spicy_networking"
 description = "Unifying server/client networking crate using tokio as asynchronous backend."
 link = "https://github.com/CabbitStudios/bevy_spicy_networking"
+crate = "bevy_spicy_networking"

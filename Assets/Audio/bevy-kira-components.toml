@@ -1,3 +1,4 @@
 name = "Bevy Kira Components"
 description = "Proof-of-concept crate for the next version of Bevy Audio"
 link = "https://github.com/SolarLiner/bevy-kira-components"
+crate = "bevy-kira-components"

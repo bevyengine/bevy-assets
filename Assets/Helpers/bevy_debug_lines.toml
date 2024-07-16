@@ -1,3 +1,4 @@
 name = "bevy_debug_lines"
 description = "Simple line drawing api for bevy."
 link = "https://github.com/Toqozz/bevy_debug_lines"
+crate = "bevy_prototype_debug_lines"

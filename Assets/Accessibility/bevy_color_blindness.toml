@@ -1,3 +1,4 @@
 name = "bevy_color_blindness"
 description = "Simulate and preview different types of color blindness"
 link = "https://crates.io/crates/bevy_color_blindness"
+crate = "bevy_color_blindness"

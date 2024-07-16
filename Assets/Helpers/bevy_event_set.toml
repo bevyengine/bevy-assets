@@ -1,3 +1,4 @@
 name = "bevy_event_set"
 description = "A macro to create event bundles for Bevy"
 link = "https://github.com/woubuc/bevy-event-set"
+crate = "bevy_event_set"

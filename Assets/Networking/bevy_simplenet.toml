@@ -1,3 +1,4 @@
 name = "bevy_simplenet"
 description = "Websockets-based cross-platform networking library with a simple interface"
 link = "https://github.com/UkoeHB/bevy_simplenet"
+crate = "bevy_simplenet"

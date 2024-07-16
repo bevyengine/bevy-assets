@@ -1,3 +1,4 @@
 name = "bevy_gltf_components"
 description = "Define components directly inside gltf files and instanciate them in Bevy."
 link = "https://crates.io/crates/bevy_gltf_components"
+crate = "bevy_gltf_components"

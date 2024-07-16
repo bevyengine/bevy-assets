@@ -1,3 +1,4 @@
 name = "bevy_doryen"
 description = "A plugin integrating Bevy ECS with doryen-rs Ascii roguelike library."
 link = "https://github.com/smokku/bevy_doryen"
+# TODO: No crate.

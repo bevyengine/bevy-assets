@@ -1,3 +1,4 @@
 name = "bevy_contrib_colors"
 description = "A simple color library."
 link = "https://crates.io/crates/bevy_contrib_colors"
+crate = "bevy_contrib_colors"

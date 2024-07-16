@@ -1,3 +1,4 @@
 name = "bevy_spawnable"
 description = "tiny spawn utility for Bevy, to encapsulate spawn logic"
 link = "https://crates.io/crates/bevy_spawnable"
+crate = "bevy_spawnable"

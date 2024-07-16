@@ -1,3 +1,4 @@
 name = "bevy_quick_response"
 description = "A Bevy plugin for quick responsive behaviors"
 link = "https://crates.io/crates/bevy_quick_response"
+crate = "bevy_quick_response"
