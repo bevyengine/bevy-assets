@@ -1,0 +1,4 @@
+name = "Bevy Quickstart"
+description = "Start simple with a pure-Bevy template made by the Bevy Jam working group!"
+link = "https://github.com/TheBevyFlock/bevy_quickstart"
+image = "bevy_quickstart.gif"
