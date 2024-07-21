@@ -1,4 +1,4 @@
 name = "bevy_mod_bbcode"
-description = "Format your UI text using BBCode!"
+description = "Format your UI text using the BBCode markup language!"
 link = "https://github.com/TimJentzsch/bevy_mod_bbcode"
 image = "bevy_mod_bbcode.png"
