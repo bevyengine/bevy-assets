@@ -1,0 +1,4 @@
+name = "Tsumi"
+description = "Short narrative-driven 2D game with dialogue using yarnspinner"
+link = "https://github.com/PraxTube/tsumi"
+image = "tsumi.png"
