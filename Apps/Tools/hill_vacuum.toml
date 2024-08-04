@@ -1,0 +1,4 @@
+name = "HillVacuum"
+description = "A 2D, Doom Editor and TrenchBroom inspired, map editor"
+link = "https://github.com/IvoryDuke/HillVacuum"
+image = "hill_vacuum.png"
