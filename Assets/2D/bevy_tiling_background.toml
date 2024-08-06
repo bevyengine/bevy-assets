@@ -1,4 +1,5 @@
 name = "Bevy Tiling Background"
 description = "A plugin to support GPU rendered backgrounds with tiling and parallax effects"
-link = "https://github.com/Braymatter/bevy_tiling_background"
+link = "https://github.com/BraymatterOrg/bevy_tiling_background"
 image = "bevy_tiling_background.gif"
+crate = "bevy_tiling_background"

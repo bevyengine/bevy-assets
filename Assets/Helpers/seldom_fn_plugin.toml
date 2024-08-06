@@ -1,3 +1,4 @@
 name = "seldom_fn_plugin"
 description = "Allows using Rust functions in place of Bevy plugins for concision and to avoid certain clones"
 link = "https://github.com/Seldom-SE/seldom_fn_plugin"
+crate = "seldom_fn_plugin"

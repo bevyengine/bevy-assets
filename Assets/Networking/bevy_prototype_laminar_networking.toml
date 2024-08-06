@@ -1,3 +1,0 @@
-name = "bevy_prototype_laminar_networking"
-description = "A prototype networking plugin using `laminar` as the transport."
-link = "https://github.com/ncallaway/bevy-prototype-laminar-networking"

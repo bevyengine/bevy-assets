@@ -1,3 +1,4 @@
 name = "bevy_asset_loader"
 description = "Automatically load asset collections during a configurable State"
 link = "https://crates.io/crates/bevy_asset_loader"
+crate = "bevy_asset_loader"

@@ -1,3 +1,4 @@
 name = "bevy_kira_audio"
 description = "An alternative Bevy audio plugin using Kira"
 link = "https://github.com/NiklasEi/bevy_kira_audio"
+crate = "bevy_kira_audio"

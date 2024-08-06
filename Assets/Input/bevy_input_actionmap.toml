@@ -1,3 +1,4 @@
 name = "bevy_input_actionmap"
 description = "Maps key and gamepad events to actions in Bevy."
 link = "https://github.com/lightsoutgames/bevy_input_actionmap"
+# TODO: No crate.

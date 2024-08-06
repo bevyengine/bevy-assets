@@ -1,3 +1,4 @@
 name = "bevy_tiled"
 description = "A plugin for rendering Tiled maps"
-link = "https://github.com/stararawn/bevy_tiled"
+link = "https://github.com/StarArawn/bevy_tiled"
+crate = "bevy_tiled_prototype"

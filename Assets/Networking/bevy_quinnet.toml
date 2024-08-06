@@ -1,3 +1,4 @@
 name = "bevy_quinnet"
 description = "A Client/Server game networking plugin using QUIC, for the Bevy game engine."
 link = "https://github.com/Henauxg/bevy_quinnet"
+crate = "bevy_quinnet"

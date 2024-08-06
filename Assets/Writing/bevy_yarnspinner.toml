@@ -1,4 +1,5 @@
 name = "bevy_yarnspinner"
 description = "The Bevy plugin for the Rust port of Yarn Spinner, the friendly tool for writing game dialogue"
 link = "https://github.com/YarnSpinnerTool/YarnSpinner-Rust"
-image = "yarnspinner-rust.png"
+image = "bevy_yarnspinner.png"
+crate = "bevy_yarnspinner"

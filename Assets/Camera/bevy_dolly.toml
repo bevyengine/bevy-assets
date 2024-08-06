@@ -1,3 +1,4 @@
 name = "bevy_dolly"
 description = "Combine simple building blocks to create smooth cameras"
 link = "https://github.com/BlackPhlox/bevy_dolly"
+crate = "bevy_dolly"

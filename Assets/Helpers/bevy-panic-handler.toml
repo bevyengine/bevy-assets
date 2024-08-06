@@ -1,12 +1,5 @@
-# Name of your asset.
 name = "bevy-panic-handler"
-
-# Description of your asset. It should be less than 100 characters and not contain formatting.
 description = "A bevy plugin that creates a popup and logs to error on panic. "
-
-# Where can your asset be found. It can be a link to crates.io, github, gitlab or similar.
 link = "https://github.com/Koranir/bevy-panic-handler"
-
-# Optional image to showcase your asset.
-# Should be a png/jpg/gif/webp located next to your toml file, less than 2 MB in size.
 image = "bevy-panic-handler.png"
+crate = "bevy-panic-handler"

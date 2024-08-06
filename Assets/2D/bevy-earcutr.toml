@@ -1,3 +1,4 @@
 name = "bevy-earcutr"
 description = "Draw polygons"
 link = "https://github.com/frewsxcv/bevy-earcutr"
+crate = "bevy-earcutr"

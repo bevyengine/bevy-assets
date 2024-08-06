@@ -1,3 +1,4 @@
 name = "bevy_guessture"
 description = "Gesture recognition for Bevy, based on the '$1 unistroke recognizer'."
 link = "https://crates.io/crates/bevy_guessture"
+crate = "bevy_guessture"

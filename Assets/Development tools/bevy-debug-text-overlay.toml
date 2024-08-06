@@ -1,4 +1,5 @@
 name = "bevy-debug-text-overlay"
 description = " A convenient on-screen message print macro"
-link = "https://crates.io/crates/bevy_debug_text_overlay"
+link = "https://crates.io/crates/bevy-debug-text-overlay"
 image = "bevy-debug-text-overlay-demo.gif"
+crate = "bevy-debug-text-overlay"

@@ -1,3 +1,4 @@
 name = "bevy_fluent"
 description = "A plugin for localization using Fluent"
 link = "https://github.com/kgv/bevy_fluent"
+crate = "bevy_fluent"

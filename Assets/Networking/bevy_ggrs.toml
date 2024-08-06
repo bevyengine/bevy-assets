@@ -1,4 +1,5 @@
 name = "bevy_ggrs"
 description = "Integration plugin for the P2P rollback networking library GGRS."
 link = "https://github.com/gschup/bevy_ggrs"
-image = "ggrs_logo.png"
+image = "bevy_ggrs_logo.png"
+crate = "bevy_ggrs"

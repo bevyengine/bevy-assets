@@ -1,3 +1,4 @@
 name = "bevy_svg"
 description = "Load and draw SVG-files in 2D and 3D"
 link = "https://github.com/Weasy666/bevy_svg"
+crate = "bevy_svg"

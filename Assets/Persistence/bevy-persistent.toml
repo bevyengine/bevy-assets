@@ -1,3 +1,4 @@
 name = "bevy-persistent"
 description = "A Bevy helper to easily manage resources that need to persist across game sessions."
 link = "https://crates.io/crates/bevy-persistent"
+crate = "bevy-persistent"

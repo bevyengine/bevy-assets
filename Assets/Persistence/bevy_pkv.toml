@@ -1,3 +1,4 @@
 name = "bevy_pkv"
 description = "Persistent key value store for apps/games"
 link = "https://crates.io/crates/bevy_pkv"
+crate = "bevy_pkv"

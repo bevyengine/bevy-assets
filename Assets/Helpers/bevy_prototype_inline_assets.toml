@@ -1,3 +1,4 @@
 name = "bevy_prototype_inline_assets"
 description = "A simple plugin for bundling assets into your binary."
 link = "https://crates.io/crates/bevy_prototype_inline_assets"
+crate = "bevy_prototype_inline_assets"

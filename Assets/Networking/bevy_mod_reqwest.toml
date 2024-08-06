@@ -1,3 +1,4 @@
 name = "bevy_mod_reqwest"
 description = "A Plugin for wasm32/x86_64 that helps with reqwest calls"
 link = "https://github.com/TotalKrill/bevy_mod_reqwest.git"
+crate = "bevy_mod_reqwest"

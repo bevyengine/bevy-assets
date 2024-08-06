@@ -1,4 +1,5 @@
 name = "bevy_c3d"
 description = "A .c3d motion capture asset loader plugin for the Bevy engine"
-link = "https://github.com/cvhammond/bevy_c3d"
+link = "https://github.com/biomechanics-foundation/bevy_c3d"
 image = "bevy_c3d.gif"
+crate = "bevy_c3d"

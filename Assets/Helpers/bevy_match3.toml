@@ -1,11 +1,5 @@
-# Name of your asset.
 name = "Bevy Match 3"
-
-# Description of your asset. It should be less than 100 characters and not contain formatting.
 description = "A crate for handling the logic side of match 3 games"
-
-# Where can your asset be found. It can be a link to crates.io, github, gitlab or similar.
 link = "https://crates.io/crates/bevy_match3"
-
-# Optional image to showcase your asset. Should be a png/jpg/gif located next to your toml file.
 image = "bevy_match3.gif"
+crate = "bevy_match3"

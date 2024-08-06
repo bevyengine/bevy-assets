@@ -1,3 +1,4 @@
 name = "bevy_flurx"
 description = "Allows sequential description of game processing."
 link = "https://github.com/not-elm/bevy_flurx"
+crate = "bevy_flurx"

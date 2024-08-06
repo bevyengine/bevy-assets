@@ -1,3 +1,4 @@
 name = "bevy_web_asset"
 description = "Adds the ability to load assets from http(s) urls"
 link = "https://crates.io/crates/bevy_web_asset"
+crate = "bevy_web_asset"

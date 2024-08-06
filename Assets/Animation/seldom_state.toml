@@ -1,3 +1,4 @@
 name = "seldom_state"
 description = "Component-based state machine for AI, animation, player controllers, etc."
 link = "https://github.com/Seldom-SE/seldom_state"
+crate = "seldom_state"

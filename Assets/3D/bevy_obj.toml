@@ -1,3 +1,4 @@
 name = "bevy_obj"
 description = "Wavefront .obj mesh asset loader plugin"
 link = "https://github.com/AmionSky/bevy_obj"
+crate = "bevy_obj"

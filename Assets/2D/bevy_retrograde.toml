@@ -1,0 +1,4 @@
+name = "bevy_retrograde"
+description = "2D pixel-perfect renderer for Bevy with support for OpenGL/WebGL"
+link = "https://github.com/katharostech/bevy_retrograde"
+crate = "bevy_retrograde"

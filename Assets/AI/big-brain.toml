@@ -1,3 +1,4 @@
 name = "big-brain"
 description = "A highly-parallel Utility AI engine."
 link = "https://github.com/zkat/big-brain"
+crate = "big-brain"

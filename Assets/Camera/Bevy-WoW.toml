@@ -1,3 +1,4 @@
 name = "Bevy-WoW"
 description = "A WoW-style camera"
 link = "https://github.com/Tezza48/Bevy-WoW"
+# TODO: No crate.

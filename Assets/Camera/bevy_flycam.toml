@@ -1,3 +1,4 @@
 name = "bevy_flycam"
 description = "A basic FPS-style camera controller"
 link = "https://github.com/sburris0/bevy_flycam"
+crate = "bevy_flycam"

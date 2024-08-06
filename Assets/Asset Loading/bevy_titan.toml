@@ -1,3 +1,4 @@
 name = "bevy_titan"
 description = "Load heterogeneous, homogeneous and merged texture atlas from a ron manifest."
 link = "https://crates.io/crates/bevy_titan"
+crate = "bevy_titan"

@@ -1,3 +1,4 @@
 name = "bevy-yoleck"
 description = "Turn a game into a level editor for its own levels"
 link = "https://crates.io/crates/bevy-yoleck"
+crate = "bevy-yoleck"

@@ -1,3 +1,4 @@
 name = "bevy_extern_events"
 description = "Plugin for generic external events forwarded to Bevy EventReaders"
 link = "https://github.com/extrawurst/bevy_extern_events"
+crate = "bevy_extern_events"

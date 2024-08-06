@@ -1,3 +1,4 @@
 name = "bevy_eventwork"
 description = "Server/client message based networking plugin, async based, tokio compatible but not necessary."
 link = "https://crates.io/crates/bevy_eventwork"
+crate = "bevy_eventwork"

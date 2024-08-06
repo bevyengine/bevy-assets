@@ -1,3 +1,4 @@
 name = "bevy_turborand"
 description = "ECS-integrated random number generation based on turborand"
 link = "https://github.com/Bluefinger/bevy_turborand"
+crate = "bevy_turborand"

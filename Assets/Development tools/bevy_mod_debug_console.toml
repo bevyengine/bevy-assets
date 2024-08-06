@@ -1,3 +1,4 @@
 name = "bevy_mod_debug_console"
 description = "Get info from ecs through"
 link = "https://github.com/hymm/bevy_mod_debug_console"
+crate = "bevy_mod_debug_console"

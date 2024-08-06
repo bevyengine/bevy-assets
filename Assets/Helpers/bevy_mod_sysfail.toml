@@ -1,4 +1,4 @@
-
 name = "bevy_mod_sysfail"
 description = "Add the sysfail macro attribute to use ? in your systems."
 link = "https://crates.io/crates/bevy_mod_sysfail"
+crate = "bevy_mod_sysfail"
