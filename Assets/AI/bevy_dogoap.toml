@@ -1,0 +1,5 @@
+name = "bevy_dogoap"
+description = "Data-Oriented GOAP (Goal-Oriented Action Planning) for Bevy"
+link = "https://github.com/victorb/dogoap"
+image = "bevy_dogoap.webp"
+crate = "bevy_dogoap"
