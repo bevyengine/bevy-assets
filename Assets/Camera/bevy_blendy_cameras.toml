@@ -1,5 +1,4 @@
 name = "bevy_blendy_cameras"
 description = "Blender inpspired editor/3Dview camera controllers and utilities"
 link = "https://github.com/thmxv/bevy_blendy_cameras"
-image = "bevy_blendy_cameras.gif"
 crate = "bevy_blendy_cameras"
