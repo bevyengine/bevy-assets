@@ -1,0 +1,3 @@
+name = "infini-pong"
+description = "Barebones 2d pong example"
+link = "https://github.com/MisterSzled/infini-pong_bevy"
