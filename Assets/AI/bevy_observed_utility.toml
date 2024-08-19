@@ -1,0 +1,4 @@
+name = "bevy_observed_utility"
+description = "Ergonomic and correct Utility AI, powered by ECS Observers."
+link = "https://github.com/ItsDoot/bevy_observed_utility"
+crate = "bevy_observed_utility"
