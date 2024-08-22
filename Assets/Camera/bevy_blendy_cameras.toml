@@ -1,0 +1,4 @@
+name = "bevy_blendy_cameras"
+description = "Blender inspired editor / 3D-view camera controllers and utilities"
+link = "https://github.com/thmxv/bevy_blendy_cameras"
+crate = "bevy_blendy_cameras"
