@@ -1,5 +1,5 @@
 name = "avian_pickup"
-description = "Pick up and throw dynamic rigid bodies in Avian physics. Modeled after Half Life 2's gravity gun. "
+description = "Pick up and throw dynamic rigid bodies in Avian physics. Inspired by Half Life 2's gravity gun."
 link = "https://github.com/janhohenheim/avian_pickup"
 image = "avian_pickup.gif"
 # Waiting for the next Avian release, then this will be on crates.io as well
