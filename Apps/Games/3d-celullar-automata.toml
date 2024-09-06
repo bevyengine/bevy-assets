@@ -1,0 +1,4 @@
+name = "Celullar Automata"
+description = "3D Cellular Automaton using the Bevy engine"
+link = "https://github.com/gbPagano/cellular-automata"
+image = "3d-cellular-automata.png"
