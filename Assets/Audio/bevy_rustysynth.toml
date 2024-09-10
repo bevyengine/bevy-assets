@@ -1,0 +1,4 @@
+name = "bevy_rustysynth"
+description = "Bevy plugin which enables MIDI file audio sources using the rustysynth crate."
+link = "https://github.com/exvacuum/bevy_rustysynth"
+crate = "bevy_rustysynth"
