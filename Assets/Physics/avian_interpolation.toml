@@ -1,0 +1,6 @@
+name = "avian_interpolation"
+description = "Do your characters jitter when moving? This automagically fixes that by interpolating `Transform`s!"
+link = "https://github.com/janhohenheim/avian_interpolation"
+image = "avian_interpolation.gif"
+# Waiting for the next Avian release, then this will be on crates.io as well
+# crate = "avian_interpolation"
