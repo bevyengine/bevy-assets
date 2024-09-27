@@ -1,0 +1,5 @@
+name = "vleue_navigator"
+description = "Fast NavMesh using Polyanya for 2d and 3d with live updates and support for layers"
+link = "https://crates.io/crates/vleue_navigator"
+image = "vleue_navigator.png"
+crate = "vleue_navigator"
