@@ -1,0 +1,4 @@
+name = "bevy_log_events"
+description = "A Plugin to log Events and control how to log them."
+link = "https://github.com/YellowWaitt/bevy_log_events"
+crate = "bevy_log_events"
