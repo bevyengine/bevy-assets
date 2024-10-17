@@ -1,0 +1,5 @@
+name = "bevy_copperfield"
+description = "Procedural mesh editor, based on Half-Edge-Mesh datastructure"
+link = "https://github.com/Hexorg/bevy_copperfield"
+image = "bevy_copperfield.png"
+crate = "bevy_copperfield"
