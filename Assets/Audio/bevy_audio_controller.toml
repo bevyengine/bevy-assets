@@ -1,0 +1,4 @@
+name = "bevy_audio_controller"
+description = "Bevy plugin that simplifies channel management and track playback"
+link = "https://github.com/TurtIeSocks/bevy_audio_controller"
+crate = "bevy_audio_controller"
