@@ -1,0 +1,4 @@
+name = "aeronet"
+description = "Low-level networking for Bevy"
+link = "https://github.com/aecsocket/aeronet"
+crate = "aeronet"
