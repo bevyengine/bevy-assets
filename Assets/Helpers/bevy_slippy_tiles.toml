@@ -1,0 +1,4 @@
+name = "bevy_slippy_tiles"
+description = "A helper bevy plugin to handle downloading and rendering OpenStreetMap-compliant slippy tiles."
+link = "https://github.com/edouardpoitras/bevy_slippy_tiles"
+crate = "bevy_slippy_tiles"
