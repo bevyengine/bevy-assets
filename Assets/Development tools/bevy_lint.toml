@@ -1,0 +1,3 @@
+name = "bevy_lint"
+description = "A custom linter for Bevy projects that checks for footguns, optimizations, idiomatic code, and more!"
+link = "https://thebevyflock.github.io/bevy_cli/bevy_lint"
