@@ -1,4 +1,4 @@
 name = "bevy_resolution"
-description = "Library which aims to make resolutions easier and simplier to work with."
+description = "Library which aims to make resolutions easier and simpler to work with."
 link = "https://crates.io/crates/bevy_resolution"
 crate = "bevy_resolution"
