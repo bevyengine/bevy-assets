@@ -1,0 +1,4 @@
+name = "Jigsaw Puzzle"
+description = "A jigsaw puzzle game using the Bevy engine"
+link = "https://github.com/foxzool/jigsaw_puzzle"
+image = "jigsaw.png"
