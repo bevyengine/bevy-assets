@@ -1,0 +1,4 @@
+name = "bevy_cobweb_ui"
+description = "Painless, productive UI framework"
+link = "https://github.com/UkoeHB/bevy_cobweb_ui"
+image = "bevy_cobweb_ui.gif"
