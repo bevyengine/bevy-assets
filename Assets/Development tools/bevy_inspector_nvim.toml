@@ -1,0 +1,4 @@
+name = "bevy_inspector.nvim"
+description = "A simple remote entity and component inspector inside neovim"
+link = "https://github.com/Lommix/bevy_inspector.nvim"
+image = "bevy_inspector_nvim.png"

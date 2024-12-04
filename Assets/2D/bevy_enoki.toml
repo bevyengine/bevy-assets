@@ -1,0 +1,5 @@
+name = "bevy_enoki"
+description = "The webgl2 and mobile friendly particle system with custom materials."
+link = "https://github.com/Lommix/bevy_enoki"
+image = "bevy_enoki.gif"
+crate = "bevy_enoki"
