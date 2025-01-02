@@ -1,0 +1,4 @@
+name = "nyt sudoku"
+description = "A nytimes sudoku game clone built with Bevy"
+link = "https://github.com/foxzool/nyt_sudoku"
+image = "nyt_sudoku.png"
