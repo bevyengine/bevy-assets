@@ -1,0 +1,5 @@
+name = "Bevy Registration"
+description = "Run code on the app from far away."
+link = "https://crates.io/crates/bevy_registration"
+image = "bevy_registration.png"
+crate = "bevy_registration"
