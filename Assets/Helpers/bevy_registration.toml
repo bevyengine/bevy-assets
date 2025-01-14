@@ -1,0 +1,5 @@
+name = "Bevy Registration"
+description = "Annotate systems/resources/events with macros and automatically add them to your app!"
+link = "https://crates.io/crates/bevy_registration"
+image = "bevy_registration.png"
+crate = "bevy_registration"
