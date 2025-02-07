@@ -1,5 +1,5 @@
 name = "bevy-butler"
-description = "A library for simplifying Plugin definitions by registering systems, events and resources at declaration."
+description = "A macro library for simplifying Plugins by registering systems, events and resources at declaration."
 link = "https://github.com/TGRCdev/bevy-butler"
 image = "bevy-butler.png"
 crate = "bevy-butler"
