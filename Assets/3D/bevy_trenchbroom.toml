@@ -1,0 +1,5 @@
+name = "bevy_trenchbroom"
+description = "TrenchBroom and ericw-tools integration, .map, and .bsp loading"
+link = "https://github.com/Noxmore/bevy_trenchbroom"
+image = "bevy_trenchbroom.png"
+crate = "bevy_trenchbroom"
