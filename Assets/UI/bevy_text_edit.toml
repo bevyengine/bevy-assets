@@ -1,0 +1,5 @@
+name = "bevy_text_edit"
+description = "A very easy-to-use plugin for input text"
+link = "https://crates.io/crates/bevy_text_edit"
+crate = "bevy_text_edit"
+image = "bevy_text_edit.gif"
