@@ -1,0 +1,4 @@
+name = "Pico TD"
+description = "Pixel-art tower defense game with soldiers against vehicles"
+link = "https://github.com/Kicshikxo/Pico-TD"
+image = "pico_td.png"
