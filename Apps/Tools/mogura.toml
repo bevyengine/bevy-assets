@@ -1,4 +1,4 @@
 name = "mogura"
 description = "A molecular graphic toy visualizer"
 link = "https://github.com/mogura-rs/mogura"
-image = "mogura.gif"
+image = "mogura.png"
