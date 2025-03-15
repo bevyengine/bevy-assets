@@ -1,0 +1,5 @@
+name = "bevy_ecs_tiled"
+description = "Helpers for working with 2D tilemaps created with the Tiled map editor"
+link = "https://github.com/adrien-bon/bevy_ecs_tiled"
+image = "bevy_ecs_tiled.gif"
+crate = "bevy_ecs_tiled"
