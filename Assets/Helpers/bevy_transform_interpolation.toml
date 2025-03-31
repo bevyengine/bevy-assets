@@ -1,0 +1,4 @@
+name = "bevy_transform_interpolation"
+description = "A drop-in Transform interpolation solution for fixed timesteps."
+link = "https://github.com/Jondolf/bevy_transform_interpolation"
+crate = "bevy_transform_interpolation"
