@@ -1,5 +1,5 @@
 name = "bevy_input_prompts"
-description = "Mappings from bevy input types to popular input prompt asset paths."
+description = "Mappings from bevy input types to popular input prompt asset paths"
 link = "https://crates.io/crates/bevy_input_prompts"
 image = "bevy_input_prompts.png"
 crate = "bevy_input_prompts"
