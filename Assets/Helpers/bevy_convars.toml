@@ -1,0 +1,4 @@
+name = "Bevy Convars"
+description = "An idiomatic convars implementation for Bevy, providing tools for configuring your app."
+link = "https://github.com/transcendental-experiences/bevy-convars"
+crate = "bevy-convars"
