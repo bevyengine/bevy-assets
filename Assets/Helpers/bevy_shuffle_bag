@@ -1,0 +1,4 @@
+name = "bevy_shuffle_bag"
+description = "A tiny crate providing a shuffle bag, which is a collection of items that can endlessly be picked in a random, nonrepeating order."
+link = "https://github.com/janhohenheim/bevy_shuffle_bag"
+crate = "bevy_shuffle_bag"
