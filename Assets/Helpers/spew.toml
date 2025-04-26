@@ -1,4 +1,0 @@
-name = "spew"
-description = "A simple helper for spawning objects in a clean way"
-link = "https://github.com/janhohenheim/spew"
-crate = "spew"

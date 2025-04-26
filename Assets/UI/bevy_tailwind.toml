@@ -1,0 +1,5 @@
+name = "Bevy Tailwind"
+description = "TailwindCSS for Bevy"
+link = "https://github.com/notmd/bevy_tailwind"
+crate = "bevy_tailwind"
+image = "bevy_tailwind.png"

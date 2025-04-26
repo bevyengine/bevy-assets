@@ -1,0 +1,5 @@
+name = "bevy_ratatui_camera"
+description = "A bevy plugin for rendering your bevy app to the terminal using ratatui."
+link = "https://github.com/cxreiff/bevy_ratatui_camera"
+image = "bevy_ratatui_camera.gif"
+crate = "bevy_ratatui_camera"

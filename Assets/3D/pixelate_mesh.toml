@@ -1,5 +1,0 @@
-name = "pixelate_mesh"
-description = "Apply a pixelation effect to any mesh or scene without post-processing."
-link = "https://github.com/janhohenheim/pixelate_mesh"
-image = "pixelate_mesh.jpg"
-crate = "pixelate_mesh"

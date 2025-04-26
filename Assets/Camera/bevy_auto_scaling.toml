@@ -1,0 +1,5 @@
+name = "bevy_auto_scaling"
+description = "Auto scale cameras to fit the window."
+link = "https://github.com/RuelYasa/bevy_auto_scaling"
+crate = "bevy_auto_scaling"
+image = "bevy_auto_scaling.png"

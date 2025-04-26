@@ -1,0 +1,4 @@
+name = "bevy_simple_i18n"
+description = "Simple localization for Bevy"
+link = "https://github.com/TurtIeSocks/bevy_simple_i18n"
+crate = "bevy_simple_i18n"

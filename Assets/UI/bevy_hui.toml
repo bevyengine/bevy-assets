@@ -1,0 +1,5 @@
+name = "bevy_hui"
+description = "Html to bevy_ui and more"
+link = "https://github.com/Lommix/bevy_hui"
+image = "bevy_hui.gif"
+crate = "bevy_hui"

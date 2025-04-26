@@ -1,0 +1,5 @@
+name = "bevy_aseprite_ultra"
+description = "Load animations and sprites directly from binary with hot reload for 2D and Ui."
+link = "https://github.com/Lommix/bevy_aseprite_ultra"
+image = "bevy_aseprite_ultra.png"
+crate = "bevy_aseprite_ultra"

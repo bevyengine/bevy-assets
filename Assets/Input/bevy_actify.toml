@@ -1,0 +1,5 @@
+name = "bevy_actify"
+description = "An input action plugin for Bevy"
+link = "https://github.com/bevious/bevy_actify"
+image = "bevy_actify.png"
+crate = "bevy_actify"
