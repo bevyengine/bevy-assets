@@ -1,0 +1,5 @@
+name = "bevy_flair"
+description = "Style Bevy UI interfaces using familiar CSS syntax"
+link = "https://github.com/eckz/bevy_flair"
+image = "bevy_flair.gif"
+crate = "bevy_flair"
