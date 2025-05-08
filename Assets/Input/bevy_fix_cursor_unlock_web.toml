@@ -1,0 +1,4 @@
+name = "bevy_fix_cursor_unlock_web"
+description = "Fix Bevy not reporting the user unlocking the cursor on web"
+link = "https://github.com/janhohenheim/bevy_fix_cursor_unlock_web"
+crate = "bevy_fix_cursor_unlock_web"
