@@ -1,0 +1,4 @@
+name = "bevy_gltf_animation"
+description = "Simply identify and play gltf animations"
+link = "https://github.com/dsgallups/bevy_gltf_animation"
+crate = "bevy_gltf_animation"
