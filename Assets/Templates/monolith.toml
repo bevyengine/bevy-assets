@@ -1,0 +1,3 @@
+name = "monolith"
+description = "Monolith is a framework based on tokio and bevy"
+link = "https://github.com/yunfengzh/monolith"
