@@ -1,0 +1,4 @@
+name = "bevy_simple_subsecond_system"
+description = "Hotpatch your Bevy systems. Change your code while the app is running and directly see the results!"
+link = "https://github.com/janhohenheim/bevy_simple_subsecond_system"
+crate = "bevy_simple_subsecond_system"
