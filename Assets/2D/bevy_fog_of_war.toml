@@ -1,0 +1,5 @@
+name = "bevy_fog_of_war"
+description = "A 2D fog of war plugin for Bevy"
+link = "https://github.com/foxzool/bevy_fog_of_war"
+image = "bevy_fog_of_war.png"
+crate = "bevy_fog_of_war"
