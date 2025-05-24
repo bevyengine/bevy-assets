@@ -1,0 +1,5 @@
+name = "pyri_state"
+description = "A flexible `bevy_state` alternative"
+link = "https://github.com/benfrankel/pyri_state"
+image = "pyri_state.png"
+crate = "pyri_state"

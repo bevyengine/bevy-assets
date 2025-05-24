@@ -1,0 +1,4 @@
+name = "Pyri New Jam"
+description = "A Bevy template optimized for game jams"
+link = "https://github.com/benfrankel/pyri_new_jam"
+image = "pyri_new_jam.png"
