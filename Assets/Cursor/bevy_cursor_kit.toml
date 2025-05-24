@@ -1,0 +1,5 @@
+name = "bevy_cursor_kit"
+description = "Classic static (`.CUR`) and animated (`.ANI`) cursor formats plus JSON/RON/TOML-based versions."
+link = "https://github.com/mgi388/bevy-cursor-kit"
+crate = "bevy_cursor_kit"
+image = "bevy_cursor_kit.gif"
