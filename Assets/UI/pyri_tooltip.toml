@@ -1,0 +1,5 @@
+name = "pyri_tooltip"
+description = "Powerful tooltips for Bevy"
+link = "https://github.com/benfrankel/pyri_tooltip"
+image = "pyri_tooltip.gif"
+crate = "pyri_tooltip"
