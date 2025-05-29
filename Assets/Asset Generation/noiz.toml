@@ -1,0 +1,5 @@
+name = "Noiz"
+description = "An all purpose, highly customizable, and blazingly fast noise library."
+link = "https://github.com/ElliottjPierce/noiz/tree/main"
+image = "noiz_perlin_noise.jpeg"
+crate = "noiz"
