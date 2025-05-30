@@ -1,0 +1,5 @@
+name = "bevy_hourglass"
+description = "A flexible hourglass plugin for Bevy applications."
+link = "https://github.com/edouardpoitras/bevy_hourglass"
+image = "bevy_hourglass.gif"
+crate = "bevy_hourglass"
