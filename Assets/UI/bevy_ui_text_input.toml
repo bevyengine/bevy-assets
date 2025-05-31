@@ -1,0 +1,5 @@
+name = "bevy_ui_text_input"
+description = "Text input widget for Bevy UI"
+link = "https://github.com/ickshonpe/bevy_ui_text_input"
+image = "bevy_ui_text_input.png"
+crate = "bevy_ui_text_input"
