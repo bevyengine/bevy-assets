@@ -1,0 +1,5 @@
+name = "bevy-ui-gradients"
+description = "Draw gradients in Bevy UI"
+link = "https://github.com/ickshonpe/bevy-ui-gradients"
+image = "bevy-ui-gradients.png"
+crate = "bevy-ui-gradients"
