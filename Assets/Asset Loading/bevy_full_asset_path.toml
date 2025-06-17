@@ -1,0 +1,4 @@
+name = "bevy_full_asset_path"
+description = "A tiny plugin that allows reading the full filesystem path of an asset loaded from disk"
+link = "https://github.com/janhohenheim/bevy_full_asset_path"
+crate = "bevy_full_asset_path"
