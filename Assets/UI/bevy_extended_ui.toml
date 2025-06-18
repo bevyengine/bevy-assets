@@ -1,0 +1,4 @@
+name = "Bevy Extended UI"
+description = "Crate for extending the default bevy UI. HTML and CSS support."
+link = "https://github.com/exepta/bevy_extended_ui"
+crate = "bevy_extended_ui"
