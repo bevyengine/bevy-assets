@@ -1,0 +1,4 @@
+name = "Bevy Inspector VS Code Extension"
+description = "Display and update live data from your Bevy application in Visual Studio Code."
+link = "https://github.com/splo/vscode-bevy-inspector"
+image = "vscode-bevy-inspector.png"
