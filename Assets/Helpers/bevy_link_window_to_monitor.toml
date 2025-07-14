@@ -1,0 +1,4 @@
+name = "bevy_link_window_to_monitor"
+description = "Library which creates a relationship between a window and its monitor."
+link = "https://crates.io/crates/bevy_link_window_to_monitor"
+crate = "bevy_link_window_to_monitor"

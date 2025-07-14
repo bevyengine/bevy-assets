@@ -1,0 +1,4 @@
+name = "bevy_simple_screen_boxing"
+description = "A library that provides a simple API for letterboxing/pillarboxing."
+link = "https://crates.io/crates/bevy_simple_screen_boxing"
+crate = "bevy_simple_screen_boxing"

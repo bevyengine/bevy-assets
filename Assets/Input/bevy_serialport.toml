@@ -1,0 +1,4 @@
+name = "bevy_serialport"
+description = "Async serial port plugin for Bevy game engine"
+link = "https://github.com/foxzool/bevy_serialport"
+crate = "bevy_serialport"
