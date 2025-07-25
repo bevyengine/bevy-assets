@@ -1,5 +1,0 @@
-name = "bevy_new_third_person"
-description = "Simple third person view 3D RPG game template"
-link = "https://github.com/olekspickle/bevy_new_third_person"
-image = "bevy_new_third_person.webp"
-crate = "bevy_new_third_person"
