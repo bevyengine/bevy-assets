@@ -7,7 +7,8 @@ on:
 
 jobs:
   check:
-    runs-on: ubuntu-latest
+    # Run on macos for now to avoid a linux dependency
+    runs-on: macos-latest
     steps:
       - uses: actions/checkout@master
 
