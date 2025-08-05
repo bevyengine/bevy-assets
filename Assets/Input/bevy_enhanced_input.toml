@@ -1,4 +1,4 @@
-name = "Bevy Enhanced Input"
+name = "bevy_enhanced_input"
 description = "Dynamic and contextual input mappings for Bevy, inspired by Unreal Engine Enhanced Input"
 link = "https://crates.io/crates/bevy_enhanced_input"
 crate = "bevy_enhanced_input"
