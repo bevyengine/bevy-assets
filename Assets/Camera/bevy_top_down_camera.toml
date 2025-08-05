@@ -1,0 +1,5 @@
+name = "bevy_top_down_camera"
+description = "A simple, plug & play top down camera for bevy."
+link = "https://crates.io/crates/bevy_top_down_camera"
+image = "bevy_top_down_camera.webp"
+crate = "bevy_top_down_camera"

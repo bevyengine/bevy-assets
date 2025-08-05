@@ -1,0 +1,5 @@
+name = "bevy_new_3d_rpg"
+description = "Comprehensible 3D RPG game template"
+link = "https://github.com/olekspickle/bevy_new_3d_rpg"
+image = "bevy_new_3d_rpg.webp"
+crate = "bevy_new_3d_rpg"
