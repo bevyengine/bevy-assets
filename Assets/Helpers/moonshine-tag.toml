@@ -1,0 +1,4 @@
+name = "Moonshine Tag"
+description = "Cheap, fast, mostly unique, general purpose identifiers designed for Bevy."
+link = "https://crates.io/crates/moonshine-tag"
+crate = "moonshine-tag"
