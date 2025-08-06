@@ -1,0 +1,4 @@
+name = "Moonshine Kind"
+description = "Simple type safety solution for Bevy"
+link = "https://crates.io/crates/moonshine-kind"
+crate = "moonshine-kind"
