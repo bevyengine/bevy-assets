@@ -1,0 +1,4 @@
+name = "Moonshine Object"
+description = "Ergonomic Entity hierarchy traversal and query for Bevy ECS"
+link = "https://crates.io/crates/moonshine-object"
+crate = "moonshine-object"
