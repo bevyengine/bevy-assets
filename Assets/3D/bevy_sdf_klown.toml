@@ -1,0 +1,5 @@
+name = "bevy_sdf_klown"
+description = "A general purpose Raymacher for bevy"
+link = "https://github.com/klownie/bevy_sdf_klown"
+image = "bevy_sdf_klown.png"
+crate = "bevy_sdf_klown"
