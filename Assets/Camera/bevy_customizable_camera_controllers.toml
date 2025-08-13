@@ -1,0 +1,4 @@
+name = "bevy_customizable_camera_controllers"
+description = "Based on bevy_awesome_debug_camera but made more customizable"
+link = "https://github.com/Jezorko/bevy_customizable_camera_controllers"
+crate = "bevy_customizable_camera_controllers"
