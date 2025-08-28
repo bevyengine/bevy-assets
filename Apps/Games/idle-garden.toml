@@ -1,0 +1,4 @@
+name = "Idle Garden"
+description = "Cozy idle game that collects user data and POSTs to server"
+link = "https://github.com/PraxTube/idle-garden"
+image = "idle-garden.png"
