@@ -1,0 +1,5 @@
+name = "bevy_ui_bits"
+description = "A mingy and opinionated collection of UI components for Bevy"
+link = "https://github.com/septum/bevy_ui_bits"
+image = "bevy_ui_bits.png"
+crate = "bevy_ui_bits"
