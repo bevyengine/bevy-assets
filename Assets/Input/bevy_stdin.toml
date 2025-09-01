@@ -1,4 +1,4 @@
-name = "Bevy Stdin"
+name = "bevy_stdin"
 description = "Receive keyboard input from the terminal"
 link = "https://crates.io/crates/bevy_stdin"
 crate = "bevy_stdin"
