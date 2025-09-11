@@ -1,0 +1,3 @@
+name = "bevy-core-nix-flake"
+description = "A nix flake for using the bevy game engine"
+link = "https://github.com/PeDro0210/bevy-core-flake"
