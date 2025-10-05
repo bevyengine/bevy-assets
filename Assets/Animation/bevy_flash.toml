@@ -1,0 +1,5 @@
+name = "bevy_flash"
+description = "A plugin for using Flash animations within Bevy."
+link = "https://github.com/aojiaoxiaolinlin/bevy_flash"
+image = "bevy_flash.webp"
+crate = "bevy_flash"
