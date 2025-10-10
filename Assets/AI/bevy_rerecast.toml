@@ -1,0 +1,5 @@
+name = "bevy_rerecast"
+description = "Rust port of Recast, the industry-standard navigation mesh generator."
+link = "https://github.com/janhohenheim/rerecast"
+crate = "bevy_rerecast"
+image = "rerecast.jpg"
