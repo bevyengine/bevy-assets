@@ -1,5 +1,5 @@
 name = "bevy_rerecast"
-description = "Port of Recast, the industry-standard navigation mesh generator used by Unreal, Unity, Godot, and other game engines."
+description = "Rust port of Recast, the industry-standard navigation mesh generator."
 link = "https://github.com/janhohenheim/rerecast"
 crate = "bevy_rerecast"
 image = "rerecast.jpg"
