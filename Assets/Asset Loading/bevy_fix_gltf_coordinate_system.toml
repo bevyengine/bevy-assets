@@ -1,5 +1,0 @@
-name = "bevy_fix_gltf_coordinate_system"
-description = "Fix Bevy not respecting the glTF coordinate system"
-link = "https://github.com/janhohenheim/bevy_fix_gltf_coordinate_system"
-crate = "bevy_fix_gltf_coordinate_system"
-
