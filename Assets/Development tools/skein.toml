@@ -1,0 +1,5 @@
+name = "skein"
+description = "Insert component data in Blender; load component data via glTF in Bevy"
+link = "https://github.com/rust-adventure/skein"
+image = "skein.png"
+crate = "bevy_skein"
