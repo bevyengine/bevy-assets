@@ -1,4 +1,4 @@
 name = "bevy_prototype_lyon"
-description = "Draw 2D shapes, like triangles, circles, and beziers."
-link = "https://github.com/Nilirad/bevy_prototype_lyon"
+description = "Draw fancy 2D shapes like outlined polygons, lines with caps, or SVG paths."
+link = "https://crates.io/crates/bevy_prototype_lyon"
 crate = "bevy_prototype_lyon"
