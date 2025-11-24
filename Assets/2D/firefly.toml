@@ -1,0 +1,5 @@
+name = "Firefly"
+description = "2d lighting for Bevy"
+link = "https://github.com/PVDoriginal/firefly/"
+image = "firefly.gif"
+crate = "bevy_firefly"
