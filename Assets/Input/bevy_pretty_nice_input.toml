@@ -1,0 +1,4 @@
+name = "bevy-pretty-nice-input"
+description = "A refreshingly complex input crate for Bevy"
+link = "https://github.com/DragonFoxCollective/bevy-pretty-nice-input"
+crate = "bevy-pretty-nice-input"
