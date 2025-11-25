@@ -1,0 +1,4 @@
+name = "bevy-pretty-nice-menus"
+description = "A menu stack abstraction for Bevy"
+link = "https://github.com/DragonFoxCollective/bevy-pretty-nice-menus"
+crate = "bevy-pretty-nice-menus"
