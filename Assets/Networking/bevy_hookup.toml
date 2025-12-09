@@ -1,0 +1,4 @@
+name = "bevy_hookup"
+description = "Easy to use component based networking library for bevy"
+link = "https://crates.io/crates/bevy_hookup_core"
+crate = "bevy_hookup_core"
