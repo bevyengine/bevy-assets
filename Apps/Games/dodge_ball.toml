@@ -1,0 +1,4 @@
+name = "dodge_ball"
+description = "A simple arcade bullet hell game, made using only core engine plugins."
+link = "https://github.com/LunaticDancer/dodge_ball"
+image = "dodge_ball.png"
