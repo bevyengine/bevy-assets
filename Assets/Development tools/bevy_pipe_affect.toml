@@ -1,0 +1,4 @@
+name = "bevy_pipe_affect"
+description = "Write systems as pure functions."
+link = "https://crates.io/crates/bevy_pipe_affect"
+crate = "bevy_pipe_affect"
