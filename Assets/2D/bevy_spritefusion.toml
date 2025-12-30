@@ -1,0 +1,5 @@
+name = "bevy_spritefusion"
+description = "A plugin to import Sprite Fusion maps in Bevy!"
+link = "https://github.com/Hugo-Dz/bevy_spritefusion"
+image = "bevy_spritefusion.png"
+crate = "bevy_spritefusion"
