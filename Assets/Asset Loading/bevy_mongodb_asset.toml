@@ -1,0 +1,4 @@
+name = "bevy_mongodb_asset"
+description = "Load assets from MongoDB"
+link = "https://crates.io/crates/bevy_mongodb_asset"
+crate = "bevy_mongodb_asset"
