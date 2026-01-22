@@ -1,4 +1,5 @@
-name = "Bevy AI Editor"
+name = "bevy_ai_editor"
 description = "A remote level editor plugin allowing AI Agents (OpenCode) to manipulate scenes via Python scripts."
 link = "https://github.com/cats2333/bevy_ai_editor"
+image = "bevy_ai_editor.gif"
 crate = "bevy_ai_editor"
