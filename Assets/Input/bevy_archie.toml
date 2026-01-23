@@ -1,0 +1,4 @@
+name = "bevy_archie"
+description = "Comprehensive controller support with icons, remapping, haptics, gyro, touchpad, and multiplayer"
+link = "https://github.com/greysquirr3l/bevy-archie"
+crate = "bevy_archie"
