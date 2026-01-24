@@ -1,0 +1,5 @@
+name = "rx_bevy"
+description = "Reactive Extensions for Bevy"
+link = "https://github.com/AlexAegis/rx_bevy"
+image = "rx_bevy.png"
+crate = "rx_bevy"
