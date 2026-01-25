@@ -1,0 +1,5 @@
+name = "bevy_procedural_tree"
+description = "Procedural mesh generation of trees (and similar foliage like bushes)"
+link = "https://github.com/Affinator/bevy_procedural_tree"
+image = "bevy_procedural_tree.jpg"
+crate = "bevy_procedural_tree"
