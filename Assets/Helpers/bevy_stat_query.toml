@@ -1,0 +1,4 @@
+name = "bevy_stat_query"
+description = "Versatile RPG stat system."
+link = "https://github.com/mintlu8/bevy_stat_query"
+crate = "bevy_stat_query"

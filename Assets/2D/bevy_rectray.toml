@@ -1,0 +1,5 @@
+name = "bevy_rectray"
+description = "Minimal 2d layout system"
+link = "https://github.com/mintlu8/bevy_rectray"
+image = "bevy_rectray.gif"
+crate = "bevy_rectray"
