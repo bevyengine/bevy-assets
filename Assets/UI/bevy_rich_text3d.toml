@@ -1,0 +1,5 @@
+name = "bevy_rich_text3d"
+description = "Mesh based raster rich text implementation for bevy."
+link = "https://github.com/mintlu8/bevy_rich_text3d"
+crate = "bevy_rich_text3d"
+image = "bevy_rich_text3d.gif"
