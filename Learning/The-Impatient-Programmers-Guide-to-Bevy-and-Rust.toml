@@ -1,0 +1,4 @@
+name = "The Impatient Programmer's Guide to Bevy and Rust"
+description = "A step-by-step series to build a 2D game from scratch with Bevy and Rust."
+link = "https://aibodh.com/books/the-impatient-programmers-guide-to-bevy-and-rust/"
+image = "The-Impatient-Programmers-Guide-to-Bevy-and-Rust.png"
