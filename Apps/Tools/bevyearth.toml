@@ -1,0 +1,4 @@
+name = "Bevy Earth"
+description = "Follow satellites, moon, and space launches around beautiful 3D Earth"
+link = "https://github.com/jwhelland/bevyearth"
+image = "bevyearth.png"
