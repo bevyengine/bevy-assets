@@ -1,3 +1,4 @@
 name = "Using Rapier for Physics"
 link = "https://sburris.xyz/posts/bevy-gravity/"
 description = "Gravity and Physics in the Bevy Game Engine"
+bevy_versions = ["0.4"]

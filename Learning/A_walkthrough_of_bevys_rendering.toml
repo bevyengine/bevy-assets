@@ -1,3 +1,4 @@
 name = "A walkthrough of bevy 0.11 rendering"
 description = "A small post detailing the path a mesh takes through the bevy codebase to finally be shown on screen"
 link = "https://github.com/bevyengine/bevy/discussions/9897"
+bevy_versions = ["0.11"]

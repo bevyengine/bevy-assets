@@ -1,3 +1,4 @@
 name = "Making a p2p web game with rollback"
 description = "Walkthrough on how to use Matchbox and bevy_ggrs to implement a low-latency multiplayer web game"
 link = "https://johanhelsing.studio/posts/extreme-bevy"
+bevy_versions = ["0.17"]
