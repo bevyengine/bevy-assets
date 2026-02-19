@@ -1,5 +1,0 @@
-name = "Official Bevy Examples"
-description = "Learn each Bevy feature from minimal illustrative examples"
-link = "https://github.com/bevyengine/bevy/tree/latest/examples"
-order = 0
-image = "official-bevy-examples.png"
