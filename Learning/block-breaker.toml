@@ -1,0 +1,5 @@
+name = "Block Breaker"
+description = "This workshop covers a genre of games started by Pong, continued by Arkanoid, and still seeing new variations today. Block Breaker is a Bevy workshop that introduces States, ray casting, collision response, and more."
+link = "https://www.rustadventure.dev/block-breaker"
+image = "block-breaker.png"
+bevy_versions = ["0.18"]

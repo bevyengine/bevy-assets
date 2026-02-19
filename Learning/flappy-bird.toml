@@ -1,0 +1,5 @@
+name = "Flappy Bird"
+description = "A flappy bird implementation in Bevy! *Flappy Bird* is meant to give you a taste of Rust through using the Bevy game engine. It is designed for a first-time Bevy user."
+link = "https://www.rustadventure.dev/flappy-bird"
+image = "flappy-bird.png"
+bevy_versions = ["0.18"]
