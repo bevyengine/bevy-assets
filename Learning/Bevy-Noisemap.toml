@@ -1,4 +1,0 @@
-name = "Bevy Noisemap Example"
-description = "How to use Noisemap crate to generate random terrains"
-link = "https://github.com/CiderSlime/bevy_noise_map"
-image = "Bevy-Noisemap.png"
