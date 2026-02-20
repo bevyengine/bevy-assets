@@ -2,3 +2,4 @@ name = "Learn Bevy 0.10"
 description = "Learn Bevy 0.10 Beginner Tutorial Video Series"
 link = "https://youtube.com/playlist?list=PLVnntJRoP85JHGX7rGDu6LaF3fmDDbqyd"
 image = "Learn_Bevy_0-10_Video_Tutorial_Series.png"
+bevy_versions = ["0.10"]
