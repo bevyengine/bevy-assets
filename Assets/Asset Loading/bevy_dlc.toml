@@ -1,5 +1,5 @@
 name = "bevy_dlc"
-description = "Downloadable content (DLC) management for Bevy games, allowing developers to easily manage and distribute additional game content post-release."
+description = "Downloadable content (DLC) management for Bevy games."
 link = "https://github.com/captkirk88/bevy-dlc"
 image = "bevy_dlc.png"
 crate = "bevy-dlc"
