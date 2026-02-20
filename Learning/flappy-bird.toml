@@ -1,0 +1,5 @@
+name = "Flappy Bird"
+description = "Flappy Bird is a workshop designed for a first-time Bevy user."
+link = "https://www.rustadventure.dev/flappy-bird"
+image = "flappy-bird.png"
+bevy_versions = ["0.18"]

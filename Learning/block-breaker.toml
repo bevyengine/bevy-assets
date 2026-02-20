@@ -1,0 +1,5 @@
+name = "Block Breaker"
+description = "This workshop introduces States, ray casting, collision response, and more."
+link = "https://www.rustadventure.dev/block-breaker"
+image = "block-breaker.png"
+bevy_versions = ["0.18"]
