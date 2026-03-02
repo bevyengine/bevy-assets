@@ -1,0 +1,5 @@
+name = "bevy_fontmesh"
+description = "Generate 3D text meshes from TrueType/OpenType fonts with per-glyph materials and animation"
+link = "https://github.com/PoHsuanLai/bevy_fontmesh"
+image = "bevy_fontmesh.gif"
+crate = "bevy_fontmesh"
