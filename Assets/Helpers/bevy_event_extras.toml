@@ -1,0 +1,4 @@
+name = "bevy_event_extras"
+description = "A tiny library adding some common utilities for when using lots of events"
+link = "https://crates.io/crates/bevy_event_extras"
+crate = "bevy_event_extras"
