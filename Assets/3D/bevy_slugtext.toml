@@ -1,0 +1,5 @@
+name = "bevy_slugtext"
+description = "GPU 3D text rendering plugin for Bevy."
+link = "https://github.com/yuanyan3060/bevy_slugtext"
+image = "bevy_slugtext.png"
+crate = "bevy_slugtext"
