@@ -1,0 +1,11 @@
+# Name of your asset.
+name = "bevy_stdb"
+
+# Description of your asset. It should be less than 100 characters and not contain formatting.
+description = "A Bevy integration for SpacetimeDB"
+
+# Where can your asset be found. It can be a link to crates.io, github, gitlab or similar.
+link = "https://github.com/onx2/bevy_stdb"
+
+# Optional crate name on crates.io. If there's more than one crate, pick any one of them.
+crate = "bevy_stdb"
