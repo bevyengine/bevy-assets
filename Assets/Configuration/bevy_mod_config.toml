@@ -1,0 +1,4 @@
+name = "bevy_mod_config"
+description = "Modular configuration management framework for persistence and editor UI"
+link = "https://github.com/SOF3/bevy_mod_config"
+crate = "bevy_mod_config"
