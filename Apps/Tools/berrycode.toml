@@ -1,0 +1,5 @@
+name = "BerryCode"
+description = "A native IDE for Bevy. Scene editor, ECS inspector, code editor, written in Bevy + WGPU."
+link = "https://github.com/KyosukeIshizu1008/berryscode"
+image = "berrycode.png"
+crate = "berrycode"
