@@ -1,0 +1,5 @@
+name = "bevy_enhanced_camera"
+description = "A minimal camera plugin for Bevy that natively uses bevy_enhanced_input."
+link = "https://github.com/jayhwkns/bevy_enhanced_camera"
+image = "bevy_enhanced_camera.gif"
+crate = "bevy_enhanced_camera"
