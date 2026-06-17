@@ -1,0 +1,5 @@
+name = "bevy_gltf_draco"
+description = "Draco mesh compression decoder plugin for Bevy's glTF loader"
+link = "https://github.com/jiangheng90-opensource/bevy_gltf_draco"
+image = "bevy_gltf_draco.png"
+crate = "bevy_gltf_draco"
