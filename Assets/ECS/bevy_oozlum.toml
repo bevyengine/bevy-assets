@@ -1,4 +1,5 @@
 name = "bevy_oozlum"
 description = "Write reversible systems, commands and schedules"
 link = "https://github.com/urben1680/bevy_oozlum"
+image = "bevy_oozlum.png"
 crate = "bevy_oozlum"
