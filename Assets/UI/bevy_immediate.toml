@@ -1,0 +1,5 @@
+name = "bevy_immediate"
+description = "A simple, egui-inspired immediate mode UI library for Bevy, fully powered by retained ECS, compatible with Bevy UI."
+link = "https://github.com/PPakalns/bevy_immediate/"
+image = "bevy_immediate.png"
+crate = "bevy_immediate"
