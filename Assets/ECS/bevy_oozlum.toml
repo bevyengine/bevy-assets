@@ -1,0 +1,4 @@
+name = "bevy_oozlum"
+description = "Write reversible systems, commands and schedules"
+link = "https://github.com/urben1680/bevy_oozlum"
+crate = "bevy_oozlum"
