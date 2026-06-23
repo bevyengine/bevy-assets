@@ -1,0 +1,9 @@
+name = "bevy_voxel_plot"
+
+description = "An efficient voxel plot with support for transparency for bevy."
+
+link = "https://github.com/hacknus/bevy_voxel_plot"
+
+image = "bevy_voxel_plot.png"
+
+crate = "bevy_voxel_plot"
