@@ -1,0 +1,5 @@
+name = "Renzora Engine"
+description = "Visual Bevy Editor"
+link = "https://github.com/renzora/engine"
+image = "renzora-engine.png"
+crate = "renzora"
