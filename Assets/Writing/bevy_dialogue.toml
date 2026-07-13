@@ -1,0 +1,5 @@
+name = "bevy_dialogue"
+description = "ECS-friendly dialogue system for Bevy"
+link = "https://crates.io/crates/bevy_dialogue"
+crate = "bevy_dialogue"
+image = "bevy_dialogue.png"
