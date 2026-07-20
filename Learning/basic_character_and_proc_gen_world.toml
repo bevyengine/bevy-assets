@@ -1,0 +1,4 @@
+name = "2D World Generation"
+link = "https://github.com/vivaan-yadav/rpg"
+description = "Simple procedural generated world with top down character"
+bevy_versions = ["0.19.0"]
