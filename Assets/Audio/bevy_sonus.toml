@@ -1,0 +1,4 @@
+name = "bevy_sonus"
+description = "Spatial audio plugin with 3-band crossover occlusion, material transmission, and diffraction"
+link = "https://github.com/zem-invictus/bevy_sonus"
+crate = "bevy_sonus"
