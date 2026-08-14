@@ -1,0 +1,4 @@
+name = "bevy-opus-audio"
+description = "Pure-Rust Ogg-Opus audio decoding for Bevy (zero C/FFI)"
+link = "https://github.com/swordreforge/bevy-opus-audio"
+crate = "bevy-opus-audio"
