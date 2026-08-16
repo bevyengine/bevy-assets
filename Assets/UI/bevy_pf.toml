@@ -1,0 +1,4 @@
+name = "bevy_pf"
+description = "Write Bevy UI in XAML: WPF/MAUI controls, styles, triggers, templates and data binding"
+link = "https://github.com/edgarhsanchez/bevy_pf"
+crate = "bevy_pf"
