@@ -1,0 +1,5 @@
+name = "bevy_pages"
+description = "Lightweight framework to build UIs with XML and an extended widget collection."
+link = "https://crates.io/crates/bevy_pages"
+image = "bevy_pages.png"
+crate = "bevy_pages"
