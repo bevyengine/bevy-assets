@@ -1,0 +1,5 @@
+name = "bevytiles"
+description = "Geo-spatial terrain streaming: real-world imagery and elevation tiles."
+link = "https://crates.io/crates/bevytiles"
+image = "bevytiles.webp"
+crate = "bevytiles"
