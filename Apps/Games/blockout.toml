@@ -1,0 +1,4 @@
+name = "Blockout"
+description = "A 3D puzzle game where falling pieces complete and clear layers in a pit."
+link = "https://github.com/boleque/blockout"
+image = "blockout.png"
