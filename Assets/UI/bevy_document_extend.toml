@@ -1,0 +1,4 @@
+name = "Bevy Document Extend"
+description = "Pure-Rust document rendering for Bevy"
+link = "https://github.com/swordreforge/bevy_document_extend"
+crate = "bevy_document_extend"
