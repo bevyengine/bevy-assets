@@ -1,0 +1,5 @@
+name = "mimas"
+description = "A flexible, statically typed scripting language for Rust featuring a Bevy plugin."
+link = "https://github.com/imlazyeye/mimas"
+image = "mimas_logo.png"
+crate = "mimas-bevy"
