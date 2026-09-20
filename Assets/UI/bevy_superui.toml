@@ -1,0 +1,5 @@
+name = "bevy_superui"
+description = "Typescript (TSX) reactive web-based UI framework, hot reload and html/css/js APIs"
+link = "https://strowk.github.io/bevy_superui/"
+image = "bevy_superui.gif"
+crate = "superui"
