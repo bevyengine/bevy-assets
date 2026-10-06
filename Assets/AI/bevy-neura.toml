@@ -1,0 +1,5 @@
+name = "bevy-neura"
+description = "Build AI-native games in Bevy."
+link = "https://github.com/formetaohy/bevy-neura"
+image = "bevy-neura.png"
+crate = "bevy-neura"
