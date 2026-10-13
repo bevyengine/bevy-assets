@@ -1,0 +1,5 @@
+name = "Feuclide"
+description = "A game engine on bevy_ecs whose core never assumes Euclidean geometry: H3, S3, E3 and quotients"
+link = "https://github.com/Dastfox/feuclide"
+image = "feuclide.gif"
+crate = "feuclide"
