@@ -1,0 +1,4 @@
+name = "bevy_looking_glass"
+description = "Experimental Looking Glass display output with multiview rendering and Quilt capture."
+link = "https://github.com/matsuvr/bevy-looking-glass-rs"
+crate = "bevy_looking_glass"
