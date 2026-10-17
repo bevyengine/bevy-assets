@@ -1,0 +1,4 @@
+name = "Bevy Event Orchestrator"
+description = "Self-orchestrating conditional events with chaining, cooldowns, and chance-based execution."
+link = "https://crates.io/crates/bevy-event-orchestrator"
+crate = "bevy-event-orchestrator"
