@@ -1,0 +1,5 @@
+name = "bevy_open_vat"
+description = "OpenVAT (Vertex Animation Texture) plugin for Bevy"
+link = "https://github.com/hk416/bevy_open_vat"
+image = "bevy_open_vat.gif"
+crate = "bevy_open_vat"
