@@ -1,0 +1,4 @@
+name = "bevy_a5"
+description = "A Bevy plugin that puts the A5 pentagonal cell hierarchy under your game world. bevy_a5 is to spherical games what big_space is to deep-space games: the same floating-origin precision pattern, but the cell space is the surface of a planet instead of an integer Cartesian grid."
+link = "https://crates.io/crates/bevy_a5"
+crate = "bevy_a5"
