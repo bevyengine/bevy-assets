@@ -1,0 +1,7 @@
+---
+name = "Bevy ArcStudio"
+description = "AI-first procedural 3D environment studio and scene editor with BRP control"
+link = "https://github.com/Zirich90/bevy_arc_studio"
+image = "bevy_arc_studio.png"
+
+---
