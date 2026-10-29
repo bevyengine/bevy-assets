@@ -1,0 +1,5 @@
+name = "bevy_procedural_fx"
+description = "Play sprite-sheet VFX made in ProceduralFX Studio: looping, one-shot, live reload."
+link = "https://github.com/loksangho/proceduralfx-studio/tree/main/bevy_procedural_fx"
+image = "bevy_procedural_fx.png"
+crate = "bevy_procedural_fx"
