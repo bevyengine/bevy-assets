@@ -1,0 +1,6 @@
+name = "repame"
+description = "Headless bevy_ecs simulation with custom wgpu viewports and a Repose UI shell (closer to a game-engine than a framework)"
+link = "https://github.com/mlm-games/repame"
+image = "repame-web-nt.gif"
+licenses = ["MPL-2.0"]
+bevy_versions = ["0.20"]
