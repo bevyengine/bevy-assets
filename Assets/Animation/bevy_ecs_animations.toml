@@ -1,0 +1,5 @@
+name = "bevy_ecs_animations"
+description = "ECS-first timeline management for animating anything"
+link = "https://crates.io/crates/bevy_ecs_animations"
+image = "bevy_ecs_animations.webp"
+crate = "bevy_ecs_animations"
