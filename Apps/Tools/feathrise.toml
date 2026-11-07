@@ -1,0 +1,4 @@
+name = "Feathrise"
+description = "A Bevy 3D editor for terrain sculpting, vegetation painting, and live project previews."
+link = "https://github.com/feathrise/feathrise"
+image = "feathrise.webp"
