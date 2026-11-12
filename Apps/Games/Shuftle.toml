@@ -1,4 +1,4 @@
 name = "Shuftle"
-description = "A (very WIP) collection of classical card games"
-link = "https://Shuftle/shuftle-client"
-image = "Shuftle.png"
+description = "A (very WIP) collection of classical turn-based games"
+link = "https://vitkorp.eu/shuftle/"
+image = "Shuftle.gif"
