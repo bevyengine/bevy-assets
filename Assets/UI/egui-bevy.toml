@@ -1,0 +1,5 @@
+name = "egui-bevy"
+description = "Integration between egui and Bevy"
+image = "egui-bevy-v015.png"
+link = "https://github.com/rustbasic/egui-bevy"
+crate = "egui-bevy"
