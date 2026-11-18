@@ -1,0 +1,6 @@
+name = "Playmand"
+description = "Agent skill for Claude Code and Codex: version-matched Bevy 0.20 APIs, ECS, GLB, video capture"
+link = "https://github.com/edison7009/Playmand"
+image = "playmand.webp"
+licenses = ["MIT"]
+bevy_versions = ["0.20"]
