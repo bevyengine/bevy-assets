@@ -1,0 +1,4 @@
+name = "ssplayer-bevy"
+description = "Plays animations from SpriteStudio, a 2D animation tool that adds bones, mesh and effects to art."
+link = "https://github.com/cri-middleware/SSPlayerForWgpu/tree/main/libs/ssplayer-bevy"
+crate = "ssplayer-bevy"
